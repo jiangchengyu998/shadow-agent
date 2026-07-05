@@ -5,7 +5,7 @@ from pathlib import Path
 from typing import Any
 
 
-TranscriptSegment = dict[str, float | int | str]
+TranscriptSegment = dict[str, float | int | str | list[int]]
 
 
 def transcribe_audio(input_path: Path, model_size: str = "small") -> list[TranscriptSegment]:
@@ -51,4 +51,3 @@ def load_transcript(transcript_path: Path) -> list[TranscriptSegment]:
     if not isinstance(data, list):
         raise ValueError(f"Transcript must be a list: {transcript_path}")
     return data
-

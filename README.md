@@ -88,13 +88,19 @@ Everything with email depends on the situation.
 A really nice way to do it is to make the next step clear.
 ```
 
+一行就是一个 target。 如果你希望多个句子被剪成同一个音频片段，就把它们写在同一行：
+
+```text
+Everything with email depends on the situation. A really nice way to do it is to make the next step clear.
+```
+
 然后运行：
 
 ```bash
 python -m shadow_agent.main input/emails.mp3 --targets targets.txt
 ```
 
-程序会把 `targets.txt` 里的每一行和转写文本做 fuzzy matching，并把匹配结果写入：
+程序会把 `targets.txt` 里的每一行和转写文本做 fuzzy matching。 如果一行 target 对应连续的多个转写片段，程序会把这些片段合并成一个剪辑范围，并把匹配结果写入：
 
 ```text
 output/selected_segments.json
@@ -206,4 +212,3 @@ shadow-agent/
 - 为每个句子生成中文翻译、表达讲解和发音提示。
 - 增加可复用的测试样例。
 - 后续再考虑 LLM-based sentence scoring。
-
