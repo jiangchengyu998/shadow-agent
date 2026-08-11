@@ -10,6 +10,8 @@ from shadow_agent.transcribe import TranscriptSegment
 
 SelectedSegment = TranscriptSegment
 
+MAX_MANUAL_TARGET_WINDOW_SIZE = 80
+
 
 def load_targets(targets_path: Path) -> list[str]:
     if not targets_path.exists():
@@ -130,7 +132,9 @@ def _merge_segments(segments: list[TranscriptSegment]) -> TranscriptSegment:
 def _guess_max_window_size(target: str) -> int:
     word_count = len(_normalize_for_match(target).split())
     sentence_marks = sum(target.count(mark) for mark in ".!?。！？")
-    return min(40, max(1, sentence_marks + 4, word_count // 3 + 3))
+    # faster-whisper often splits natural conversation into short 2-4 second chunks.
+    # Long manual targets need enough adjacent chunks to cover the full requested passage.
+    return min(MAX_MANUAL_TARGET_WINDOW_SIZE, max(1, sentence_marks + 4, word_count // 8 + 8))
 
 
 def _normalize_for_match(text: str) -> str:
