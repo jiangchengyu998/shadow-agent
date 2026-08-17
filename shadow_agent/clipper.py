@@ -8,7 +8,7 @@ from shadow_agent.utils import slugify
 
 
 PRE_BUFFER_SECONDS = 0.5
-POST_BUFFER_SECONDS = 0.8
+POST_BUFFER_SECONDS = 0.0
 
 
 def clip_segments(
