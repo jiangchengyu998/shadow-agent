@@ -12,6 +12,8 @@ shadow-agent 是一个本地优先的英语 shadowing 学习包生成工具。
 4. 使用 `ffmpeg`/`pydub` 把选中的句子切成独立 MP3。
 5. 生成 `README_学习说明.md` 和 `shadow_pack.zip`。
 
+原速和 0.8x 慢速片段的开头、结尾都会各添加 1 秒静音，方便准备和跟读。静音不包含额外的原音频内容；当前切片在句首前、句尾后各保留 0.1 秒的原音频缓冲。若句首缺字或句尾混入其他内容，需要检查转写时间戳，添加静音不会修正时间边界。此设置对重新生成的学习包生效。
+
 ## 环境要求
 
 - macOS
@@ -106,6 +108,10 @@ python -m shadow_agent.main input/emails.mp3 --targets targets.txt
 output/selected_segments.json
 ```
 
+新转写会保存逐词时间戳，匹配时可以从转写片段内部开始、结束，减少句首漏词和句尾带入下一句。匹配分数同时考虑整体文本相似度、长度和首尾词语；分数不是准确率。未达到阈值的目标会显示警告并跳过。
+
+旧 `transcript.json` 如果没有 `words`，只能按整段边界匹配。需要重新执行转写命令才能获得逐词时间戳；`--selected-segments` 只使用已有时间，不会修正旧边界。逐词时间戳也可能有误差，必要时仍需试听微调。
+
 如果匹配不到，可以降低阈值：
 
 ```bash
@@ -113,6 +119,18 @@ python -m shadow_agent.main input/emails.mp3 --targets targets.txt --min-score 6
 ```
 
 ## 输出文件
+
+### 调整时间后重新切片
+
+编辑上次输出的 `selected_segments.json`，把 `start` 调小可以提前开始，把 `end` 调小可以提前结束，单位都是秒。然后传入原始音频和修改后的 JSON：
+
+```bash
+python -m shadow_agent.main input/emails.mp3 --selected-segments output/selected_segments.json
+```
+
+如果上次结果在 `output/run_.../`，请使用该目录下 JSON 的实际路径。此命令跳过转写和选句，重新生成原速、慢速音频、学习说明及 ZIP。已有输出会保留，新结果写入新的时间戳目录；命令最后会显示 ZIP 路径。新目录也会保存修改后的 `selected_segments.json`，并在原 JSON 同目录存在 `transcript.json` 时复制它。
+
+句首前、句尾后各保留 0.1 秒原音频缓冲；两种速度的片段前后各加 1 秒静音。下次微调可以继续编辑原 JSON 并重复运行此命令。
 
 默认输出到 `output/`：
 

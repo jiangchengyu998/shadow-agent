@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import shutil
 import sys
 from pathlib import Path
 
@@ -9,6 +10,7 @@ from shadow_agent.packer import build_study_readme, build_zip
 from shadow_agent.selector import (
     auto_select_segments,
     load_targets,
+    load_selected_segments,
     save_selected_segments,
     select_by_targets,
 )
@@ -22,6 +24,11 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument("input", type=Path, help="Input audio/video file, for example input/sample.mp3")
     parser.add_argument(
+        "--selected-segments",
+        type=Path,
+        help="Reclip an edited selected_segments.json, skipping transcription and selection.",
+    )
+    parser.add_argument(
         "--targets",
         type=Path,
         default=Path("targets.txt"),
@@ -33,11 +40,13 @@ def parse_args() -> argparse.Namespace:
         default=Path("output"),
         help="Output directory. Defaults to output/.",
     )
+    # Larger models generally need more memory/time; ignored when re-clipping.
     parser.add_argument(
         "--model",
         default="small",
         help="faster-whisper model size. Defaults to small.",
     )
+    # Manual matching threshold (0-100); lower values accept more, potentially worse matches.
     parser.add_argument(
         "--min-score",
         type=int,
@@ -51,19 +60,27 @@ def run() -> Path:
     args = parse_args()
     input_path = validate_input_file(args.input)
     ensure_ffmpeg()
-    output_dir = create_output_dir(args.output)
-
-    print("[1/4] Transcribing audio...")
-    transcript = transcribe_audio(input_path, model_size=args.model)
-    transcript_path = output_dir / "transcript.json"
-    save_transcript(transcript, transcript_path)
-
-    print("[2/4] Selecting shadowing sentences...")
-    if args.targets.exists():
-        targets = load_targets(args.targets)
-        selected_segments = select_by_targets(transcript, targets, min_score=args.min_score)
+    if args.selected_segments is not None:
+        print("[1/4] Loading selected segments (skipping transcription)...")
+        selected_segments = load_selected_segments(args.selected_segments)
+        output_dir = create_output_dir(args.output)
+        original_transcript = args.selected_segments.expanduser().parent / "transcript.json"
+        if original_transcript.is_file():
+            shutil.copyfile(original_transcript, output_dir / "transcript.json")
+        print("[2/4] Using edited timestamps (skipping selection)...")
     else:
-        selected_segments = auto_select_segments(transcript)
+        output_dir = create_output_dir(args.output)
+        print("[1/4] Transcribing audio...")
+        transcript = transcribe_audio(input_path, model_size=args.model)
+        transcript_path = output_dir / "transcript.json"
+        save_transcript(transcript, transcript_path)
+
+        print("[2/4] Selecting shadowing sentences...")
+        if args.targets.exists():
+            targets = load_targets(args.targets)
+            selected_segments = select_by_targets(transcript, targets, min_score=args.min_score)
+        else:
+            selected_segments = auto_select_segments(transcript)
     selected_path = output_dir / "selected_segments.json"
     save_selected_segments(selected_segments, selected_path)
 

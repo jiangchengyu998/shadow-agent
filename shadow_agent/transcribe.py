@@ -5,7 +5,7 @@ from pathlib import Path
 from typing import Any
 
 
-TranscriptSegment = dict[str, float | int | str | list[int]]
+TranscriptSegment = dict[str, Any]
 
 
 def transcribe_audio(input_path: Path, model_size: str = "small") -> list[TranscriptSegment]:
@@ -16,8 +16,11 @@ def transcribe_audio(input_path: Path, model_size: str = "small") -> list[Transc
             "faster-whisper is not installed. Run: pip install -r requirements.txt"
         ) from exc
 
+    # model_size chooses the transcription model (default: small).
+    # CPU + int8 keeps execution local and reduces model memory use on macOS.
     model = WhisperModel(model_size, device="cpu", compute_type="int8")
-    segments, _info = model.transcribe(str(input_path))
+    # Word timestamps allow manual targets to start/end inside a Whisper segment.
+    segments, _info = model.transcribe(str(input_path), word_timestamps=True)
 
     transcript: list[TranscriptSegment] = []
     for index, segment in enumerate(segments, start=1):
@@ -30,6 +33,10 @@ def transcribe_audio(input_path: Path, model_size: str = "small") -> list[Transc
                 "start": round(float(segment.start), 2),
                 "end": round(float(segment.end), 2),
                 "text": text,
+                "words": [
+                    {"word": word.word, "start": float(word.start), "end": float(word.end)}
+                    for word in (segment.words or [])
+                ],
             }
         )
 

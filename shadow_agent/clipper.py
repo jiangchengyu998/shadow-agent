@@ -7,8 +7,15 @@ from shadow_agent.transcribe import TranscriptSegment
 from shadow_agent.utils import slugify
 
 
-PRE_BUFFER_SECONDS = 0.5
-POST_BUFFER_SECONDS = 0.0
+# Seconds of SOURCE audio before start; clamped at the file start.
+# Increase to recover initial sounds; decrease to exclude the previous sentence.
+PRE_BUFFER_SECONDS = 1
+# Seconds of SOURCE audio after end; clamped at the file end.
+# Increase to recover final sounds; decrease to exclude the next sentence.
+POST_BUFFER_SECONDS = 1
+# Generated silence in milliseconds at EACH end (1000 = 1 second).
+# Independent of source buffers; applied after slowing so both versions get equal silence.
+SILENCE_MS = 10
 
 
 def clip_segments(
@@ -42,12 +49,17 @@ def clip_segments(
         slow_clip_path = slow_clips_dir / name.replace(".mp3", "_0.8x.mp3")
 
         clip = audio[start_ms:end_ms]
-        clip.export(clip_path, format="mp3")
+        silence = AudioSegment.silent(duration=SILENCE_MS, frame_rate=clip.frame_rate)
+        silence = silence.set_channels(clip.channels).set_sample_width(clip.sample_width)
+        (silence + clip + silence).export(clip_path, format="mp3")
 
         # Lowering frame rate changes playback speed while keeping pitch handling simple for the MVP.
+        # 0.8 means 80% speed and 1.25x duration; this method also lowers pitch.
+        # If changed, update the 0.8x folder/file names and README labels too.
         slow_clip = clip._spawn(clip.raw_data, overrides={"frame_rate": int(clip.frame_rate * 0.8)})
         slow_clip = slow_clip.set_frame_rate(clip.frame_rate)
-        slow_clip.export(slow_clip_path, format="mp3")
+        # Pad after slowing down so both versions have SILENCE_MS at each end.
+        (silence + slow_clip + silence).export(slow_clip_path, format="mp3")
 
         results.append(
             {
