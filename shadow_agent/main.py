@@ -69,7 +69,8 @@ def run() -> Path:
             shutil.copyfile(original_transcript, output_dir / "transcript.json")
         print("[2/4] Using edited timestamps (skipping selection)...")
     else:
-        output_dir = create_output_dir(args.output)
+        target_prefix = args.targets.stem if args.targets.is_file() else None
+        output_dir = create_output_dir(args.output, prefix=target_prefix)
         print("[1/4] Transcribing audio...")
         transcript = transcribe_audio(input_path, model_size=args.model)
         transcript_path = output_dir / "transcript.json"

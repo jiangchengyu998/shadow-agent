@@ -149,7 +149,9 @@ output/
 └── shadow_pack.zip
 ```
 
-如果 `output/` 里已经有文件，程序会创建时间戳目录，例如：
+使用 target 文件时，输出目录会带上文件名（不含扩展名）。例如 `--targets targets-meetings.txt` 会输出到 `output/targets-meetings/`，再次运行会创建 `output/targets-meetings_run_时间戳/`，保留之前的结果。`--output` 指定的目录也遵循此规则。
+
+没有 target 文件时，如果 `output/` 里已经有文件，程序会创建时间戳目录，例如：
 
 ```text
 output/run_20260701_143000/

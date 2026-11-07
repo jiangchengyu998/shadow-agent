@@ -26,8 +26,19 @@ def ensure_ffmpeg() -> None:
         raise RuntimeError("ffmpeg was not found. Install it with: brew install ffmpeg")
 
 
-def create_output_dir(base_dir: Path = Path("output")) -> Path:
+def create_output_dir(base_dir: Path = Path("output"), prefix: str | None = None) -> Path:
     base_dir = base_dir.resolve()
+    if prefix:
+        base_dir.mkdir(parents=True, exist_ok=True)
+        output_dir = base_dir / prefix
+        if not output_dir.exists():
+            output_dir.mkdir()
+            return output_dir
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S_%f")
+        run_dir = base_dir / f"{prefix}_run_{timestamp}"
+        run_dir.mkdir()
+        return run_dir
+
     if not base_dir.exists():
         base_dir.mkdir(parents=True)
         return base_dir
