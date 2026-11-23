@@ -1,0 +1,6474 @@
+[
+  {
+    "id": 1,
+    "start": 0.0,
+    "end": 4.92,
+    "text": "Hello! Welcome to 6 Minute English from BBC Learning English. I'm Phil.",
+    "words": [
+      {
+        "word": " Hello!",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " Welcome",
+        "start": 0.6,
+        "end": 0.94
+      },
+      {
+        "word": " to",
+        "start": 0.94,
+        "end": 1.26
+      },
+      {
+        "word": " 6",
+        "start": 1.26,
+        "end": 1.62
+      },
+      {
+        "word": " Minute",
+        "start": 1.62,
+        "end": 1.92
+      },
+      {
+        "word": " English",
+        "start": 1.92,
+        "end": 2.34
+      },
+      {
+        "word": " from",
+        "start": 2.34,
+        "end": 2.68
+      },
+      {
+        "word": " BBC",
+        "start": 2.68,
+        "end": 3.12
+      },
+      {
+        "word": " Learning",
+        "start": 3.12,
+        "end": 3.66
+      },
+      {
+        "word": " English.",
+        "start": 3.66,
+        "end": 4.02
+      },
+      {
+        "word": " I'm",
+        "start": 4.46,
+        "end": 4.7
+      },
+      {
+        "word": " Phil.",
+        "start": 4.7,
+        "end": 4.92
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "start": 5.22,
+    "end": 9.98,
+    "text": "And I'm Georgie. Did you know that you can now watch a video version of this podcast?",
+    "words": [
+      {
+        "word": " And",
+        "start": 5.22,
+        "end": 5.46
+      },
+      {
+        "word": " I'm",
+        "start": 5.46,
+        "end": 5.76
+      },
+      {
+        "word": " Georgie.",
+        "start": 5.76,
+        "end": 6.22
+      },
+      {
+        "word": " Did",
+        "start": 6.46,
+        "end": 6.54
+      },
+      {
+        "word": " you",
+        "start": 6.54,
+        "end": 6.72
+      },
+      {
+        "word": " know",
+        "start": 6.72,
+        "end": 6.88
+      },
+      {
+        "word": " that",
+        "start": 6.88,
+        "end": 7.14
+      },
+      {
+        "word": " you",
+        "start": 7.14,
+        "end": 7.34
+      },
+      {
+        "word": " can",
+        "start": 7.34,
+        "end": 7.52
+      },
+      {
+        "word": " now",
+        "start": 7.52,
+        "end": 7.7
+      },
+      {
+        "word": " watch",
+        "start": 7.7,
+        "end": 8.02
+      },
+      {
+        "word": " a",
+        "start": 8.02,
+        "end": 8.24
+      },
+      {
+        "word": " video",
+        "start": 8.24,
+        "end": 8.54
+      },
+      {
+        "word": " version",
+        "start": 8.54,
+        "end": 9.12
+      },
+      {
+        "word": " of",
+        "start": 9.12,
+        "end": 9.38
+      },
+      {
+        "word": " this",
+        "start": 9.38,
+        "end": 9.6
+      },
+      {
+        "word": " podcast?",
+        "start": 9.6,
+        "end": 9.98
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "start": 10.42,
+    "end": 13.12,
+    "text": "Find it at bbclearningenglish.com.",
+    "words": [
+      {
+        "word": " Find",
+        "start": 10.42,
+        "end": 10.64
+      },
+      {
+        "word": " it",
+        "start": 10.64,
+        "end": 10.84
+      },
+      {
+        "word": " at",
+        "start": 10.84,
+        "end": 11.1
+      },
+      {
+        "word": " bbclearningenglish",
+        "start": 11.1,
+        "end": 12.38
+      },
+      {
+        "word": ".com.",
+        "start": 12.38,
+        "end": 13.12
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "start": 16.28,
+    "end": 22.36,
+    "text": "So Georgie, do you often spend time with people who are much older than you or much",
+    "words": [
+      {
+        "word": " So",
+        "start": 16.28,
+        "end": 16.5
+      },
+      {
+        "word": " Georgie,",
+        "start": 16.5,
+        "end": 17.32
+      },
+      {
+        "word": " do",
+        "start": 17.74,
+        "end": 17.9
+      },
+      {
+        "word": " you",
+        "start": 17.9,
+        "end": 18.02
+      },
+      {
+        "word": " often",
+        "start": 18.02,
+        "end": 18.3
+      },
+      {
+        "word": " spend",
+        "start": 18.3,
+        "end": 18.6
+      },
+      {
+        "word": " time",
+        "start": 18.6,
+        "end": 19.04
+      },
+      {
+        "word": " with",
+        "start": 19.04,
+        "end": 19.28
+      },
+      {
+        "word": " people",
+        "start": 19.28,
+        "end": 19.6
+      },
+      {
+        "word": " who",
+        "start": 19.6,
+        "end": 19.84
+      },
+      {
+        "word": " are",
+        "start": 19.84,
+        "end": 20.02
+      },
+      {
+        "word": " much",
+        "start": 20.02,
+        "end": 20.62
+      },
+      {
+        "word": " older",
+        "start": 20.62,
+        "end": 21.26
+      },
+      {
+        "word": " than",
+        "start": 21.26,
+        "end": 21.5
+      },
+      {
+        "word": " you",
+        "start": 21.5,
+        "end": 21.7
+      },
+      {
+        "word": " or",
+        "start": 21.7,
+        "end": 22.08
+      },
+      {
+        "word": " much",
+        "start": 22.08,
+        "end": 22.36
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "start": 22.36,
+    "end": 23.14,
+    "text": "younger than you?",
+    "words": [
+      {
+        "word": " younger",
+        "start": 22.36,
+        "end": 22.68
+      },
+      {
+        "word": " than",
+        "start": 22.68,
+        "end": 22.98
+      },
+      {
+        "word": " you?",
+        "start": 22.98,
+        "end": 23.14
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "start": 23.36,
+    "end": 28.78,
+    "text": "I do actually because I'm in a choir so there's quite a wide range of ages. Lots",
+    "words": [
+      {
+        "word": " I",
+        "start": 23.36,
+        "end": 23.56
+      },
+      {
+        "word": " do",
+        "start": 23.56,
+        "end": 23.86
+      },
+      {
+        "word": " actually",
+        "start": 23.86,
+        "end": 24.32
+      },
+      {
+        "word": " because",
+        "start": 24.32,
+        "end": 24.76
+      },
+      {
+        "word": " I'm",
+        "start": 24.76,
+        "end": 25.2
+      },
+      {
+        "word": " in",
+        "start": 25.2,
+        "end": 25.34
+      },
+      {
+        "word": " a",
+        "start": 25.34,
+        "end": 25.5
+      },
+      {
+        "word": " choir",
+        "start": 25.5,
+        "end": 25.84
+      },
+      {
+        "word": " so",
+        "start": 25.84,
+        "end": 26.26
+      },
+      {
+        "word": " there's",
+        "start": 26.26,
+        "end": 26.48
+      },
+      {
+        "word": " quite",
+        "start": 26.48,
+        "end": 26.66
+      },
+      {
+        "word": " a",
+        "start": 26.66,
+        "end": 26.82
+      },
+      {
+        "word": " wide",
+        "start": 26.82,
+        "end": 27.16
+      },
+      {
+        "word": " range",
+        "start": 27.16,
+        "end": 27.58
+      },
+      {
+        "word": " of",
+        "start": 27.58,
+        "end": 27.96
+      },
+      {
+        "word": " ages.",
+        "start": 27.96,
+        "end": 28.38
+      },
+      {
+        "word": " Lots",
+        "start": 28.62,
+        "end": 28.78
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "start": 28.78,
+    "end": 30.72,
+    "text": "of older people, lots of younger people.",
+    "words": [
+      {
+        "word": " of",
+        "start": 28.78,
+        "end": 28.96
+      },
+      {
+        "word": " older",
+        "start": 28.96,
+        "end": 29.14
+      },
+      {
+        "word": " people,",
+        "start": 29.14,
+        "end": 29.5
+      },
+      {
+        "word": " lots",
+        "start": 29.72,
+        "end": 29.98
+      },
+      {
+        "word": " of",
+        "start": 29.98,
+        "end": 30.12
+      },
+      {
+        "word": " younger",
+        "start": 30.12,
+        "end": 30.32
+      },
+      {
+        "word": " people.",
+        "start": 30.32,
+        "end": 30.72
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "start": 31.14,
+    "end": 37.04,
+    "text": "We can call an age group of people a generation and you might feel that it's",
+    "words": [
+      {
+        "word": " We",
+        "start": 31.14,
+        "end": 31.32
+      },
+      {
+        "word": " can",
+        "start": 31.32,
+        "end": 31.54
+      },
+      {
+        "word": " call",
+        "start": 31.54,
+        "end": 31.86
+      },
+      {
+        "word": " an",
+        "start": 31.86,
+        "end": 32.16
+      },
+      {
+        "word": " age",
+        "start": 32.16,
+        "end": 32.74
+      },
+      {
+        "word": " group",
+        "start": 32.74,
+        "end": 33.02
+      },
+      {
+        "word": " of",
+        "start": 33.02,
+        "end": 33.22
+      },
+      {
+        "word": " people",
+        "start": 33.22,
+        "end": 33.64
+      },
+      {
+        "word": " a",
+        "start": 33.64,
+        "end": 34.26
+      },
+      {
+        "word": " generation",
+        "start": 34.26,
+        "end": 35.04
+      },
+      {
+        "word": " and",
+        "start": 35.04,
+        "end": 35.7
+      },
+      {
+        "word": " you",
+        "start": 35.7,
+        "end": 36.06
+      },
+      {
+        "word": " might",
+        "start": 36.06,
+        "end": 36.28
+      },
+      {
+        "word": " feel",
+        "start": 36.28,
+        "end": 36.6
+      },
+      {
+        "word": " that",
+        "start": 36.6,
+        "end": 36.82
+      },
+      {
+        "word": " it's",
+        "start": 36.82,
+        "end": 37.04
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "start": 37.04,
+    "end": 41.8,
+    "text": "difficult to understand or agree with people from a different generation.",
+    "words": [
+      {
+        "word": " difficult",
+        "start": 37.04,
+        "end": 37.56
+      },
+      {
+        "word": " to",
+        "start": 37.56,
+        "end": 37.86
+      },
+      {
+        "word": " understand",
+        "start": 37.86,
+        "end": 38.48
+      },
+      {
+        "word": " or",
+        "start": 38.48,
+        "end": 38.98
+      },
+      {
+        "word": " agree",
+        "start": 38.98,
+        "end": 39.4
+      },
+      {
+        "word": " with",
+        "start": 39.4,
+        "end": 40.02
+      },
+      {
+        "word": " people",
+        "start": 40.02,
+        "end": 40.32
+      },
+      {
+        "word": " from",
+        "start": 40.32,
+        "end": 40.54
+      },
+      {
+        "word": " a",
+        "start": 40.54,
+        "end": 40.68
+      },
+      {
+        "word": " different",
+        "start": 40.68,
+        "end": 41.12
+      },
+      {
+        "word": " generation.",
+        "start": 41.12,
+        "end": 41.8
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "start": 42.44,
+    "end": 47.06,
+    "text": "Today on 6 Minute English, we're going to be finding out about a project that is",
+    "words": [
+      {
+        "word": " Today",
+        "start": 42.44,
+        "end": 42.78
+      },
+      {
+        "word": " on",
+        "start": 42.78,
+        "end": 43.1
+      },
+      {
+        "word": " 6",
+        "start": 43.1,
+        "end": 43.44
+      },
+      {
+        "word": " Minute",
+        "start": 43.44,
+        "end": 43.7
+      },
+      {
+        "word": " English,",
+        "start": 43.7,
+        "end": 43.98
+      },
+      {
+        "word": " we're",
+        "start": 44.16,
+        "end": 44.58
+      },
+      {
+        "word": " going",
+        "start": 44.58,
+        "end": 44.74
+      },
+      {
+        "word": " to",
+        "start": 44.74,
+        "end": 44.92
+      },
+      {
+        "word": " be",
+        "start": 44.92,
+        "end": 45.06
+      },
+      {
+        "word": " finding",
+        "start": 45.06,
+        "end": 45.54
+      },
+      {
+        "word": " out",
+        "start": 45.54,
+        "end": 45.84
+      },
+      {
+        "word": " about",
+        "start": 45.84,
+        "end": 46.18
+      },
+      {
+        "word": " a",
+        "start": 46.18,
+        "end": 46.36
+      },
+      {
+        "word": " project",
+        "start": 46.36,
+        "end": 46.72
+      },
+      {
+        "word": " that",
+        "start": 46.72,
+        "end": 46.9
+      },
+      {
+        "word": " is",
+        "start": 46.9,
+        "end": 47.06
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "start": 47.06,
+    "end": 52.38,
+    "text": "gathering together the oldest people, that's those that are retired, with",
+    "words": [
+      {
+        "word": " gathering",
+        "start": 47.06,
+        "end": 47.5
+      },
+      {
+        "word": " together",
+        "start": 47.5,
+        "end": 48.0
+      },
+      {
+        "word": " the",
+        "start": 48.0,
+        "end": 48.8
+      },
+      {
+        "word": " oldest",
+        "start": 48.8,
+        "end": 49.46
+      },
+      {
+        "word": " people,",
+        "start": 49.46,
+        "end": 50.0
+      },
+      {
+        "word": " that's",
+        "start": 50.36,
+        "end": 50.64
+      },
+      {
+        "word": " those",
+        "start": 50.64,
+        "end": 50.94
+      },
+      {
+        "word": " that",
+        "start": 50.94,
+        "end": 51.18
+      },
+      {
+        "word": " are",
+        "start": 51.18,
+        "end": 51.26
+      },
+      {
+        "word": " retired,",
+        "start": 51.26,
+        "end": 51.66
+      },
+      {
+        "word": " with",
+        "start": 52.08,
+        "end": 52.38
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "start": 52.38,
+    "end": 56.78,
+    "text": "the youngest and that's children who attend nursery. And we'll be asking",
+    "words": [
+      {
+        "word": " the",
+        "start": 52.38,
+        "end": 52.66
+      },
+      {
+        "word": " youngest",
+        "start": 52.66,
+        "end": 53.26
+      },
+      {
+        "word": " and",
+        "start": 53.26,
+        "end": 53.66
+      },
+      {
+        "word": " that's",
+        "start": 53.66,
+        "end": 53.92
+      },
+      {
+        "word": " children",
+        "start": 53.92,
+        "end": 54.16
+      },
+      {
+        "word": " who",
+        "start": 54.16,
+        "end": 54.36
+      },
+      {
+        "word": " attend",
+        "start": 54.36,
+        "end": 54.56
+      },
+      {
+        "word": " nursery.",
+        "start": 54.56,
+        "end": 55.06
+      },
+      {
+        "word": " And",
+        "start": 55.68,
+        "end": 55.98
+      },
+      {
+        "word": " we'll",
+        "start": 55.98,
+        "end": 56.34
+      },
+      {
+        "word": " be",
+        "start": 56.34,
+        "end": 56.44
+      },
+      {
+        "word": " asking",
+        "start": 56.44,
+        "end": 56.78
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "start": 56.78,
+    "end": 60.76,
+    "text": "the question, what can we learn from different generations?",
+    "words": [
+      {
+        "word": " the",
+        "start": 56.78,
+        "end": 57.06
+      },
+      {
+        "word": " question,",
+        "start": 57.06,
+        "end": 57.48
+      },
+      {
+        "word": " what",
+        "start": 58.2,
+        "end": 58.4
+      },
+      {
+        "word": " can",
+        "start": 58.4,
+        "end": 58.58
+      },
+      {
+        "word": " we",
+        "start": 58.58,
+        "end": 58.7
+      },
+      {
+        "word": " learn",
+        "start": 58.7,
+        "end": 59.06
+      },
+      {
+        "word": " from",
+        "start": 59.06,
+        "end": 59.48
+      },
+      {
+        "word": " different",
+        "start": 59.48,
+        "end": 60.0
+      },
+      {
+        "word": " generations?",
+        "start": 60.0,
+        "end": 60.76
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "start": 61.62,
+    "end": 64.08,
+    "text": "Let's start with our quiz question, Georgie.",
+    "words": [
+      {
+        "word": " Let's",
+        "start": 61.62,
+        "end": 62.0
+      },
+      {
+        "word": " start",
+        "start": 62.0,
+        "end": 62.2
+      },
+      {
+        "word": " with",
+        "start": 62.2,
+        "end": 62.42
+      },
+      {
+        "word": " our",
+        "start": 62.42,
+        "end": 62.56
+      },
+      {
+        "word": " quiz",
+        "start": 62.56,
+        "end": 62.9
+      },
+      {
+        "word": " question,",
+        "start": 62.9,
+        "end": 63.4
+      },
+      {
+        "word": " Georgie.",
+        "start": 63.58,
+        "end": 64.08
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "start": 64.74,
+    "end": 69.66,
+    "text": "What generation would someone born in 1982 be in?",
+    "words": [
+      {
+        "word": " What",
+        "start": 64.74,
+        "end": 64.88
+      },
+      {
+        "word": " generation",
+        "start": 64.88,
+        "end": 65.42
+      },
+      {
+        "word": " would",
+        "start": 65.42,
+        "end": 66.18
+      },
+      {
+        "word": " someone",
+        "start": 66.18,
+        "end": 66.58
+      },
+      {
+        "word": " born",
+        "start": 66.58,
+        "end": 67.22
+      },
+      {
+        "word": " in",
+        "start": 67.22,
+        "end": 67.56
+      },
+      {
+        "word": " 1982",
+        "start": 67.56,
+        "end": 68.48
+      },
+      {
+        "word": " be",
+        "start": 68.48,
+        "end": 69.5
+      },
+      {
+        "word": " in?",
+        "start": 69.5,
+        "end": 69.66
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "start": 70.36,
+    "end": 77.38,
+    "text": "Is it A, Generation X, B, Millennial or C, Gen Z?",
+    "words": [
+      {
+        "word": " Is",
+        "start": 70.36,
+        "end": 70.36
+      },
+      {
+        "word": " it",
+        "start": 70.36,
+        "end": 70.54
+      },
+      {
+        "word": " A,",
+        "start": 70.54,
+        "end": 71.16
+      },
+      {
+        "word": " Generation",
+        "start": 71.76,
+        "end": 72.02
+      },
+      {
+        "word": " X,",
+        "start": 72.02,
+        "end": 72.72
+      },
+      {
+        "word": " B,",
+        "start": 73.5,
+        "end": 73.84
+      },
+      {
+        "word": " Millennial",
+        "start": 74.5,
+        "end": 74.96
+      },
+      {
+        "word": " or",
+        "start": 74.96,
+        "end": 75.82
+      },
+      {
+        "word": " C,",
+        "start": 75.82,
+        "end": 76.26
+      },
+      {
+        "word": " Gen",
+        "start": 76.84,
+        "end": 76.96
+      },
+      {
+        "word": " Z?",
+        "start": 76.96,
+        "end": 77.38
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "start": 78.0,
+    "end": 81.3,
+    "text": "Phil, I'm going to go with Generation X.",
+    "words": [
+      {
+        "word": " Phil,",
+        "start": 78.0,
+        "end": 78.6
+      },
+      {
+        "word": " I'm",
+        "start": 78.82,
+        "end": 79.02
+      },
+      {
+        "word": " going",
+        "start": 79.02,
+        "end": 79.3
+      },
+      {
+        "word": " to",
+        "start": 79.3,
+        "end": 79.54
+      },
+      {
+        "word": " go",
+        "start": 79.54,
+        "end": 79.68
+      },
+      {
+        "word": " with",
+        "start": 79.68,
+        "end": 80.1
+      },
+      {
+        "word": " Generation",
+        "start": 80.1,
+        "end": 80.58
+      },
+      {
+        "word": " X.",
+        "start": 80.58,
+        "end": 81.3
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "start": 81.9,
+    "end": 85.48,
+    "text": "OK, well, we will find out the answer at the end of the program.",
+    "words": [
+      {
+        "word": " OK,",
+        "start": 81.9,
+        "end": 82.34
+      },
+      {
+        "word": " well,",
+        "start": 82.54,
+        "end": 82.68
+      },
+      {
+        "word": " we",
+        "start": 82.84,
+        "end": 82.98
+      },
+      {
+        "word": " will",
+        "start": 82.98,
+        "end": 83.16
+      },
+      {
+        "word": " find",
+        "start": 83.16,
+        "end": 83.5
+      },
+      {
+        "word": " out",
+        "start": 83.5,
+        "end": 83.66
+      },
+      {
+        "word": " the",
+        "start": 83.66,
+        "end": 83.78
+      },
+      {
+        "word": " answer",
+        "start": 83.78,
+        "end": 84.1
+      },
+      {
+        "word": " at",
+        "start": 84.1,
+        "end": 84.74
+      },
+      {
+        "word": " the",
+        "start": 84.74,
+        "end": 84.82
+      },
+      {
+        "word": " end",
+        "start": 84.82,
+        "end": 84.94
+      },
+      {
+        "word": " of",
+        "start": 84.94,
+        "end": 85.04
+      },
+      {
+        "word": " the",
+        "start": 85.04,
+        "end": 85.12
+      },
+      {
+        "word": " program.",
+        "start": 85.12,
+        "end": 85.48
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "start": 85.48,
+    "end": 90.32,
+    "text": "OK, Phil, so you said we're going to look at a project which gets small",
+    "words": [
+      {
+        "word": " OK,",
+        "start": 85.48,
+        "end": 86.26
+      },
+      {
+        "word": " Phil,",
+        "start": 86.34,
+        "end": 86.6
+      },
+      {
+        "word": " so",
+        "start": 86.72,
+        "end": 86.84
+      },
+      {
+        "word": " you",
+        "start": 86.84,
+        "end": 87.0
+      },
+      {
+        "word": " said",
+        "start": 87.0,
+        "end": 87.3
+      },
+      {
+        "word": " we're",
+        "start": 87.3,
+        "end": 87.58
+      },
+      {
+        "word": " going",
+        "start": 87.58,
+        "end": 87.8
+      },
+      {
+        "word": " to",
+        "start": 87.8,
+        "end": 87.98
+      },
+      {
+        "word": " look",
+        "start": 87.98,
+        "end": 88.22
+      },
+      {
+        "word": " at",
+        "start": 88.22,
+        "end": 88.4
+      },
+      {
+        "word": " a",
+        "start": 88.4,
+        "end": 88.5
+      },
+      {
+        "word": " project",
+        "start": 88.5,
+        "end": 88.96
+      },
+      {
+        "word": " which",
+        "start": 88.96,
+        "end": 89.26
+      },
+      {
+        "word": " gets",
+        "start": 89.26,
+        "end": 89.66
+      },
+      {
+        "word": " small",
+        "start": 89.66,
+        "end": 90.32
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "start": 90.32,
+    "end": 93.32,
+    "text": "children interacting with older, retired people.",
+    "words": [
+      {
+        "word": " children",
+        "start": 90.32,
+        "end": 90.74
+      },
+      {
+        "word": " interacting",
+        "start": 90.74,
+        "end": 91.48
+      },
+      {
+        "word": " with",
+        "start": 91.48,
+        "end": 91.82
+      },
+      {
+        "word": " older,",
+        "start": 91.82,
+        "end": 92.3
+      },
+      {
+        "word": " retired",
+        "start": 92.38,
+        "end": 92.8
+      },
+      {
+        "word": " people.",
+        "start": 92.8,
+        "end": 93.32
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "start": 93.5,
+    "end": 94.62,
+    "text": "So how does it work?",
+    "words": [
+      {
+        "word": " So",
+        "start": 93.5,
+        "end": 93.72
+      },
+      {
+        "word": " how",
+        "start": 93.72,
+        "end": 94.06
+      },
+      {
+        "word": " does",
+        "start": 94.06,
+        "end": 94.2
+      },
+      {
+        "word": " it",
+        "start": 94.2,
+        "end": 94.32
+      },
+      {
+        "word": " work?",
+        "start": 94.32,
+        "end": 94.62
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "start": 95.22,
+    "end": 100.2,
+    "text": "Well, in Chester, in the north west of England, nursery has opened up",
+    "words": [
+      {
+        "word": " Well,",
+        "start": 95.22,
+        "end": 95.46
+      },
+      {
+        "word": " in",
+        "start": 95.84,
+        "end": 96.02
+      },
+      {
+        "word": " Chester,",
+        "start": 96.02,
+        "end": 96.48
+      },
+      {
+        "word": " in",
+        "start": 96.78,
+        "end": 96.92
+      },
+      {
+        "word": " the",
+        "start": 96.92,
+        "end": 97.08
+      },
+      {
+        "word": " north",
+        "start": 97.08,
+        "end": 97.24
+      },
+      {
+        "word": " west",
+        "start": 97.24,
+        "end": 97.58
+      },
+      {
+        "word": " of",
+        "start": 97.58,
+        "end": 97.78
+      },
+      {
+        "word": " England,",
+        "start": 97.78,
+        "end": 98.1
+      },
+      {
+        "word": " nursery",
+        "start": 98.7,
+        "end": 99.22
+      },
+      {
+        "word": " has",
+        "start": 99.22,
+        "end": 99.66
+      },
+      {
+        "word": " opened",
+        "start": 99.66,
+        "end": 99.94
+      },
+      {
+        "word": " up",
+        "start": 99.94,
+        "end": 100.2
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "start": 100.2,
+    "end": 101.66,
+    "text": "in a retirement village.",
+    "words": [
+      {
+        "word": " in",
+        "start": 100.2,
+        "end": 100.4
+      },
+      {
+        "word": " a",
+        "start": 100.4,
+        "end": 100.52
+      },
+      {
+        "word": " retirement",
+        "start": 100.52,
+        "end": 101.18
+      },
+      {
+        "word": " village.",
+        "start": 101.18,
+        "end": 101.66
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "start": 102.36,
+    "end": 106.5,
+    "text": "There's the usual nursery staff to look after the children, but the older",
+    "words": [
+      {
+        "word": " There's",
+        "start": 102.36,
+        "end": 102.62
+      },
+      {
+        "word": " the",
+        "start": 102.62,
+        "end": 102.74
+      },
+      {
+        "word": " usual",
+        "start": 102.74,
+        "end": 103.0
+      },
+      {
+        "word": " nursery",
+        "start": 103.0,
+        "end": 103.5
+      },
+      {
+        "word": " staff",
+        "start": 103.5,
+        "end": 103.84
+      },
+      {
+        "word": " to",
+        "start": 103.84,
+        "end": 104.16
+      },
+      {
+        "word": " look",
+        "start": 104.16,
+        "end": 104.34
+      },
+      {
+        "word": " after",
+        "start": 104.34,
+        "end": 104.68
+      },
+      {
+        "word": " the",
+        "start": 104.68,
+        "end": 104.88
+      },
+      {
+        "word": " children,",
+        "start": 104.88,
+        "end": 105.28
+      },
+      {
+        "word": " but",
+        "start": 105.58,
+        "end": 105.92
+      },
+      {
+        "word": " the",
+        "start": 105.92,
+        "end": 106.26
+      },
+      {
+        "word": " older",
+        "start": 106.26,
+        "end": 106.5
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "start": 106.5,
+    "end": 109.18,
+    "text": "residents can join in for activities as well.",
+    "words": [
+      {
+        "word": " residents",
+        "start": 106.5,
+        "end": 106.94
+      },
+      {
+        "word": " can",
+        "start": 106.94,
+        "end": 107.3
+      },
+      {
+        "word": " join",
+        "start": 107.3,
+        "end": 107.58
+      },
+      {
+        "word": " in",
+        "start": 107.58,
+        "end": 107.78
+      },
+      {
+        "word": " for",
+        "start": 107.78,
+        "end": 107.92
+      },
+      {
+        "word": " activities",
+        "start": 107.92,
+        "end": 108.5
+      },
+      {
+        "word": " as",
+        "start": 108.5,
+        "end": 108.84
+      },
+      {
+        "word": " well.",
+        "start": 108.84,
+        "end": 109.18
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "start": 109.74,
+    "end": 114.18,
+    "text": "There's a library, a cafeteria and a garden for the children and the older",
+    "words": [
+      {
+        "word": " There's",
+        "start": 109.74,
+        "end": 110.02
+      },
+      {
+        "word": " a",
+        "start": 110.02,
+        "end": 110.12
+      },
+      {
+        "word": " library,",
+        "start": 110.12,
+        "end": 110.62
+      },
+      {
+        "word": " a",
+        "start": 111.1,
+        "end": 111.2
+      },
+      {
+        "word": " cafeteria",
+        "start": 111.2,
+        "end": 111.6
+      },
+      {
+        "word": " and",
+        "start": 111.6,
+        "end": 112.22
+      },
+      {
+        "word": " a",
+        "start": 112.22,
+        "end": 112.36
+      },
+      {
+        "word": " garden",
+        "start": 112.36,
+        "end": 112.7
+      },
+      {
+        "word": " for",
+        "start": 112.7,
+        "end": 113.02
+      },
+      {
+        "word": " the",
+        "start": 113.02,
+        "end": 113.14
+      },
+      {
+        "word": " children",
+        "start": 113.14,
+        "end": 113.5
+      },
+      {
+        "word": " and",
+        "start": 113.5,
+        "end": 113.72
+      },
+      {
+        "word": " the",
+        "start": 113.72,
+        "end": 113.86
+      },
+      {
+        "word": " older",
+        "start": 113.86,
+        "end": 114.18
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "start": 114.18,
+    "end": 119.32,
+    "text": "people to share. And some of the older people, or grand friends, as the",
+    "words": [
+      {
+        "word": " people",
+        "start": 114.18,
+        "end": 114.48
+      },
+      {
+        "word": " to",
+        "start": 114.48,
+        "end": 114.72
+      },
+      {
+        "word": " share.",
+        "start": 114.72,
+        "end": 115.02
+      },
+      {
+        "word": " And",
+        "start": 116.02,
+        "end": 116.18
+      },
+      {
+        "word": " some",
+        "start": 116.18,
+        "end": 116.58
+      },
+      {
+        "word": " of",
+        "start": 116.58,
+        "end": 116.68
+      },
+      {
+        "word": " the",
+        "start": 116.68,
+        "end": 116.76
+      },
+      {
+        "word": " older",
+        "start": 116.76,
+        "end": 116.98
+      },
+      {
+        "word": " people,",
+        "start": 116.98,
+        "end": 117.32
+      },
+      {
+        "word": " or",
+        "start": 117.6,
+        "end": 117.74
+      },
+      {
+        "word": " grand",
+        "start": 117.74,
+        "end": 118.2
+      },
+      {
+        "word": " friends,",
+        "start": 118.2,
+        "end": 118.74
+      },
+      {
+        "word": " as",
+        "start": 119.02,
+        "end": 119.1
+      },
+      {
+        "word": " the",
+        "start": 119.1,
+        "end": 119.32
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "start": 119.32,
+    "end": 123.92,
+    "text": "children call them, lead some of the activities like dance or crafts.",
+    "words": [
+      {
+        "word": " children",
+        "start": 119.32,
+        "end": 119.7
+      },
+      {
+        "word": " call",
+        "start": 119.7,
+        "end": 120.16
+      },
+      {
+        "word": " them,",
+        "start": 120.16,
+        "end": 120.42
+      },
+      {
+        "word": " lead",
+        "start": 120.68,
+        "end": 120.92
+      },
+      {
+        "word": " some",
+        "start": 120.92,
+        "end": 121.22
+      },
+      {
+        "word": " of",
+        "start": 121.22,
+        "end": 121.36
+      },
+      {
+        "word": " the",
+        "start": 121.36,
+        "end": 121.44
+      },
+      {
+        "word": " activities",
+        "start": 121.44,
+        "end": 122.02
+      },
+      {
+        "word": " like",
+        "start": 122.02,
+        "end": 122.5
+      },
+      {
+        "word": " dance",
+        "start": 122.5,
+        "end": 122.98
+      },
+      {
+        "word": " or",
+        "start": 122.98,
+        "end": 123.38
+      },
+      {
+        "word": " crafts.",
+        "start": 123.38,
+        "end": 123.92
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "start": 124.5,
+    "end": 128.42,
+    "text": "And presenter of BBC World Service podcast, People Fixing the World,",
+    "words": [
+      {
+        "word": " And",
+        "start": 124.5,
+        "end": 124.68
+      },
+      {
+        "word": " presenter",
+        "start": 124.68,
+        "end": 125.08
+      },
+      {
+        "word": " of",
+        "start": 125.08,
+        "end": 125.52
+      },
+      {
+        "word": " BBC",
+        "start": 125.52,
+        "end": 125.84
+      },
+      {
+        "word": " World",
+        "start": 125.84,
+        "end": 126.34
+      },
+      {
+        "word": " Service",
+        "start": 126.34,
+        "end": 126.72
+      },
+      {
+        "word": " podcast,",
+        "start": 126.72,
+        "end": 127.1
+      },
+      {
+        "word": " People",
+        "start": 127.46,
+        "end": 127.7
+      },
+      {
+        "word": " Fixing",
+        "start": 127.7,
+        "end": 128.1
+      },
+      {
+        "word": " the",
+        "start": 128.1,
+        "end": 128.22
+      },
+      {
+        "word": " World,",
+        "start": 128.22,
+        "end": 128.42
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "start": 128.66,
+    "end": 133.08,
+    "text": "Myra Anoubi, went to visit the special nursery and spoke to some of the",
+    "words": [
+      {
+        "word": " Myra",
+        "start": 128.66,
+        "end": 128.98
+      },
+      {
+        "word": " Anoubi,",
+        "start": 128.98,
+        "end": 129.36
+      },
+      {
+        "word": " went",
+        "start": 129.94,
+        "end": 130.1
+      },
+      {
+        "word": " to",
+        "start": 130.1,
+        "end": 130.32
+      },
+      {
+        "word": " visit",
+        "start": 130.32,
+        "end": 130.68
+      },
+      {
+        "word": " the",
+        "start": 130.68,
+        "end": 130.86
+      },
+      {
+        "word": " special",
+        "start": 130.86,
+        "end": 131.06
+      },
+      {
+        "word": " nursery",
+        "start": 131.06,
+        "end": 131.56
+      },
+      {
+        "word": " and",
+        "start": 131.56,
+        "end": 132.08
+      },
+      {
+        "word": " spoke",
+        "start": 132.08,
+        "end": 132.36
+      },
+      {
+        "word": " to",
+        "start": 132.36,
+        "end": 132.64
+      },
+      {
+        "word": " some",
+        "start": 132.64,
+        "end": 132.9
+      },
+      {
+        "word": " of",
+        "start": 132.9,
+        "end": 133.02
+      },
+      {
+        "word": " the",
+        "start": 133.02,
+        "end": 133.08
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "start": 133.08,
+    "end": 137.66,
+    "text": "participants. Ian was once a fighter pilot and getting involved",
+    "words": [
+      {
+        "word": " participants.",
+        "start": 133.08,
+        "end": 133.66
+      },
+      {
+        "word": " Ian",
+        "start": 134.32,
+        "end": 134.92
+      },
+      {
+        "word": " was",
+        "start": 134.92,
+        "end": 135.14
+      },
+      {
+        "word": " once",
+        "start": 135.14,
+        "end": 135.4
+      },
+      {
+        "word": " a",
+        "start": 135.4,
+        "end": 135.64
+      },
+      {
+        "word": " fighter",
+        "start": 135.64,
+        "end": 136.0
+      },
+      {
+        "word": " pilot",
+        "start": 136.0,
+        "end": 136.46
+      },
+      {
+        "word": " and",
+        "start": 136.46,
+        "end": 136.9
+      },
+      {
+        "word": " getting",
+        "start": 136.9,
+        "end": 137.22
+      },
+      {
+        "word": " involved",
+        "start": 137.22,
+        "end": 137.66
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "start": 137.66,
+    "end": 140.14,
+    "text": "in the nursery has helped him fill a void.",
+    "words": [
+      {
+        "word": " in",
+        "start": 137.66,
+        "end": 137.94
+      },
+      {
+        "word": " the",
+        "start": 137.94,
+        "end": 138.04
+      },
+      {
+        "word": " nursery",
+        "start": 138.04,
+        "end": 138.42
+      },
+      {
+        "word": " has",
+        "start": 138.42,
+        "end": 138.76
+      },
+      {
+        "word": " helped",
+        "start": 138.76,
+        "end": 139.12
+      },
+      {
+        "word": " him",
+        "start": 139.12,
+        "end": 139.28
+      },
+      {
+        "word": " fill",
+        "start": 139.28,
+        "end": 139.58
+      },
+      {
+        "word": " a",
+        "start": 139.58,
+        "end": 139.88
+      },
+      {
+        "word": " void.",
+        "start": 139.88,
+        "end": 140.14
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "start": 140.44,
+    "end": 142.68,
+    "text": "It was after my wife died last year.",
+    "words": [
+      {
+        "word": " It",
+        "start": 140.44,
+        "end": 140.7
+      },
+      {
+        "word": " was",
+        "start": 140.7,
+        "end": 140.96
+      },
+      {
+        "word": " after",
+        "start": 140.96,
+        "end": 141.38
+      },
+      {
+        "word": " my",
+        "start": 141.38,
+        "end": 141.54
+      },
+      {
+        "word": " wife",
+        "start": 141.54,
+        "end": 141.76
+      },
+      {
+        "word": " died",
+        "start": 141.76,
+        "end": 142.0
+      },
+      {
+        "word": " last",
+        "start": 142.0,
+        "end": 142.32
+      },
+      {
+        "word": " year.",
+        "start": 142.32,
+        "end": 142.68
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "start": 142.68,
+    "end": 150.94,
+    "text": "It seemed I had a big, big hole to fill and the people down in nursery,",
+    "words": [
+      {
+        "word": " It",
+        "start": 142.68,
+        "end": 143.34
+      },
+      {
+        "word": " seemed",
+        "start": 143.34,
+        "end": 143.86
+      },
+      {
+        "word": " I",
+        "start": 143.86,
+        "end": 144.68
+      },
+      {
+        "word": " had",
+        "start": 144.68,
+        "end": 145.06
+      },
+      {
+        "word": " a",
+        "start": 145.06,
+        "end": 145.26
+      },
+      {
+        "word": " big,",
+        "start": 145.26,
+        "end": 145.26
+      },
+      {
+        "word": " big",
+        "start": 145.26,
+        "end": 145.5
+      },
+      {
+        "word": " hole",
+        "start": 145.5,
+        "end": 145.76
+      },
+      {
+        "word": " to",
+        "start": 145.76,
+        "end": 145.96
+      },
+      {
+        "word": " fill",
+        "start": 145.96,
+        "end": 146.24
+      },
+      {
+        "word": " and",
+        "start": 146.24,
+        "end": 147.16
+      },
+      {
+        "word": " the",
+        "start": 147.16,
+        "end": 147.46
+      },
+      {
+        "word": " people",
+        "start": 147.46,
+        "end": 148.56
+      },
+      {
+        "word": " down",
+        "start": 148.56,
+        "end": 148.88
+      },
+      {
+        "word": " in",
+        "start": 148.88,
+        "end": 150.16
+      },
+      {
+        "word": " nursery,",
+        "start": 150.16,
+        "end": 150.94
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "start": 151.26,
+    "end": 153.6,
+    "text": "they'd phone me up and say, we're doing such and such a thing.",
+    "words": [
+      {
+        "word": " they'd",
+        "start": 151.26,
+        "end": 151.54
+      },
+      {
+        "word": " phone",
+        "start": 151.54,
+        "end": 151.8
+      },
+      {
+        "word": " me",
+        "start": 151.8,
+        "end": 151.96
+      },
+      {
+        "word": " up",
+        "start": 151.96,
+        "end": 152.06
+      },
+      {
+        "word": " and",
+        "start": 152.06,
+        "end": 152.16
+      },
+      {
+        "word": " say,",
+        "start": 152.16,
+        "end": 152.32
+      },
+      {
+        "word": " we're",
+        "start": 152.36,
+        "end": 152.5
+      },
+      {
+        "word": " doing",
+        "start": 152.5,
+        "end": 152.72
+      },
+      {
+        "word": " such",
+        "start": 152.72,
+        "end": 152.94
+      },
+      {
+        "word": " and",
+        "start": 152.94,
+        "end": 153.12
+      },
+      {
+        "word": " such",
+        "start": 153.12,
+        "end": 153.28
+      },
+      {
+        "word": " a",
+        "start": 153.28,
+        "end": 153.42
+      },
+      {
+        "word": " thing.",
+        "start": 153.42,
+        "end": 153.6
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "start": 153.8,
+    "end": 155.28,
+    "text": "Why don't you come and join us?",
+    "words": [
+      {
+        "word": " Why",
+        "start": 153.8,
+        "end": 154.12
+      },
+      {
+        "word": " don't",
+        "start": 154.12,
+        "end": 154.26
+      },
+      {
+        "word": " you",
+        "start": 154.26,
+        "end": 154.4
+      },
+      {
+        "word": " come",
+        "start": 154.4,
+        "end": 154.54
+      },
+      {
+        "word": " and",
+        "start": 154.54,
+        "end": 154.72
+      },
+      {
+        "word": " join",
+        "start": 154.72,
+        "end": 154.94
+      },
+      {
+        "word": " us?",
+        "start": 154.94,
+        "end": 155.28
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "start": 155.6,
+    "end": 157.32,
+    "text": "And that's what I've been doing.",
+    "words": [
+      {
+        "word": " And",
+        "start": 155.6,
+        "end": 156.08
+      },
+      {
+        "word": " that's",
+        "start": 156.08,
+        "end": 156.7
+      },
+      {
+        "word": " what",
+        "start": 156.7,
+        "end": 156.78
+      },
+      {
+        "word": " I've",
+        "start": 156.78,
+        "end": 156.94
+      },
+      {
+        "word": " been",
+        "start": 156.94,
+        "end": 157.06
+      },
+      {
+        "word": " doing.",
+        "start": 157.06,
+        "end": 157.32
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "start": 158.6,
+    "end": 161.16,
+    "text": "So, yes, and I've enjoyed it.",
+    "words": [
+      {
+        "word": " So,",
+        "start": 158.60000000000002,
+        "end": 159.08
+      },
+      {
+        "word": " yes,",
+        "start": 159.88,
+        "end": 160.04
+      },
+      {
+        "word": " and",
+        "start": 160.14,
+        "end": 160.22
+      },
+      {
+        "word": " I've",
+        "start": 160.22,
+        "end": 160.42
+      },
+      {
+        "word": " enjoyed",
+        "start": 160.42,
+        "end": 160.8
+      },
+      {
+        "word": " it.",
+        "start": 160.8,
+        "end": 161.16
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "start": 161.64,
+    "end": 165.92,
+    "text": "And I find it very interesting to see how they develop.",
+    "words": [
+      {
+        "word": " And",
+        "start": 161.64,
+        "end": 162.12
+      },
+      {
+        "word": " I",
+        "start": 162.12,
+        "end": 163.06
+      },
+      {
+        "word": " find",
+        "start": 163.06,
+        "end": 163.28
+      },
+      {
+        "word": " it",
+        "start": 163.28,
+        "end": 163.4
+      },
+      {
+        "word": " very",
+        "start": 163.4,
+        "end": 163.56
+      },
+      {
+        "word": " interesting",
+        "start": 163.56,
+        "end": 164.08
+      },
+      {
+        "word": " to",
+        "start": 164.08,
+        "end": 164.34
+      },
+      {
+        "word": " see",
+        "start": 164.34,
+        "end": 164.64
+      },
+      {
+        "word": " how",
+        "start": 164.64,
+        "end": 165.24
+      },
+      {
+        "word": " they",
+        "start": 165.24,
+        "end": 165.46
+      },
+      {
+        "word": " develop.",
+        "start": 165.46,
+        "end": 165.92
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "start": 166.3,
+    "end": 169.38,
+    "text": "One of the things I heard from the grapevine is that you help",
+    "words": [
+      {
+        "word": " One",
+        "start": 166.3,
+        "end": 166.5
+      },
+      {
+        "word": " of",
+        "start": 166.5,
+        "end": 166.64
+      },
+      {
+        "word": " the",
+        "start": 166.64,
+        "end": 166.74
+      },
+      {
+        "word": " things",
+        "start": 166.74,
+        "end": 166.98
+      },
+      {
+        "word": " I",
+        "start": 166.98,
+        "end": 167.2
+      },
+      {
+        "word": " heard",
+        "start": 167.2,
+        "end": 167.56
+      },
+      {
+        "word": " from",
+        "start": 167.56,
+        "end": 167.82
+      },
+      {
+        "word": " the",
+        "start": 167.82,
+        "end": 168.0
+      },
+      {
+        "word": " grapevine",
+        "start": 168.0,
+        "end": 168.52
+      },
+      {
+        "word": " is",
+        "start": 168.52,
+        "end": 168.78
+      },
+      {
+        "word": " that",
+        "start": 168.78,
+        "end": 168.92
+      },
+      {
+        "word": " you",
+        "start": 168.92,
+        "end": 169.08
+      },
+      {
+        "word": " help",
+        "start": 169.08,
+        "end": 169.38
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "start": 169.38,
+    "end": 170.98,
+    "text": "the children make paper planes.",
+    "words": [
+      {
+        "word": " the",
+        "start": 169.38,
+        "end": 169.54
+      },
+      {
+        "word": " children",
+        "start": 169.54,
+        "end": 169.78
+      },
+      {
+        "word": " make",
+        "start": 169.78,
+        "end": 170.14
+      },
+      {
+        "word": " paper",
+        "start": 170.14,
+        "end": 170.68
+      },
+      {
+        "word": " planes.",
+        "start": 170.68,
+        "end": 170.98
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "start": 171.24,
+    "end": 171.8,
+    "text": "That's right.",
+    "words": [
+      {
+        "word": " That's",
+        "start": 171.24,
+        "end": 171.62
+      },
+      {
+        "word": " right.",
+        "start": 171.62,
+        "end": 171.8
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "start": 171.8,
+    "end": 176.2,
+    "text": "Myra says that the nursery helped Ian fill a void after his wife",
+    "words": [
+      {
+        "word": " Myra",
+        "start": 171.8,
+        "end": 172.38
+      },
+      {
+        "word": " says",
+        "start": 172.38,
+        "end": 172.7
+      },
+      {
+        "word": " that",
+        "start": 172.7,
+        "end": 172.96
+      },
+      {
+        "word": " the",
+        "start": 172.96,
+        "end": 173.06
+      },
+      {
+        "word": " nursery",
+        "start": 173.06,
+        "end": 173.46
+      },
+      {
+        "word": " helped",
+        "start": 173.46,
+        "end": 173.96
+      },
+      {
+        "word": " Ian",
+        "start": 173.96,
+        "end": 174.26
+      },
+      {
+        "word": " fill",
+        "start": 174.26,
+        "end": 174.68
+      },
+      {
+        "word": " a",
+        "start": 174.68,
+        "end": 174.96
+      },
+      {
+        "word": " void",
+        "start": 174.96,
+        "end": 175.22
+      },
+      {
+        "word": " after",
+        "start": 175.22,
+        "end": 175.68
+      },
+      {
+        "word": " his",
+        "start": 175.68,
+        "end": 175.92
+      },
+      {
+        "word": " wife",
+        "start": 175.92,
+        "end": 176.2
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "start": 176.2,
+    "end": 180.08,
+    "text": "sadly died. If you fill a void, you find something to help you",
+    "words": [
+      {
+        "word": " sadly",
+        "start": 176.2,
+        "end": 176.56
+      },
+      {
+        "word": " died.",
+        "start": 176.56,
+        "end": 176.98
+      },
+      {
+        "word": " If",
+        "start": 177.44,
+        "end": 177.6
+      },
+      {
+        "word": " you",
+        "start": 177.6,
+        "end": 177.72
+      },
+      {
+        "word": " fill",
+        "start": 177.72,
+        "end": 177.94
+      },
+      {
+        "word": " a",
+        "start": 177.94,
+        "end": 178.04
+      },
+      {
+        "word": " void,",
+        "start": 178.04,
+        "end": 178.36
+      },
+      {
+        "word": " you",
+        "start": 178.58,
+        "end": 178.68
+      },
+      {
+        "word": " find",
+        "start": 178.68,
+        "end": 179.0
+      },
+      {
+        "word": " something",
+        "start": 179.0,
+        "end": 179.38
+      },
+      {
+        "word": " to",
+        "start": 179.38,
+        "end": 179.58
+      },
+      {
+        "word": " help",
+        "start": 179.58,
+        "end": 179.84
+      },
+      {
+        "word": " you",
+        "start": 179.84,
+        "end": 180.08
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "start": 180.08,
+    "end": 181.62,
+    "text": "feel better after a loss.",
+    "words": [
+      {
+        "word": " feel",
+        "start": 180.08,
+        "end": 180.26
+      },
+      {
+        "word": " better",
+        "start": 180.26,
+        "end": 180.66
+      },
+      {
+        "word": " after",
+        "start": 180.66,
+        "end": 181.12
+      },
+      {
+        "word": " a",
+        "start": 181.12,
+        "end": 181.32
+      },
+      {
+        "word": " loss.",
+        "start": 181.32,
+        "end": 181.62
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "start": 182.0,
+    "end": 186.36,
+    "text": "Ian explains that after his wife died, staff at the nursery",
+    "words": [
+      {
+        "word": " Ian",
+        "start": 182.0,
+        "end": 182.22
+      },
+      {
+        "word": " explains",
+        "start": 182.22,
+        "end": 182.66
+      },
+      {
+        "word": " that",
+        "start": 182.66,
+        "end": 183.08
+      },
+      {
+        "word": " after",
+        "start": 183.08,
+        "end": 183.64
+      },
+      {
+        "word": " his",
+        "start": 183.64,
+        "end": 183.88
+      },
+      {
+        "word": " wife",
+        "start": 183.88,
+        "end": 184.26
+      },
+      {
+        "word": " died,",
+        "start": 184.26,
+        "end": 184.66
+      },
+      {
+        "word": " staff",
+        "start": 185.12,
+        "end": 185.44
+      },
+      {
+        "word": " at",
+        "start": 185.44,
+        "end": 185.88
+      },
+      {
+        "word": " the",
+        "start": 185.88,
+        "end": 186.02
+      },
+      {
+        "word": " nursery",
+        "start": 186.02,
+        "end": 186.36
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "start": 186.36,
+    "end": 189.8,
+    "text": "would phone him to tell him about the daily activities, which",
+    "words": [
+      {
+        "word": " would",
+        "start": 186.36,
+        "end": 186.56
+      },
+      {
+        "word": " phone",
+        "start": 186.56,
+        "end": 186.92
+      },
+      {
+        "word": " him",
+        "start": 186.92,
+        "end": 187.18
+      },
+      {
+        "word": " to",
+        "start": 187.18,
+        "end": 187.46
+      },
+      {
+        "word": " tell",
+        "start": 187.46,
+        "end": 187.72
+      },
+      {
+        "word": " him",
+        "start": 187.72,
+        "end": 187.84
+      },
+      {
+        "word": " about",
+        "start": 187.84,
+        "end": 188.08
+      },
+      {
+        "word": " the",
+        "start": 188.08,
+        "end": 188.26
+      },
+      {
+        "word": " daily",
+        "start": 188.26,
+        "end": 188.62
+      },
+      {
+        "word": " activities,",
+        "start": 188.62,
+        "end": 189.3
+      },
+      {
+        "word": " which",
+        "start": 189.62,
+        "end": 189.8
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "start": 189.8,
+    "end": 192.12,
+    "text": "he refers to as such and such.",
+    "words": [
+      {
+        "word": " he",
+        "start": 189.8,
+        "end": 189.96
+      },
+      {
+        "word": " refers",
+        "start": 189.96,
+        "end": 190.28
+      },
+      {
+        "word": " to",
+        "start": 190.28,
+        "end": 190.5
+      },
+      {
+        "word": " as",
+        "start": 190.5,
+        "end": 190.78
+      },
+      {
+        "word": " such",
+        "start": 190.78,
+        "end": 191.6
+      },
+      {
+        "word": " and",
+        "start": 191.6,
+        "end": 191.82
+      },
+      {
+        "word": " such.",
+        "start": 191.82,
+        "end": 192.12
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "start": 192.42,
+    "end": 194.96,
+    "text": "And that's an expression that we use to talk about something",
+    "words": [
+      {
+        "word": " And",
+        "start": 192.42,
+        "end": 192.5
+      },
+      {
+        "word": " that's",
+        "start": 192.5,
+        "end": 192.7
+      },
+      {
+        "word": " an",
+        "start": 192.7,
+        "end": 192.8
+      },
+      {
+        "word": " expression",
+        "start": 192.8,
+        "end": 193.2
+      },
+      {
+        "word": " that",
+        "start": 193.2,
+        "end": 193.54
+      },
+      {
+        "word": " we",
+        "start": 193.54,
+        "end": 193.64
+      },
+      {
+        "word": " use",
+        "start": 193.64,
+        "end": 193.9
+      },
+      {
+        "word": " to",
+        "start": 193.9,
+        "end": 194.08
+      },
+      {
+        "word": " talk",
+        "start": 194.08,
+        "end": 194.26
+      },
+      {
+        "word": " about",
+        "start": 194.26,
+        "end": 194.52
+      },
+      {
+        "word": " something",
+        "start": 194.52,
+        "end": 194.96
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "start": 194.96,
+    "end": 197.34,
+    "text": "without giving a specific example.",
+    "words": [
+      {
+        "word": " without",
+        "start": 194.96,
+        "end": 195.78
+      },
+      {
+        "word": " giving",
+        "start": 195.78,
+        "end": 196.2
+      },
+      {
+        "word": " a",
+        "start": 196.2,
+        "end": 196.38
+      },
+      {
+        "word": " specific",
+        "start": 196.38,
+        "end": 196.7
+      },
+      {
+        "word": " example.",
+        "start": 196.7,
+        "end": 197.34
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "start": 197.8,
+    "end": 200.34,
+    "text": "It sounds like Ian has enjoyed spending time with the",
+    "words": [
+      {
+        "word": " It",
+        "start": 197.8,
+        "end": 197.98
+      },
+      {
+        "word": " sounds",
+        "start": 197.98,
+        "end": 198.26
+      },
+      {
+        "word": " like",
+        "start": 198.26,
+        "end": 198.5
+      },
+      {
+        "word": " Ian",
+        "start": 198.5,
+        "end": 198.76
+      },
+      {
+        "word": " has",
+        "start": 198.76,
+        "end": 198.98
+      },
+      {
+        "word": " enjoyed",
+        "start": 198.98,
+        "end": 199.4
+      },
+      {
+        "word": " spending",
+        "start": 199.4,
+        "end": 199.72
+      },
+      {
+        "word": " time",
+        "start": 199.72,
+        "end": 200.06
+      },
+      {
+        "word": " with",
+        "start": 200.06,
+        "end": 200.24
+      },
+      {
+        "word": " the",
+        "start": 200.24,
+        "end": 200.34
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "start": 200.34,
+    "end": 203.78,
+    "text": "children at the nursery and Myra tells him she's heard from",
+    "words": [
+      {
+        "word": " children",
+        "start": 200.34,
+        "end": 200.64
+      },
+      {
+        "word": " at",
+        "start": 200.64,
+        "end": 200.94
+      },
+      {
+        "word": " the",
+        "start": 200.94,
+        "end": 201.12
+      },
+      {
+        "word": " nursery",
+        "start": 201.12,
+        "end": 201.48
+      },
+      {
+        "word": " and",
+        "start": 201.48,
+        "end": 201.98
+      },
+      {
+        "word": " Myra",
+        "start": 201.98,
+        "end": 202.28
+      },
+      {
+        "word": " tells",
+        "start": 202.28,
+        "end": 202.56
+      },
+      {
+        "word": " him",
+        "start": 202.56,
+        "end": 202.8
+      },
+      {
+        "word": " she's",
+        "start": 202.8,
+        "end": 203.1
+      },
+      {
+        "word": " heard",
+        "start": 203.1,
+        "end": 203.4
+      },
+      {
+        "word": " from",
+        "start": 203.4,
+        "end": 203.78
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "start": 203.78,
+    "end": 206.76,
+    "text": "the grapevine that he's been teaching the children to make",
+    "words": [
+      {
+        "word": " the",
+        "start": 203.78,
+        "end": 204.0
+      },
+      {
+        "word": " grapevine",
+        "start": 204.0,
+        "end": 204.5
+      },
+      {
+        "word": " that",
+        "start": 204.5,
+        "end": 205.0
+      },
+      {
+        "word": " he's",
+        "start": 205.0,
+        "end": 205.22
+      },
+      {
+        "word": " been",
+        "start": 205.22,
+        "end": 205.38
+      },
+      {
+        "word": " teaching",
+        "start": 205.38,
+        "end": 205.7
+      },
+      {
+        "word": " the",
+        "start": 205.7,
+        "end": 205.96
+      },
+      {
+        "word": " children",
+        "start": 205.96,
+        "end": 206.32
+      },
+      {
+        "word": " to",
+        "start": 206.32,
+        "end": 206.56
+      },
+      {
+        "word": " make",
+        "start": 206.56,
+        "end": 206.76
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "start": 206.76,
+    "end": 207.46,
+    "text": "paper planes.",
+    "words": [
+      {
+        "word": " paper",
+        "start": 206.76,
+        "end": 207.14
+      },
+      {
+        "word": " planes.",
+        "start": 207.14,
+        "end": 207.46
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "start": 207.98,
+    "end": 212.0,
+    "text": "Yes, here from the grapevine is an expression meaning that",
+    "words": [
+      {
+        "word": " Yes,",
+        "start": 207.98,
+        "end": 208.16
+      },
+      {
+        "word": " here",
+        "start": 208.56,
+        "end": 208.88
+      },
+      {
+        "word": " from",
+        "start": 208.88,
+        "end": 209.36
+      },
+      {
+        "word": " the",
+        "start": 209.36,
+        "end": 209.56
+      },
+      {
+        "word": " grapevine",
+        "start": 209.56,
+        "end": 210.28
+      },
+      {
+        "word": " is",
+        "start": 210.28,
+        "end": 210.8
+      },
+      {
+        "word": " an",
+        "start": 210.8,
+        "end": 210.92
+      },
+      {
+        "word": " expression",
+        "start": 210.92,
+        "end": 211.22
+      },
+      {
+        "word": " meaning",
+        "start": 211.22,
+        "end": 211.64
+      },
+      {
+        "word": " that",
+        "start": 211.64,
+        "end": 212.0
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "start": 212.0,
+    "end": 213.54,
+    "text": "something is a rumour.",
+    "words": [
+      {
+        "word": " something",
+        "start": 212.0,
+        "end": 212.44
+      },
+      {
+        "word": " is",
+        "start": 212.44,
+        "end": 212.88
+      },
+      {
+        "word": " a",
+        "start": 212.88,
+        "end": 213.0
+      },
+      {
+        "word": " rumour.",
+        "start": 213.0,
+        "end": 213.54
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "start": 213.84,
+    "end": 215.98,
+    "text": "We also say here on the grapevine.",
+    "words": [
+      {
+        "word": " We",
+        "start": 213.84,
+        "end": 214.0
+      },
+      {
+        "word": " also",
+        "start": 214.0,
+        "end": 214.18
+      },
+      {
+        "word": " say",
+        "start": 214.18,
+        "end": 214.44
+      },
+      {
+        "word": " here",
+        "start": 214.44,
+        "end": 214.82
+      },
+      {
+        "word": " on",
+        "start": 214.82,
+        "end": 215.22
+      },
+      {
+        "word": " the",
+        "start": 215.22,
+        "end": 215.44
+      },
+      {
+        "word": " grapevine.",
+        "start": 215.44,
+        "end": 215.98
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "start": 216.58,
+    "end": 219.66,
+    "text": "Well, this nursery sounds like a really lovely project, Phil.",
+    "words": [
+      {
+        "word": " Well,",
+        "start": 216.58,
+        "end": 216.72
+      },
+      {
+        "word": " this",
+        "start": 216.76,
+        "end": 216.92
+      },
+      {
+        "word": " nursery",
+        "start": 216.92,
+        "end": 217.24
+      },
+      {
+        "word": " sounds",
+        "start": 217.24,
+        "end": 217.56
+      },
+      {
+        "word": " like",
+        "start": 217.56,
+        "end": 217.74
+      },
+      {
+        "word": " a",
+        "start": 217.74,
+        "end": 217.88
+      },
+      {
+        "word": " really",
+        "start": 217.88,
+        "end": 218.2
+      },
+      {
+        "word": " lovely",
+        "start": 218.2,
+        "end": 218.66
+      },
+      {
+        "word": " project,",
+        "start": 218.66,
+        "end": 219.34
+      },
+      {
+        "word": " Phil.",
+        "start": 219.52,
+        "end": 219.66
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "start": 220.28,
+    "end": 223.4,
+    "text": "What is the impact it's having on the older and younger people?",
+    "words": [
+      {
+        "word": " What",
+        "start": 220.28,
+        "end": 220.5
+      },
+      {
+        "word": " is",
+        "start": 220.5,
+        "end": 220.7
+      },
+      {
+        "word": " the",
+        "start": 220.7,
+        "end": 220.82
+      },
+      {
+        "word": " impact",
+        "start": 220.82,
+        "end": 221.24
+      },
+      {
+        "word": " it's",
+        "start": 221.24,
+        "end": 221.52
+      },
+      {
+        "word": " having",
+        "start": 221.52,
+        "end": 221.8
+      },
+      {
+        "word": " on",
+        "start": 221.8,
+        "end": 222.08
+      },
+      {
+        "word": " the",
+        "start": 222.08,
+        "end": 222.2
+      },
+      {
+        "word": " older",
+        "start": 222.2,
+        "end": 222.52
+      },
+      {
+        "word": " and",
+        "start": 222.52,
+        "end": 222.76
+      },
+      {
+        "word": " younger",
+        "start": 222.76,
+        "end": 223.06
+      },
+      {
+        "word": " people?",
+        "start": 223.06,
+        "end": 223.4
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "start": 223.88,
+    "end": 227.22,
+    "text": "Well, the charity Ready Generations, which runs the",
+    "words": [
+      {
+        "word": " Well,",
+        "start": 223.88,
+        "end": 224.14
+      },
+      {
+        "word": " the",
+        "start": 224.32,
+        "end": 224.44
+      },
+      {
+        "word": " charity",
+        "start": 224.44,
+        "end": 224.94
+      },
+      {
+        "word": " Ready",
+        "start": 224.94,
+        "end": 225.5
+      },
+      {
+        "word": " Generations,",
+        "start": 225.5,
+        "end": 226.34
+      },
+      {
+        "word": " which",
+        "start": 226.44,
+        "end": 226.66
+      },
+      {
+        "word": " runs",
+        "start": 226.66,
+        "end": 226.98
+      },
+      {
+        "word": " the",
+        "start": 226.98,
+        "end": 227.28
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "start": 227.28,
+    "end": 230.56,
+    "text": "nursery, says it works with universities to study the",
+    "words": [
+      {
+        "word": " nursery,",
+        "start": 227.28,
+        "end": 227.58
+      },
+      {
+        "word": " says",
+        "start": 227.98,
+        "end": 228.24
+      },
+      {
+        "word": " it",
+        "start": 228.24,
+        "end": 228.4
+      },
+      {
+        "word": " works",
+        "start": 228.4,
+        "end": 228.72
+      },
+      {
+        "word": " with",
+        "start": 228.72,
+        "end": 229.0
+      },
+      {
+        "word": " universities",
+        "start": 229.0,
+        "end": 229.74
+      },
+      {
+        "word": " to",
+        "start": 229.74,
+        "end": 230.08
+      },
+      {
+        "word": " study",
+        "start": 230.08,
+        "end": 230.4
+      },
+      {
+        "word": " the",
+        "start": 230.4,
+        "end": 230.56
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "start": 230.56,
+    "end": 234.1,
+    "text": "effects of mixing generations on health and well-being, and",
+    "words": [
+      {
+        "word": " effects",
+        "start": 230.56,
+        "end": 230.88
+      },
+      {
+        "word": " of",
+        "start": 230.88,
+        "end": 231.08
+      },
+      {
+        "word": " mixing",
+        "start": 231.08,
+        "end": 231.36
+      },
+      {
+        "word": " generations",
+        "start": 231.36,
+        "end": 231.9
+      },
+      {
+        "word": " on",
+        "start": 231.9,
+        "end": 232.3
+      },
+      {
+        "word": " health",
+        "start": 232.3,
+        "end": 232.74
+      },
+      {
+        "word": " and",
+        "start": 232.74,
+        "end": 233.04
+      },
+      {
+        "word": " well",
+        "start": 233.04,
+        "end": 233.3
+      },
+      {
+        "word": "-being,",
+        "start": 233.3,
+        "end": 233.58
+      },
+      {
+        "word": " and",
+        "start": 233.9,
+        "end": 234.1
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "start": 234.1,
+    "end": 237.4,
+    "text": "they say they've seen positive results and there's been",
+    "words": [
+      {
+        "word": " they",
+        "start": 234.1,
+        "end": 234.2
+      },
+      {
+        "word": " say",
+        "start": 234.2,
+        "end": 234.36
+      },
+      {
+        "word": " they've",
+        "start": 234.36,
+        "end": 234.58
+      },
+      {
+        "word": " seen",
+        "start": 234.58,
+        "end": 234.86
+      },
+      {
+        "word": " positive",
+        "start": 234.86,
+        "end": 235.34
+      },
+      {
+        "word": " results",
+        "start": 235.34,
+        "end": 235.96
+      },
+      {
+        "word": " and",
+        "start": 235.96,
+        "end": 236.9
+      },
+      {
+        "word": " there's",
+        "start": 236.9,
+        "end": 237.28
+      },
+      {
+        "word": " been",
+        "start": 237.28,
+        "end": 237.4
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "start": 237.4,
+    "end": 240.24,
+    "text": "studies around the world on projects that encourage",
+    "words": [
+      {
+        "word": " studies",
+        "start": 237.4,
+        "end": 237.88
+      },
+      {
+        "word": " around",
+        "start": 237.88,
+        "end": 238.54
+      },
+      {
+        "word": " the",
+        "start": 238.54,
+        "end": 238.78
+      },
+      {
+        "word": " world",
+        "start": 238.78,
+        "end": 239.04
+      },
+      {
+        "word": " on",
+        "start": 239.04,
+        "end": 239.3
+      },
+      {
+        "word": " projects",
+        "start": 239.3,
+        "end": 239.66
+      },
+      {
+        "word": " that",
+        "start": 239.66,
+        "end": 239.9
+      },
+      {
+        "word": " encourage",
+        "start": 239.9,
+        "end": 240.24
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "start": 240.24,
+    "end": 241.8,
+    "text": "different generations to mix.",
+    "words": [
+      {
+        "word": " different",
+        "start": 240.24,
+        "end": 240.66
+      },
+      {
+        "word": " generations",
+        "start": 240.66,
+        "end": 241.2
+      },
+      {
+        "word": " to",
+        "start": 241.2,
+        "end": 241.44
+      },
+      {
+        "word": " mix.",
+        "start": 241.44,
+        "end": 241.8
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "start": 242.22,
+    "end": 246.2,
+    "text": "And they found that they can help reduce loneliness, improve",
+    "words": [
+      {
+        "word": " And",
+        "start": 242.22,
+        "end": 242.54
+      },
+      {
+        "word": " they",
+        "start": 242.54,
+        "end": 242.66
+      },
+      {
+        "word": " found",
+        "start": 242.66,
+        "end": 243.08
+      },
+      {
+        "word": " that",
+        "start": 243.08,
+        "end": 243.38
+      },
+      {
+        "word": " they",
+        "start": 243.38,
+        "end": 243.52
+      },
+      {
+        "word": " can",
+        "start": 243.52,
+        "end": 243.66
+      },
+      {
+        "word": " help",
+        "start": 243.66,
+        "end": 243.94
+      },
+      {
+        "word": " reduce",
+        "start": 243.94,
+        "end": 244.38
+      },
+      {
+        "word": " loneliness,",
+        "start": 244.38,
+        "end": 245.14
+      },
+      {
+        "word": " improve",
+        "start": 245.76,
+        "end": 246.2
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "start": 246.2,
+    "end": 249.48,
+    "text": "how healthy and well people feel, and even boost",
+    "words": [
+      {
+        "word": " how",
+        "start": 246.2,
+        "end": 246.46
+      },
+      {
+        "word": " healthy",
+        "start": 246.46,
+        "end": 246.86
+      },
+      {
+        "word": " and",
+        "start": 246.86,
+        "end": 247.12
+      },
+      {
+        "word": " well",
+        "start": 247.12,
+        "end": 247.44
+      },
+      {
+        "word": " people",
+        "start": 247.44,
+        "end": 247.88
+      },
+      {
+        "word": " feel,",
+        "start": 247.88,
+        "end": 248.28
+      },
+      {
+        "word": " and",
+        "start": 248.76,
+        "end": 248.94
+      },
+      {
+        "word": " even",
+        "start": 248.94,
+        "end": 249.16
+      },
+      {
+        "word": " boost",
+        "start": 249.16,
+        "end": 249.48
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "start": 249.48,
+    "end": 250.88,
+    "text": "learning and creativity.",
+    "words": [
+      {
+        "word": " learning",
+        "start": 249.48,
+        "end": 250.02
+      },
+      {
+        "word": " and",
+        "start": 250.02,
+        "end": 250.3
+      },
+      {
+        "word": " creativity.",
+        "start": 250.3,
+        "end": 250.88
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "start": 251.62,
+    "end": 255.2,
+    "text": "And people fixing the world host Myra spoke to Liz",
+    "words": [
+      {
+        "word": " And",
+        "start": 251.62,
+        "end": 251.82
+      },
+      {
+        "word": " people",
+        "start": 251.82,
+        "end": 252.34
+      },
+      {
+        "word": " fixing",
+        "start": 252.34,
+        "end": 252.72
+      },
+      {
+        "word": " the",
+        "start": 252.72,
+        "end": 252.92
+      },
+      {
+        "word": " world",
+        "start": 252.92,
+        "end": 253.14
+      },
+      {
+        "word": " host",
+        "start": 253.14,
+        "end": 253.42
+      },
+      {
+        "word": " Myra",
+        "start": 253.42,
+        "end": 254.1
+      },
+      {
+        "word": " spoke",
+        "start": 254.1,
+        "end": 254.64
+      },
+      {
+        "word": " to",
+        "start": 254.64,
+        "end": 254.84
+      },
+      {
+        "word": " Liz",
+        "start": 254.84,
+        "end": 255.2
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "start": 255.2,
+    "end": 258.84,
+    "text": "Ludden, co-founder of the nursery in Chester, about the",
+    "words": [
+      {
+        "word": " Ludden,",
+        "start": 255.2,
+        "end": 255.72
+      },
+      {
+        "word": " co",
+        "start": 255.86,
+        "end": 256.1
+      },
+      {
+        "word": "-founder",
+        "start": 256.1,
+        "end": 256.42
+      },
+      {
+        "word": " of",
+        "start": 256.42,
+        "end": 256.7
+      },
+      {
+        "word": " the",
+        "start": 256.7,
+        "end": 256.84
+      },
+      {
+        "word": " nursery",
+        "start": 256.84,
+        "end": 257.14
+      },
+      {
+        "word": " in",
+        "start": 257.14,
+        "end": 257.42
+      },
+      {
+        "word": " Chester,",
+        "start": 257.42,
+        "end": 257.8
+      },
+      {
+        "word": " about",
+        "start": 258.42,
+        "end": 258.66
+      },
+      {
+        "word": " the",
+        "start": 258.66,
+        "end": 258.84
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "start": 258.84,
+    "end": 261.38,
+    "text": "differences that she's noticed since it opened.",
+    "words": [
+      {
+        "word": " differences",
+        "start": 258.84,
+        "end": 259.38
+      },
+      {
+        "word": " that",
+        "start": 259.38,
+        "end": 259.68
+      },
+      {
+        "word": " she's",
+        "start": 259.68,
+        "end": 259.96
+      },
+      {
+        "word": " noticed",
+        "start": 259.96,
+        "end": 260.3
+      },
+      {
+        "word": " since",
+        "start": 260.3,
+        "end": 260.9
+      },
+      {
+        "word": " it",
+        "start": 260.9,
+        "end": 261.06
+      },
+      {
+        "word": " opened.",
+        "start": 261.06,
+        "end": 261.38
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "start": 262.04,
+    "end": 265.2,
+    "text": "And as I realised, these interactions also seem to be",
+    "words": [
+      {
+        "word": " And",
+        "start": 262.04,
+        "end": 262.2
+      },
+      {
+        "word": " as",
+        "start": 262.2,
+        "end": 262.32
+      },
+      {
+        "word": " I",
+        "start": 262.32,
+        "end": 262.48
+      },
+      {
+        "word": " realised,",
+        "start": 262.48,
+        "end": 262.92
+      },
+      {
+        "word": " these",
+        "start": 263.44,
+        "end": 263.62
+      },
+      {
+        "word": " interactions",
+        "start": 263.62,
+        "end": 264.2
+      },
+      {
+        "word": " also",
+        "start": 264.2,
+        "end": 264.64
+      },
+      {
+        "word": " seem",
+        "start": 264.64,
+        "end": 264.9
+      },
+      {
+        "word": " to",
+        "start": 264.9,
+        "end": 265.06
+      },
+      {
+        "word": " be",
+        "start": 265.06,
+        "end": 265.2
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "start": 265.2,
+    "end": 266.58,
+    "text": "breaking down stereotypes.",
+    "words": [
+      {
+        "word": " breaking",
+        "start": 265.2,
+        "end": 265.48
+      },
+      {
+        "word": " down",
+        "start": 265.48,
+        "end": 265.84
+      },
+      {
+        "word": " stereotypes.",
+        "start": 265.84,
+        "end": 266.58
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "start": 267.22,
+    "end": 270.64,
+    "text": "Your first thought would be how lively and energetic",
+    "words": [
+      {
+        "word": " Your",
+        "start": 267.22,
+        "end": 267.34
+      },
+      {
+        "word": " first",
+        "start": 267.34,
+        "end": 267.72
+      },
+      {
+        "word": " thought",
+        "start": 267.72,
+        "end": 268.06
+      },
+      {
+        "word": " would",
+        "start": 268.06,
+        "end": 268.26
+      },
+      {
+        "word": " be",
+        "start": 268.26,
+        "end": 268.52
+      },
+      {
+        "word": " how",
+        "start": 268.52,
+        "end": 268.86
+      },
+      {
+        "word": " lively",
+        "start": 268.86,
+        "end": 269.94
+      },
+      {
+        "word": " and",
+        "start": 269.94,
+        "end": 270.18
+      },
+      {
+        "word": " energetic",
+        "start": 270.18,
+        "end": 270.64
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "start": 270.64,
+    "end": 272.14,
+    "text": "young children can be.",
+    "words": [
+      {
+        "word": " young",
+        "start": 270.64,
+        "end": 271.1
+      },
+      {
+        "word": " children",
+        "start": 271.1,
+        "end": 271.48
+      },
+      {
+        "word": " can",
+        "start": 271.48,
+        "end": 271.8
+      },
+      {
+        "word": " be.",
+        "start": 271.8,
+        "end": 272.14
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "start": 272.72,
+    "end": 275.32,
+    "text": "And what we found is so can older people.",
+    "words": [
+      {
+        "word": " And",
+        "start": 272.72,
+        "end": 272.96
+      },
+      {
+        "word": " what",
+        "start": 272.96,
+        "end": 273.12
+      },
+      {
+        "word": " we",
+        "start": 273.12,
+        "end": 273.28
+      },
+      {
+        "word": " found",
+        "start": 273.28,
+        "end": 273.64
+      },
+      {
+        "word": " is",
+        "start": 273.64,
+        "end": 274.0
+      },
+      {
+        "word": " so",
+        "start": 274.0,
+        "end": 274.38
+      },
+      {
+        "word": " can",
+        "start": 274.38,
+        "end": 274.62
+      },
+      {
+        "word": " older",
+        "start": 274.62,
+        "end": 274.82
+      },
+      {
+        "word": " people.",
+        "start": 274.82,
+        "end": 275.32
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "start": 276.08,
+    "end": 278.98,
+    "text": "And so sometimes, you know, it's the older people that",
+    "words": [
+      {
+        "word": " And",
+        "start": 276.08,
+        "end": 276.3
+      },
+      {
+        "word": " so",
+        "start": 276.3,
+        "end": 276.62
+      },
+      {
+        "word": " sometimes,",
+        "start": 276.62,
+        "end": 277.18
+      },
+      {
+        "word": " you",
+        "start": 277.48,
+        "end": 277.62
+      },
+      {
+        "word": " know,",
+        "start": 277.62,
+        "end": 277.74
+      },
+      {
+        "word": " it's",
+        "start": 277.84,
+        "end": 278.04
+      },
+      {
+        "word": " the",
+        "start": 278.04,
+        "end": 278.18
+      },
+      {
+        "word": " older",
+        "start": 278.18,
+        "end": 278.42
+      },
+      {
+        "word": " people",
+        "start": 278.42,
+        "end": 278.76
+      },
+      {
+        "word": " that",
+        "start": 278.76,
+        "end": 278.98
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "start": 278.98,
+    "end": 281.46,
+    "text": "we're saying, can we just calm this down a little bit?",
+    "words": [
+      {
+        "word": " we're",
+        "start": 278.98,
+        "end": 279.14
+      },
+      {
+        "word": " saying,",
+        "start": 279.14,
+        "end": 279.38
+      },
+      {
+        "word": " can",
+        "start": 279.54,
+        "end": 279.66
+      },
+      {
+        "word": " we",
+        "start": 279.66,
+        "end": 279.8
+      },
+      {
+        "word": " just",
+        "start": 279.8,
+        "end": 280.0
+      },
+      {
+        "word": " calm",
+        "start": 280.0,
+        "end": 280.3
+      },
+      {
+        "word": " this",
+        "start": 280.3,
+        "end": 280.5
+      },
+      {
+        "word": " down",
+        "start": 280.5,
+        "end": 280.78
+      },
+      {
+        "word": " a",
+        "start": 280.78,
+        "end": 280.96
+      },
+      {
+        "word": " little",
+        "start": 280.96,
+        "end": 281.1
+      },
+      {
+        "word": " bit?",
+        "start": 281.1,
+        "end": 281.46
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "start": 281.9,
+    "end": 284.66,
+    "text": "Myra says the nursery breaks down stereotypes.",
+    "words": [
+      {
+        "word": " Myra",
+        "start": 281.9,
+        "end": 282.3
+      },
+      {
+        "word": " says",
+        "start": 282.3,
+        "end": 282.54
+      },
+      {
+        "word": " the",
+        "start": 282.54,
+        "end": 282.74
+      },
+      {
+        "word": " nursery",
+        "start": 282.74,
+        "end": 283.18
+      },
+      {
+        "word": " breaks",
+        "start": 283.18,
+        "end": 283.68
+      },
+      {
+        "word": " down",
+        "start": 283.68,
+        "end": 283.98
+      },
+      {
+        "word": " stereotypes.",
+        "start": 283.98,
+        "end": 284.66
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "start": 284.66,
+    "end": 287.54,
+    "text": "This means it provides evidence that common beliefs",
+    "words": [
+      {
+        "word": " This",
+        "start": 284.66,
+        "end": 284.94
+      },
+      {
+        "word": " means",
+        "start": 284.94,
+        "end": 285.5
+      },
+      {
+        "word": " it",
+        "start": 285.5,
+        "end": 285.72
+      },
+      {
+        "word": " provides",
+        "start": 285.72,
+        "end": 286.0
+      },
+      {
+        "word": " evidence",
+        "start": 286.0,
+        "end": 286.56
+      },
+      {
+        "word": " that",
+        "start": 286.56,
+        "end": 286.86
+      },
+      {
+        "word": " common",
+        "start": 286.86,
+        "end": 287.16
+      },
+      {
+        "word": " beliefs",
+        "start": 287.16,
+        "end": 287.54
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "start": 287.54,
+    "end": 289.76,
+    "text": "about a group of people are not true.",
+    "words": [
+      {
+        "word": " about",
+        "start": 287.54,
+        "end": 287.9
+      },
+      {
+        "word": " a",
+        "start": 287.9,
+        "end": 288.16
+      },
+      {
+        "word": " group",
+        "start": 288.16,
+        "end": 288.38
+      },
+      {
+        "word": " of",
+        "start": 288.38,
+        "end": 288.56
+      },
+      {
+        "word": " people",
+        "start": 288.56,
+        "end": 288.9
+      },
+      {
+        "word": " are",
+        "start": 288.9,
+        "end": 289.22
+      },
+      {
+        "word": " not",
+        "start": 289.22,
+        "end": 289.38
+      },
+      {
+        "word": " true.",
+        "start": 289.38,
+        "end": 289.76
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "start": 290.32,
+    "end": 293.36,
+    "text": "For example, a stereotype about generations is that",
+    "words": [
+      {
+        "word": " For",
+        "start": 290.32,
+        "end": 290.42
+      },
+      {
+        "word": " example,",
+        "start": 290.42,
+        "end": 290.94
+      },
+      {
+        "word": " a",
+        "start": 291.2,
+        "end": 291.34
+      },
+      {
+        "word": " stereotype",
+        "start": 291.34,
+        "end": 291.9
+      },
+      {
+        "word": " about",
+        "start": 291.9,
+        "end": 292.24
+      },
+      {
+        "word": " generations",
+        "start": 292.24,
+        "end": 292.84
+      },
+      {
+        "word": " is",
+        "start": 292.84,
+        "end": 293.2
+      },
+      {
+        "word": " that",
+        "start": 293.2,
+        "end": 293.36
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "start": 293.36,
+    "end": 297.04,
+    "text": "younger people are lively, meaning they're loud and",
+    "words": [
+      {
+        "word": " younger",
+        "start": 293.36,
+        "end": 293.82
+      },
+      {
+        "word": " people",
+        "start": 293.82,
+        "end": 294.24
+      },
+      {
+        "word": " are",
+        "start": 294.24,
+        "end": 294.58
+      },
+      {
+        "word": " lively,",
+        "start": 294.58,
+        "end": 295.26
+      },
+      {
+        "word": " meaning",
+        "start": 295.74,
+        "end": 295.98
+      },
+      {
+        "word": " they're",
+        "start": 295.98,
+        "end": 296.36
+      },
+      {
+        "word": " loud",
+        "start": 296.36,
+        "end": 296.7
+      },
+      {
+        "word": " and",
+        "start": 296.7,
+        "end": 297.04
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "start": 297.04,
+    "end": 300.36,
+    "text": "have lots of energy, whereas older people are not",
+    "words": [
+      {
+        "word": " have",
+        "start": 297.04,
+        "end": 297.3
+      },
+      {
+        "word": " lots",
+        "start": 297.3,
+        "end": 297.58
+      },
+      {
+        "word": " of",
+        "start": 297.58,
+        "end": 297.76
+      },
+      {
+        "word": " energy,",
+        "start": 297.76,
+        "end": 298.08
+      },
+      {
+        "word": " whereas",
+        "start": 298.56,
+        "end": 298.78
+      },
+      {
+        "word": " older",
+        "start": 298.78,
+        "end": 299.32
+      },
+      {
+        "word": " people",
+        "start": 299.32,
+        "end": 299.68
+      },
+      {
+        "word": " are",
+        "start": 299.68,
+        "end": 300.04
+      },
+      {
+        "word": " not",
+        "start": 300.04,
+        "end": 300.36
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "start": 300.36,
+    "end": 302.08,
+    "text": "that lively. Right.",
+    "words": [
+      {
+        "word": " that",
+        "start": 300.36,
+        "end": 300.6
+      },
+      {
+        "word": " lively.",
+        "start": 300.6,
+        "end": 301.06
+      },
+      {
+        "word": " Right.",
+        "start": 301.74,
+        "end": 302.08
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "start": 302.36,
+    "end": 305.08,
+    "text": "But in the nursery, Liz says it's often the older",
+    "words": [
+      {
+        "word": " But",
+        "start": 302.36,
+        "end": 302.46
+      },
+      {
+        "word": " in",
+        "start": 302.46,
+        "end": 302.74
+      },
+      {
+        "word": " the",
+        "start": 302.74,
+        "end": 302.84
+      },
+      {
+        "word": " nursery,",
+        "start": 302.84,
+        "end": 303.18
+      },
+      {
+        "word": " Liz",
+        "start": 303.52,
+        "end": 303.6
+      },
+      {
+        "word": " says",
+        "start": 303.6,
+        "end": 303.98
+      },
+      {
+        "word": " it's",
+        "start": 303.98,
+        "end": 304.32
+      },
+      {
+        "word": " often",
+        "start": 304.32,
+        "end": 304.6
+      },
+      {
+        "word": " the",
+        "start": 304.6,
+        "end": 304.78
+      },
+      {
+        "word": " older",
+        "start": 304.78,
+        "end": 305.08
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "start": 305.08,
+    "end": 307.44,
+    "text": "people who have lots of energy and are being",
+    "words": [
+      {
+        "word": " people",
+        "start": 305.08,
+        "end": 305.44
+      },
+      {
+        "word": " who",
+        "start": 305.44,
+        "end": 305.72
+      },
+      {
+        "word": " have",
+        "start": 305.72,
+        "end": 305.94
+      },
+      {
+        "word": " lots",
+        "start": 305.94,
+        "end": 306.22
+      },
+      {
+        "word": " of",
+        "start": 306.22,
+        "end": 306.42
+      },
+      {
+        "word": " energy",
+        "start": 306.42,
+        "end": 306.7
+      },
+      {
+        "word": " and",
+        "start": 306.7,
+        "end": 307.06
+      },
+      {
+        "word": " are",
+        "start": 307.06,
+        "end": 307.2
+      },
+      {
+        "word": " being",
+        "start": 307.2,
+        "end": 307.44
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "start": 307.44,
+    "end": 309.36,
+    "text": "noisy rather than the children.",
+    "words": [
+      {
+        "word": " noisy",
+        "start": 307.44,
+        "end": 307.9
+      },
+      {
+        "word": " rather",
+        "start": 307.9,
+        "end": 308.5
+      },
+      {
+        "word": " than",
+        "start": 308.5,
+        "end": 308.92
+      },
+      {
+        "word": " the",
+        "start": 308.92,
+        "end": 309.0
+      },
+      {
+        "word": " children.",
+        "start": 309.0,
+        "end": 309.36
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "start": 309.88,
+    "end": 311.98,
+    "text": "The staff even have to tell them to calm down",
+    "words": [
+      {
+        "word": " The",
+        "start": 309.88,
+        "end": 310.04
+      },
+      {
+        "word": " staff",
+        "start": 310.04,
+        "end": 310.24
+      },
+      {
+        "word": " even",
+        "start": 310.24,
+        "end": 310.62
+      },
+      {
+        "word": " have",
+        "start": 310.62,
+        "end": 310.84
+      },
+      {
+        "word": " to",
+        "start": 310.84,
+        "end": 310.98
+      },
+      {
+        "word": " tell",
+        "start": 310.98,
+        "end": 311.16
+      },
+      {
+        "word": " them",
+        "start": 311.16,
+        "end": 311.36
+      },
+      {
+        "word": " to",
+        "start": 311.36,
+        "end": 311.48
+      },
+      {
+        "word": " calm",
+        "start": 311.48,
+        "end": 311.72
+      },
+      {
+        "word": " down",
+        "start": 311.72,
+        "end": 311.98
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "start": 311.98,
+    "end": 312.44,
+    "text": "sometimes.",
+    "words": [
+      {
+        "word": " sometimes.",
+        "start": 311.98,
+        "end": 312.44
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "start": 313.48,
+    "end": 316.14,
+    "text": "So, Georgie, is that something that you found in",
+    "words": [
+      {
+        "word": " So,",
+        "start": 313.47999999999996,
+        "end": 313.96
+      },
+      {
+        "word": " Georgie,",
+        "start": 313.96,
+        "end": 314.44
+      },
+      {
+        "word": " is",
+        "start": 314.54,
+        "end": 314.68
+      },
+      {
+        "word": " that",
+        "start": 314.68,
+        "end": 314.9
+      },
+      {
+        "word": " something",
+        "start": 314.9,
+        "end": 315.26
+      },
+      {
+        "word": " that",
+        "start": 315.26,
+        "end": 315.6
+      },
+      {
+        "word": " you",
+        "start": 315.6,
+        "end": 315.72
+      },
+      {
+        "word": " found",
+        "start": 315.72,
+        "end": 315.96
+      },
+      {
+        "word": " in",
+        "start": 315.96,
+        "end": 316.14
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "start": 316.14,
+    "end": 316.56,
+    "text": "your choir?",
+    "words": [
+      {
+        "word": " your",
+        "start": 316.14,
+        "end": 316.28
+      },
+      {
+        "word": " choir?",
+        "start": 316.28,
+        "end": 316.56
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "start": 317.22,
+    "end": 318.02,
+    "text": "Actually, yes.",
+    "words": [
+      {
+        "word": " Actually,",
+        "start": 317.22,
+        "end": 317.62
+      },
+      {
+        "word": " yes.",
+        "start": 317.78,
+        "end": 318.02
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "start": 318.22,
+    "end": 320.7,
+    "text": "The older people in my choir are big characters.",
+    "words": [
+      {
+        "word": " The",
+        "start": 318.22,
+        "end": 318.28
+      },
+      {
+        "word": " older",
+        "start": 318.28,
+        "end": 318.48
+      },
+      {
+        "word": " people",
+        "start": 318.48,
+        "end": 318.78
+      },
+      {
+        "word": " in",
+        "start": 318.78,
+        "end": 318.96
+      },
+      {
+        "word": " my",
+        "start": 318.96,
+        "end": 319.12
+      },
+      {
+        "word": " choir",
+        "start": 319.12,
+        "end": 319.48
+      },
+      {
+        "word": " are",
+        "start": 319.48,
+        "end": 319.8
+      },
+      {
+        "word": " big",
+        "start": 319.8,
+        "end": 320.16
+      },
+      {
+        "word": " characters.",
+        "start": 320.16,
+        "end": 320.7
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "start": 320.9,
+    "end": 323.42,
+    "text": "It's often them who are dragging us all to the pub.",
+    "words": [
+      {
+        "word": " It's",
+        "start": 320.9,
+        "end": 321.02
+      },
+      {
+        "word": " often",
+        "start": 321.02,
+        "end": 321.32
+      },
+      {
+        "word": " them",
+        "start": 321.32,
+        "end": 321.6
+      },
+      {
+        "word": " who",
+        "start": 321.6,
+        "end": 322.0
+      },
+      {
+        "word": " are",
+        "start": 322.0,
+        "end": 322.2
+      },
+      {
+        "word": " dragging",
+        "start": 322.2,
+        "end": 322.56
+      },
+      {
+        "word": " us",
+        "start": 322.56,
+        "end": 322.8
+      },
+      {
+        "word": " all",
+        "start": 322.8,
+        "end": 322.98
+      },
+      {
+        "word": " to",
+        "start": 322.98,
+        "end": 323.12
+      },
+      {
+        "word": " the",
+        "start": 323.12,
+        "end": 323.22
+      },
+      {
+        "word": " pub.",
+        "start": 323.22,
+        "end": 323.42
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "start": 324.4,
+    "end": 326.72,
+    "text": "OK, Georgie, I think it's time to look at the",
+    "words": [
+      {
+        "word": " OK,",
+        "start": 324.4,
+        "end": 324.66
+      },
+      {
+        "word": " Georgie,",
+        "start": 324.82,
+        "end": 325.12
+      },
+      {
+        "word": " I",
+        "start": 325.28,
+        "end": 325.44
+      },
+      {
+        "word": " think",
+        "start": 325.44,
+        "end": 325.62
+      },
+      {
+        "word": " it's",
+        "start": 325.62,
+        "end": 325.86
+      },
+      {
+        "word": " time",
+        "start": 325.86,
+        "end": 326.12
+      },
+      {
+        "word": " to",
+        "start": 326.12,
+        "end": 326.32
+      },
+      {
+        "word": " look",
+        "start": 326.32,
+        "end": 326.46
+      },
+      {
+        "word": " at",
+        "start": 326.46,
+        "end": 326.6
+      },
+      {
+        "word": " the",
+        "start": 326.6,
+        "end": 326.72
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "start": 326.72,
+    "end": 327.92,
+    "text": "answer for that question.",
+    "words": [
+      {
+        "word": " answer",
+        "start": 326.72,
+        "end": 327.14
+      },
+      {
+        "word": " for",
+        "start": 327.14,
+        "end": 327.44
+      },
+      {
+        "word": " that",
+        "start": 327.44,
+        "end": 327.56
+      },
+      {
+        "word": " question.",
+        "start": 327.56,
+        "end": 327.92
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "start": 328.7,
+    "end": 332.54,
+    "text": "I asked if someone was born in 1982, which",
+    "words": [
+      {
+        "word": " I",
+        "start": 328.7,
+        "end": 328.78
+      },
+      {
+        "word": " asked",
+        "start": 328.78,
+        "end": 329.1
+      },
+      {
+        "word": " if",
+        "start": 329.1,
+        "end": 329.48
+      },
+      {
+        "word": " someone",
+        "start": 329.48,
+        "end": 329.86
+      },
+      {
+        "word": " was",
+        "start": 329.86,
+        "end": 330.2
+      },
+      {
+        "word": " born",
+        "start": 330.2,
+        "end": 330.5
+      },
+      {
+        "word": " in",
+        "start": 330.5,
+        "end": 330.7
+      },
+      {
+        "word": " 1982,",
+        "start": 330.7,
+        "end": 331.54
+      },
+      {
+        "word": " which",
+        "start": 332.32,
+        "end": 332.54
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "start": 332.54,
+    "end": 334.3,
+    "text": "generation would they be from?",
+    "words": [
+      {
+        "word": " generation",
+        "start": 332.54,
+        "end": 333.06
+      },
+      {
+        "word": " would",
+        "start": 333.06,
+        "end": 333.62
+      },
+      {
+        "word": " they",
+        "start": 333.62,
+        "end": 333.82
+      },
+      {
+        "word": " be",
+        "start": 333.82,
+        "end": 334.0
+      },
+      {
+        "word": " from?",
+        "start": 334.0,
+        "end": 334.3
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "start": 334.92,
+    "end": 336.74,
+    "text": "I said Generation X.",
+    "words": [
+      {
+        "word": " I",
+        "start": 334.92,
+        "end": 335.18
+      },
+      {
+        "word": " said",
+        "start": 335.18,
+        "end": 335.68
+      },
+      {
+        "word": " Generation",
+        "start": 335.68,
+        "end": 336.14
+      },
+      {
+        "word": " X.",
+        "start": 336.14,
+        "end": 336.74
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "start": 337.44,
+    "end": 339.98,
+    "text": "OK, well, actually, I'm afraid the answer was B.",
+    "words": [
+      {
+        "word": " OK,",
+        "start": 337.44,
+        "end": 337.78
+      },
+      {
+        "word": " well,",
+        "start": 337.9,
+        "end": 338.02
+      },
+      {
+        "word": " actually,",
+        "start": 338.04,
+        "end": 338.38
+      },
+      {
+        "word": " I'm",
+        "start": 338.68,
+        "end": 338.82
+      },
+      {
+        "word": " afraid",
+        "start": 338.82,
+        "end": 339.06
+      },
+      {
+        "word": " the",
+        "start": 339.06,
+        "end": 339.24
+      },
+      {
+        "word": " answer",
+        "start": 339.24,
+        "end": 339.42
+      },
+      {
+        "word": " was",
+        "start": 339.42,
+        "end": 339.64
+      },
+      {
+        "word": " B.",
+        "start": 339.64,
+        "end": 339.98
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "start": 339.98,
+    "end": 342.44,
+    "text": "They're a millennial, just like you.",
+    "words": [
+      {
+        "word": " They're",
+        "start": 339.98,
+        "end": 340.82
+      },
+      {
+        "word": " a",
+        "start": 340.82,
+        "end": 340.9
+      },
+      {
+        "word": " millennial,",
+        "start": 340.9,
+        "end": 341.48
+      },
+      {
+        "word": " just",
+        "start": 341.86,
+        "end": 342.06
+      },
+      {
+        "word": " like",
+        "start": 342.06,
+        "end": 342.26
+      },
+      {
+        "word": " you.",
+        "start": 342.26,
+        "end": 342.44
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "start": 342.92,
+    "end": 347.26,
+    "text": "OK, let's recap the vocabulary we learned in this",
+    "words": [
+      {
+        "word": " OK,",
+        "start": 342.92,
+        "end": 343.48
+      },
+      {
+        "word": " let's",
+        "start": 344.96,
+        "end": 345.22
+      },
+      {
+        "word": " recap",
+        "start": 345.22,
+        "end": 345.5
+      },
+      {
+        "word": " the",
+        "start": 345.5,
+        "end": 345.7
+      },
+      {
+        "word": " vocabulary",
+        "start": 345.7,
+        "end": 346.12
+      },
+      {
+        "word": " we",
+        "start": 346.12,
+        "end": 346.52
+      },
+      {
+        "word": " learned",
+        "start": 346.52,
+        "end": 346.84
+      },
+      {
+        "word": " in",
+        "start": 346.84,
+        "end": 347.1
+      },
+      {
+        "word": " this",
+        "start": 347.1,
+        "end": 347.26
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "start": 347.26,
+    "end": 350.0,
+    "text": "programme, starting with generation, which is a",
+    "words": [
+      {
+        "word": " programme,",
+        "start": 347.26,
+        "end": 347.7
+      },
+      {
+        "word": " starting",
+        "start": 347.9,
+        "end": 348.22
+      },
+      {
+        "word": " with",
+        "start": 348.22,
+        "end": 348.56
+      },
+      {
+        "word": " generation,",
+        "start": 348.56,
+        "end": 349.16
+      },
+      {
+        "word": " which",
+        "start": 349.66,
+        "end": 349.76
+      },
+      {
+        "word": " is",
+        "start": 349.76,
+        "end": 349.88
+      },
+      {
+        "word": " a",
+        "start": 349.88,
+        "end": 350.0
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "start": 350.0,
+    "end": 352.34,
+    "text": "group of people who are of a similar age.",
+    "words": [
+      {
+        "word": " group",
+        "start": 350.0,
+        "end": 350.18
+      },
+      {
+        "word": " of",
+        "start": 350.18,
+        "end": 350.38
+      },
+      {
+        "word": " people",
+        "start": 350.38,
+        "end": 350.68
+      },
+      {
+        "word": " who",
+        "start": 350.68,
+        "end": 350.96
+      },
+      {
+        "word": " are",
+        "start": 350.96,
+        "end": 351.18
+      },
+      {
+        "word": " of",
+        "start": 351.18,
+        "end": 351.44
+      },
+      {
+        "word": " a",
+        "start": 351.44,
+        "end": 351.64
+      },
+      {
+        "word": " similar",
+        "start": 351.64,
+        "end": 351.82
+      },
+      {
+        "word": " age.",
+        "start": 351.82,
+        "end": 352.34
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "start": 352.86,
+    "end": 355.78,
+    "text": "Fill a void means find something to help you",
+    "words": [
+      {
+        "word": " Fill",
+        "start": 352.86,
+        "end": 353.06
+      },
+      {
+        "word": " a",
+        "start": 353.06,
+        "end": 353.34
+      },
+      {
+        "word": " void",
+        "start": 353.34,
+        "end": 353.82
+      },
+      {
+        "word": " means",
+        "start": 353.82,
+        "end": 354.38
+      },
+      {
+        "word": " find",
+        "start": 354.38,
+        "end": 354.86
+      },
+      {
+        "word": " something",
+        "start": 354.86,
+        "end": 355.28
+      },
+      {
+        "word": " to",
+        "start": 355.28,
+        "end": 355.46
+      },
+      {
+        "word": " help",
+        "start": 355.46,
+        "end": 355.62
+      },
+      {
+        "word": " you",
+        "start": 355.62,
+        "end": 355.78
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "start": 355.78,
+    "end": 358.28,
+    "text": "feel better after experiencing loss.",
+    "words": [
+      {
+        "word": " feel",
+        "start": 355.78,
+        "end": 355.96
+      },
+      {
+        "word": " better",
+        "start": 355.96,
+        "end": 356.48
+      },
+      {
+        "word": " after",
+        "start": 356.48,
+        "end": 357.22
+      },
+      {
+        "word": " experiencing",
+        "start": 357.22,
+        "end": 357.78
+      },
+      {
+        "word": " loss.",
+        "start": 357.78,
+        "end": 358.28
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "start": 359.2,
+    "end": 361.36,
+    "text": "Such and such is a way to talk about something",
+    "words": [
+      {
+        "word": " Such",
+        "start": 359.2,
+        "end": 359.4
+      },
+      {
+        "word": " and",
+        "start": 359.4,
+        "end": 359.54
+      },
+      {
+        "word": " such",
+        "start": 359.54,
+        "end": 359.86
+      },
+      {
+        "word": " is",
+        "start": 359.86,
+        "end": 360.02
+      },
+      {
+        "word": " a",
+        "start": 360.02,
+        "end": 360.14
+      },
+      {
+        "word": " way",
+        "start": 360.14,
+        "end": 360.32
+      },
+      {
+        "word": " to",
+        "start": 360.32,
+        "end": 360.52
+      },
+      {
+        "word": " talk",
+        "start": 360.52,
+        "end": 360.7
+      },
+      {
+        "word": " about",
+        "start": 360.7,
+        "end": 360.94
+      },
+      {
+        "word": " something",
+        "start": 360.94,
+        "end": 361.36
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "start": 361.36,
+    "end": 363.54,
+    "text": "without giving a specific example.",
+    "words": [
+      {
+        "word": " without",
+        "start": 361.36,
+        "end": 361.76
+      },
+      {
+        "word": " giving",
+        "start": 361.76,
+        "end": 362.2
+      },
+      {
+        "word": " a",
+        "start": 362.2,
+        "end": 362.48
+      },
+      {
+        "word": " specific",
+        "start": 362.48,
+        "end": 362.84
+      },
+      {
+        "word": " example.",
+        "start": 362.84,
+        "end": 363.54
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "start": 363.94,
+    "end": 367.24,
+    "text": "If you hear something on the grapevine, you",
+    "words": [
+      {
+        "word": " If",
+        "start": 363.94,
+        "end": 364.16
+      },
+      {
+        "word": " you",
+        "start": 364.16,
+        "end": 364.34
+      },
+      {
+        "word": " hear",
+        "start": 364.34,
+        "end": 364.7
+      },
+      {
+        "word": " something",
+        "start": 364.7,
+        "end": 365.16
+      },
+      {
+        "word": " on",
+        "start": 365.16,
+        "end": 365.62
+      },
+      {
+        "word": " the",
+        "start": 365.62,
+        "end": 365.82
+      },
+      {
+        "word": " grapevine,",
+        "start": 365.82,
+        "end": 366.58
+      },
+      {
+        "word": " you",
+        "start": 367.02,
+        "end": 367.24
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "start": 367.24,
+    "end": 367.98,
+    "text": "hear a rumour.",
+    "words": [
+      {
+        "word": " hear",
+        "start": 367.24,
+        "end": 367.42
+      },
+      {
+        "word": " a",
+        "start": 367.42,
+        "end": 367.6
+      },
+      {
+        "word": " rumour.",
+        "start": 367.6,
+        "end": 367.98
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "start": 368.5,
+    "end": 370.94,
+    "text": "The expression break down stereotypes means",
+    "words": [
+      {
+        "word": " The",
+        "start": 368.34000000000003,
+        "end": 368.62
+      },
+      {
+        "word": " expression",
+        "start": 368.62,
+        "end": 369.02
+      },
+      {
+        "word": " break",
+        "start": 369.02,
+        "end": 369.5
+      },
+      {
+        "word": " down",
+        "start": 369.5,
+        "end": 369.82
+      },
+      {
+        "word": " stereotypes",
+        "start": 369.82,
+        "end": 370.44
+      },
+      {
+        "word": " means",
+        "start": 370.44,
+        "end": 370.94
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "start": 370.94,
+    "end": 373.6,
+    "text": "find evidence that common beliefs about a group",
+    "words": [
+      {
+        "word": " find",
+        "start": 370.94,
+        "end": 371.34
+      },
+      {
+        "word": " evidence",
+        "start": 371.34,
+        "end": 371.9
+      },
+      {
+        "word": " that",
+        "start": 371.9,
+        "end": 372.16
+      },
+      {
+        "word": " common",
+        "start": 372.16,
+        "end": 372.48
+      },
+      {
+        "word": " beliefs",
+        "start": 372.48,
+        "end": 372.78
+      },
+      {
+        "word": " about",
+        "start": 372.78,
+        "end": 373.18
+      },
+      {
+        "word": " a",
+        "start": 373.18,
+        "end": 373.42
+      },
+      {
+        "word": " group",
+        "start": 373.42,
+        "end": 373.6
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "start": 373.6,
+    "end": 374.92,
+    "text": "of people are untrue.",
+    "words": [
+      {
+        "word": " of",
+        "start": 373.6,
+        "end": 373.78
+      },
+      {
+        "word": " people",
+        "start": 373.78,
+        "end": 374.06
+      },
+      {
+        "word": " are",
+        "start": 374.06,
+        "end": 374.4
+      },
+      {
+        "word": " untrue.",
+        "start": 374.4,
+        "end": 374.92
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "start": 375.28,
+    "end": 378.76,
+    "text": "And lively means loud and with lots of energy.",
+    "words": [
+      {
+        "word": " And",
+        "start": 375.28,
+        "end": 375.42
+      },
+      {
+        "word": " lively",
+        "start": 375.42,
+        "end": 376.16
+      },
+      {
+        "word": " means",
+        "start": 376.16,
+        "end": 376.8
+      },
+      {
+        "word": " loud",
+        "start": 376.8,
+        "end": 377.4
+      },
+      {
+        "word": " and",
+        "start": 377.4,
+        "end": 377.7
+      },
+      {
+        "word": " with",
+        "start": 377.7,
+        "end": 377.82
+      },
+      {
+        "word": " lots",
+        "start": 377.82,
+        "end": 378.24
+      },
+      {
+        "word": " of",
+        "start": 378.24,
+        "end": 378.44
+      },
+      {
+        "word": " energy.",
+        "start": 378.44,
+        "end": 378.76
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "start": 379.36,
+    "end": 381.7,
+    "text": "Once again, our six minutes are up, but you can",
+    "words": [
+      {
+        "word": " Once",
+        "start": 379.36,
+        "end": 379.54
+      },
+      {
+        "word": " again,",
+        "start": 379.54,
+        "end": 379.86
+      },
+      {
+        "word": " our",
+        "start": 380.14,
+        "end": 380.2
+      },
+      {
+        "word": " six",
+        "start": 380.2,
+        "end": 380.48
+      },
+      {
+        "word": " minutes",
+        "start": 380.48,
+        "end": 380.7
+      },
+      {
+        "word": " are",
+        "start": 380.7,
+        "end": 380.9
+      },
+      {
+        "word": " up,",
+        "start": 380.9,
+        "end": 381.1
+      },
+      {
+        "word": " but",
+        "start": 381.28,
+        "end": 381.36
+      },
+      {
+        "word": " you",
+        "start": 381.36,
+        "end": 381.56
+      },
+      {
+        "word": " can",
+        "start": 381.56,
+        "end": 381.7
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "start": 381.7,
+    "end": 383.66,
+    "text": "test what you've learned with the worksheet on our",
+    "words": [
+      {
+        "word": " test",
+        "start": 381.7,
+        "end": 381.94
+      },
+      {
+        "word": " what",
+        "start": 381.94,
+        "end": 382.1
+      },
+      {
+        "word": " you've",
+        "start": 382.1,
+        "end": 382.32
+      },
+      {
+        "word": " learned",
+        "start": 382.32,
+        "end": 382.56
+      },
+      {
+        "word": " with",
+        "start": 382.56,
+        "end": 382.74
+      },
+      {
+        "word": " the",
+        "start": 382.74,
+        "end": 382.88
+      },
+      {
+        "word": " worksheet",
+        "start": 382.88,
+        "end": 383.22
+      },
+      {
+        "word": " on",
+        "start": 383.22,
+        "end": 383.52
+      },
+      {
+        "word": " our",
+        "start": 383.52,
+        "end": 383.66
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "start": 383.66,
+    "end": 386.56,
+    "text": "website. Go to bbclearningenglish.com.",
+    "words": [
+      {
+        "word": " website.",
+        "start": 383.66,
+        "end": 384.02
+      },
+      {
+        "word": " Go",
+        "start": 384.34,
+        "end": 384.38
+      },
+      {
+        "word": " to",
+        "start": 384.38,
+        "end": 384.6
+      },
+      {
+        "word": " bbclearningenglish",
+        "start": 384.6,
+        "end": 385.94
+      },
+      {
+        "word": ".com.",
+        "start": 385.94,
+        "end": 386.56
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "start": 386.84,
+    "end": 388.6,
+    "text": "Thanks for joining us and goodbye.",
+    "words": [
+      {
+        "word": " Thanks",
+        "start": 386.84,
+        "end": 387.08
+      },
+      {
+        "word": " for",
+        "start": 387.08,
+        "end": 387.22
+      },
+      {
+        "word": " joining",
+        "start": 387.22,
+        "end": 387.44
+      },
+      {
+        "word": " us",
+        "start": 387.44,
+        "end": 387.74
+      },
+      {
+        "word": " and",
+        "start": 387.74,
+        "end": 388.14
+      },
+      {
+        "word": " goodbye.",
+        "start": 388.14,
+        "end": 388.6
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "start": 389.06,
+    "end": 389.3,
+    "text": "Goodbye.",
+    "words": [
+      {
+        "word": " Goodbye.",
+        "start": 389.06,
+        "end": 389.3
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "start": 390.08,
+    "end": 391.2,
+    "text": "Got another six minutes?",
+    "words": [
+      {
+        "word": " Got",
+        "start": 390.08,
+        "end": 390.32
+      },
+      {
+        "word": " another",
+        "start": 390.32,
+        "end": 390.58
+      },
+      {
+        "word": " six",
+        "start": 390.58,
+        "end": 390.9
+      },
+      {
+        "word": " minutes?",
+        "start": 390.9,
+        "end": 391.2
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "start": 391.74,
+    "end": 393.74,
+    "text": "We have lots more to help you with your",
+    "words": [
+      {
+        "word": " We",
+        "start": 391.74,
+        "end": 391.9
+      },
+      {
+        "word": " have",
+        "start": 391.9,
+        "end": 392.1
+      },
+      {
+        "word": " lots",
+        "start": 392.1,
+        "end": 392.48
+      },
+      {
+        "word": " more",
+        "start": 392.48,
+        "end": 392.72
+      },
+      {
+        "word": " to",
+        "start": 392.72,
+        "end": 392.94
+      },
+      {
+        "word": " help",
+        "start": 392.94,
+        "end": 393.14
+      },
+      {
+        "word": " you",
+        "start": 393.14,
+        "end": 393.36
+      },
+      {
+        "word": " with",
+        "start": 393.36,
+        "end": 393.56
+      },
+      {
+        "word": " your",
+        "start": 393.56,
+        "end": 393.74
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "start": 393.74,
+    "end": 397.04,
+    "text": "English. Try real easy English to learn from",
+    "words": [
+      {
+        "word": " English.",
+        "start": 393.74,
+        "end": 394.12
+      },
+      {
+        "word": " Try",
+        "start": 394.68,
+        "end": 394.88
+      },
+      {
+        "word": " real",
+        "start": 394.88,
+        "end": 395.26
+      },
+      {
+        "word": " easy",
+        "start": 395.26,
+        "end": 395.68
+      },
+      {
+        "word": " English",
+        "start": 395.68,
+        "end": 396.06
+      },
+      {
+        "word": " to",
+        "start": 396.06,
+        "end": 396.6
+      },
+      {
+        "word": " learn",
+        "start": 396.6,
+        "end": 396.86
+      },
+      {
+        "word": " from",
+        "start": 396.86,
+        "end": 397.04
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "start": 397.04,
+    "end": 400.14,
+    "text": "natural English conversations or learn some",
+    "words": [
+      {
+        "word": " natural",
+        "start": 397.04,
+        "end": 397.52
+      },
+      {
+        "word": " English",
+        "start": 397.52,
+        "end": 398.0
+      },
+      {
+        "word": " conversations",
+        "start": 398.0,
+        "end": 398.6
+      },
+      {
+        "word": " or",
+        "start": 398.6,
+        "end": 399.6
+      },
+      {
+        "word": " learn",
+        "start": 399.6,
+        "end": 399.98
+      },
+      {
+        "word": " some",
+        "start": 399.98,
+        "end": 400.14
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "start": 400.14,
+    "end": 402.36,
+    "text": "English from the biggest news stories from",
+    "words": [
+      {
+        "word": " English",
+        "start": 400.14,
+        "end": 400.5
+      },
+      {
+        "word": " from",
+        "start": 400.5,
+        "end": 400.82
+      },
+      {
+        "word": " the",
+        "start": 400.82,
+        "end": 400.96
+      },
+      {
+        "word": " biggest",
+        "start": 400.96,
+        "end": 401.28
+      },
+      {
+        "word": " news",
+        "start": 401.28,
+        "end": 401.7
+      },
+      {
+        "word": " stories",
+        "start": 401.7,
+        "end": 402.08
+      },
+      {
+        "word": " from",
+        "start": 402.08,
+        "end": 402.36
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "start": 402.36,
+    "end": 403.2,
+    "text": "around the world.",
+    "words": [
+      {
+        "word": " around",
+        "start": 402.36,
+        "end": 402.66
+      },
+      {
+        "word": " the",
+        "start": 402.66,
+        "end": 402.88
+      },
+      {
+        "word": " world.",
+        "start": 402.88,
+        "end": 403.2
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "start": 403.92,
+    "end": 405.96,
+    "text": "Search BBC Learning English in your podcast",
+    "words": [
+      {
+        "word": " Search",
+        "start": 403.92,
+        "end": 403.96
+      },
+      {
+        "word": " BBC",
+        "start": 403.96,
+        "end": 404.28
+      },
+      {
+        "word": " Learning",
+        "start": 404.28,
+        "end": 404.76
+      },
+      {
+        "word": " English",
+        "start": 404.76,
+        "end": 405.2
+      },
+      {
+        "word": " in",
+        "start": 405.2,
+        "end": 405.5
+      },
+      {
+        "word": " your",
+        "start": 405.5,
+        "end": 405.64
+      },
+      {
+        "word": " podcast",
+        "start": 405.64,
+        "end": 405.96
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "start": 405.96,
+    "end": 408.82,
+    "text": "app to find our other programmes or find",
+    "words": [
+      {
+        "word": " app",
+        "start": 405.96,
+        "end": 406.4
+      },
+      {
+        "word": " to",
+        "start": 406.4,
+        "end": 406.58
+      },
+      {
+        "word": " find",
+        "start": 406.58,
+        "end": 406.9
+      },
+      {
+        "word": " our",
+        "start": 406.9,
+        "end": 407.14
+      },
+      {
+        "word": " other",
+        "start": 407.14,
+        "end": 407.38
+      },
+      {
+        "word": " programmes",
+        "start": 407.38,
+        "end": 407.86
+      },
+      {
+        "word": " or",
+        "start": 407.86,
+        "end": 408.52
+      },
+      {
+        "word": " find",
+        "start": 408.52,
+        "end": 408.82
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "start": 408.82,
+    "end": 411.56,
+    "text": "much more at bbclearningenglish.com.",
+    "words": [
+      {
+        "word": " much",
+        "start": 408.82,
+        "end": 409.22
+      },
+      {
+        "word": " more",
+        "start": 409.22,
+        "end": 409.52
+      },
+      {
+        "word": " at",
+        "start": 409.52,
+        "end": 409.74
+      },
+      {
+        "word": " bbclearningenglish",
+        "start": 409.74,
+        "end": 411.08
+      },
+      {
+        "word": ".com.",
+        "start": 411.08,
+        "end": 411.56
+      }
+    ]
+  }
+]

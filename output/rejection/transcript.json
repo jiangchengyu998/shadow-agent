@@ -1,0 +1,5715 @@
+[
+  {
+    "id": 1,
+    "start": 0.0,
+    "end": 5.2,
+    "text": "Hello and welcome to 6 Minute English from BBC Learning English. I'm Georgie.",
+    "words": [
+      {
+        "word": " Hello",
+        "start": 0.0,
+        "end": 0.5
+      },
+      {
+        "word": " and",
+        "start": 0.5,
+        "end": 0.8
+      },
+      {
+        "word": " welcome",
+        "start": 0.8,
+        "end": 1.12
+      },
+      {
+        "word": " to",
+        "start": 1.12,
+        "end": 1.42
+      },
+      {
+        "word": " 6",
+        "start": 1.42,
+        "end": 1.78
+      },
+      {
+        "word": " Minute",
+        "start": 1.78,
+        "end": 2.04
+      },
+      {
+        "word": " English",
+        "start": 2.04,
+        "end": 2.36
+      },
+      {
+        "word": " from",
+        "start": 2.36,
+        "end": 2.82
+      },
+      {
+        "word": " BBC",
+        "start": 2.82,
+        "end": 3.22
+      },
+      {
+        "word": " Learning",
+        "start": 3.22,
+        "end": 3.7
+      },
+      {
+        "word": " English.",
+        "start": 3.7,
+        "end": 4.16
+      },
+      {
+        "word": " I'm",
+        "start": 4.5,
+        "end": 4.68
+      },
+      {
+        "word": " Georgie.",
+        "start": 4.68,
+        "end": 5.2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "start": 5.5,
+    "end": 14.14,
+    "text": "And I'm Neil. Don't forget you can find vocabulary definitions and a worksheet for free on our website, bbclearningenglish.com.",
+    "words": [
+      {
+        "word": " And",
+        "start": 5.5,
+        "end": 5.62
+      },
+      {
+        "word": " I'm",
+        "start": 5.62,
+        "end": 5.88
+      },
+      {
+        "word": " Neil.",
+        "start": 5.88,
+        "end": 6.04
+      },
+      {
+        "word": " Don't",
+        "start": 6.44,
+        "end": 6.64
+      },
+      {
+        "word": " forget",
+        "start": 6.64,
+        "end": 6.92
+      },
+      {
+        "word": " you",
+        "start": 6.92,
+        "end": 7.2
+      },
+      {
+        "word": " can",
+        "start": 7.2,
+        "end": 7.42
+      },
+      {
+        "word": " find",
+        "start": 7.42,
+        "end": 7.76
+      },
+      {
+        "word": " vocabulary",
+        "start": 7.76,
+        "end": 8.34
+      },
+      {
+        "word": " definitions",
+        "start": 8.34,
+        "end": 8.92
+      },
+      {
+        "word": " and",
+        "start": 8.92,
+        "end": 9.48
+      },
+      {
+        "word": " a",
+        "start": 9.48,
+        "end": 9.66
+      },
+      {
+        "word": " worksheet",
+        "start": 9.66,
+        "end": 9.96
+      },
+      {
+        "word": " for",
+        "start": 9.96,
+        "end": 10.6
+      },
+      {
+        "word": " free",
+        "start": 10.6,
+        "end": 11.06
+      },
+      {
+        "word": " on",
+        "start": 11.06,
+        "end": 11.38
+      },
+      {
+        "word": " our",
+        "start": 11.38,
+        "end": 11.52
+      },
+      {
+        "word": " website,",
+        "start": 11.52,
+        "end": 11.96
+      },
+      {
+        "word": " bbclearningenglish",
+        "start": 12.18,
+        "end": 13.44
+      },
+      {
+        "word": ".com.",
+        "start": 13.44,
+        "end": 14.14
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "start": 14.86,
+    "end": 24.84,
+    "text": "So Neil, today we're talking about rejection. So rejection means saying no to someone or refusing to accept their idea or suggestion.",
+    "words": [
+      {
+        "word": " So",
+        "start": 14.86,
+        "end": 15.48
+      },
+      {
+        "word": " Neil,",
+        "start": 15.48,
+        "end": 15.92
+      },
+      {
+        "word": " today",
+        "start": 16.38,
+        "end": 16.64
+      },
+      {
+        "word": " we're",
+        "start": 16.64,
+        "end": 17.06
+      },
+      {
+        "word": " talking",
+        "start": 17.06,
+        "end": 17.34
+      },
+      {
+        "word": " about",
+        "start": 17.34,
+        "end": 17.88
+      },
+      {
+        "word": " rejection.",
+        "start": 17.88,
+        "end": 18.5
+      },
+      {
+        "word": " So",
+        "start": 19.1,
+        "end": 19.26
+      },
+      {
+        "word": " rejection",
+        "start": 19.26,
+        "end": 19.68
+      },
+      {
+        "word": " means",
+        "start": 19.68,
+        "end": 20.24
+      },
+      {
+        "word": " saying",
+        "start": 20.24,
+        "end": 20.62
+      },
+      {
+        "word": " no",
+        "start": 20.62,
+        "end": 20.9
+      },
+      {
+        "word": " to",
+        "start": 20.9,
+        "end": 21.08
+      },
+      {
+        "word": " someone",
+        "start": 21.08,
+        "end": 21.38
+      },
+      {
+        "word": " or",
+        "start": 21.38,
+        "end": 22.12
+      },
+      {
+        "word": " refusing",
+        "start": 22.12,
+        "end": 22.56
+      },
+      {
+        "word": " to",
+        "start": 22.56,
+        "end": 22.86
+      },
+      {
+        "word": " accept",
+        "start": 22.86,
+        "end": 23.22
+      },
+      {
+        "word": " their",
+        "start": 23.22,
+        "end": 23.46
+      },
+      {
+        "word": " idea",
+        "start": 23.46,
+        "end": 23.94
+      },
+      {
+        "word": " or",
+        "start": 23.94,
+        "end": 24.4
+      },
+      {
+        "word": " suggestion.",
+        "start": 24.4,
+        "end": 24.84
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "start": 25.78,
+    "end": 27.66,
+    "text": "Neil, how do you feel about rejection?",
+    "words": [
+      {
+        "word": " Neil,",
+        "start": 25.78,
+        "end": 26.0
+      },
+      {
+        "word": " how",
+        "start": 26.14,
+        "end": 26.34
+      },
+      {
+        "word": " do",
+        "start": 26.34,
+        "end": 26.48
+      },
+      {
+        "word": " you",
+        "start": 26.48,
+        "end": 26.68
+      },
+      {
+        "word": " feel",
+        "start": 26.68,
+        "end": 26.9
+      },
+      {
+        "word": " about",
+        "start": 26.9,
+        "end": 27.12
+      },
+      {
+        "word": " rejection?",
+        "start": 27.12,
+        "end": 27.66
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "start": 28.5,
+    "end": 35.72,
+    "text": "Well, nobody likes rejection. But I think as you get older, you get used to it.",
+    "words": [
+      {
+        "word": " Well,",
+        "start": 28.44,
+        "end": 28.72
+      },
+      {
+        "word": " nobody",
+        "start": 29.3,
+        "end": 29.96
+      },
+      {
+        "word": " likes",
+        "start": 29.96,
+        "end": 30.36
+      },
+      {
+        "word": " rejection.",
+        "start": 30.36,
+        "end": 30.98
+      },
+      {
+        "word": " But",
+        "start": 31.66,
+        "end": 32.22
+      },
+      {
+        "word": " I",
+        "start": 32.22,
+        "end": 32.38
+      },
+      {
+        "word": " think",
+        "start": 32.38,
+        "end": 32.58
+      },
+      {
+        "word": " as",
+        "start": 32.58,
+        "end": 33.2
+      },
+      {
+        "word": " you",
+        "start": 33.2,
+        "end": 33.34
+      },
+      {
+        "word": " get",
+        "start": 33.34,
+        "end": 33.52
+      },
+      {
+        "word": " older,",
+        "start": 33.52,
+        "end": 33.98
+      },
+      {
+        "word": " you",
+        "start": 34.32,
+        "end": 34.8
+      },
+      {
+        "word": " get",
+        "start": 34.8,
+        "end": 35.0
+      },
+      {
+        "word": " used",
+        "start": 35.0,
+        "end": 35.36
+      },
+      {
+        "word": " to",
+        "start": 35.36,
+        "end": 35.54
+      },
+      {
+        "word": " it.",
+        "start": 35.54,
+        "end": 35.72
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "start": 35.82,
+    "end": 42.3,
+    "text": "And probably it's quite a good thing to experience rejection, even if it doesn't feel nice.",
+    "words": [
+      {
+        "word": " And",
+        "start": 35.82,
+        "end": 35.9
+      },
+      {
+        "word": " probably",
+        "start": 35.9,
+        "end": 36.32
+      },
+      {
+        "word": " it's",
+        "start": 36.32,
+        "end": 37.18
+      },
+      {
+        "word": " quite",
+        "start": 37.18,
+        "end": 37.36
+      },
+      {
+        "word": " a",
+        "start": 37.36,
+        "end": 37.48
+      },
+      {
+        "word": " good",
+        "start": 37.48,
+        "end": 37.62
+      },
+      {
+        "word": " thing",
+        "start": 37.62,
+        "end": 38.0
+      },
+      {
+        "word": " to",
+        "start": 38.0,
+        "end": 38.88
+      },
+      {
+        "word": " experience",
+        "start": 38.88,
+        "end": 39.76
+      },
+      {
+        "word": " rejection,",
+        "start": 39.76,
+        "end": 40.46
+      },
+      {
+        "word": " even",
+        "start": 40.52,
+        "end": 40.84
+      },
+      {
+        "word": " if",
+        "start": 40.84,
+        "end": 41.12
+      },
+      {
+        "word": " it",
+        "start": 41.12,
+        "end": 41.4
+      },
+      {
+        "word": " doesn't",
+        "start": 41.4,
+        "end": 41.64
+      },
+      {
+        "word": " feel",
+        "start": 41.64,
+        "end": 41.92
+      },
+      {
+        "word": " nice.",
+        "start": 41.92,
+        "end": 42.3
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "start": 42.72,
+    "end": 45.82,
+    "text": "Yeah, I agree. We can't always get what we want, can we?",
+    "words": [
+      {
+        "word": " Yeah,",
+        "start": 42.72,
+        "end": 43.02
+      },
+      {
+        "word": " I",
+        "start": 43.12,
+        "end": 43.3
+      },
+      {
+        "word": " agree.",
+        "start": 43.3,
+        "end": 43.66
+      },
+      {
+        "word": " We",
+        "start": 44.02,
+        "end": 44.16
+      },
+      {
+        "word": " can't",
+        "start": 44.16,
+        "end": 44.42
+      },
+      {
+        "word": " always",
+        "start": 44.42,
+        "end": 44.66
+      },
+      {
+        "word": " get",
+        "start": 44.66,
+        "end": 44.86
+      },
+      {
+        "word": " what",
+        "start": 44.86,
+        "end": 45.02
+      },
+      {
+        "word": " we",
+        "start": 45.02,
+        "end": 45.18
+      },
+      {
+        "word": " want,",
+        "start": 45.18,
+        "end": 45.42
+      },
+      {
+        "word": " can",
+        "start": 45.48,
+        "end": 45.64
+      },
+      {
+        "word": " we?",
+        "start": 45.64,
+        "end": 45.82
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "start": 45.94,
+    "end": 46.6,
+    "text": "We can't, no.",
+    "words": [
+      {
+        "word": " We",
+        "start": 45.94,
+        "end": 46.04
+      },
+      {
+        "word": " can't,",
+        "start": 46.04,
+        "end": 46.46
+      },
+      {
+        "word": " no.",
+        "start": 46.5,
+        "end": 46.6
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "start": 47.18,
+    "end": 52.38,
+    "text": "In this podcast, we'll be learning about a new internet trend called rejection therapy",
+    "words": [
+      {
+        "word": " In",
+        "start": 47.18,
+        "end": 47.44
+      },
+      {
+        "word": " this",
+        "start": 47.44,
+        "end": 47.6
+      },
+      {
+        "word": " podcast,",
+        "start": 47.6,
+        "end": 47.98
+      },
+      {
+        "word": " we'll",
+        "start": 48.24,
+        "end": 48.44
+      },
+      {
+        "word": " be",
+        "start": 48.44,
+        "end": 48.58
+      },
+      {
+        "word": " learning",
+        "start": 48.58,
+        "end": 48.88
+      },
+      {
+        "word": " about",
+        "start": 48.88,
+        "end": 49.26
+      },
+      {
+        "word": " a",
+        "start": 49.26,
+        "end": 49.54
+      },
+      {
+        "word": " new",
+        "start": 49.54,
+        "end": 49.82
+      },
+      {
+        "word": " internet",
+        "start": 49.82,
+        "end": 50.3
+      },
+      {
+        "word": " trend",
+        "start": 50.3,
+        "end": 50.74
+      },
+      {
+        "word": " called",
+        "start": 50.74,
+        "end": 51.08
+      },
+      {
+        "word": " rejection",
+        "start": 51.08,
+        "end": 51.64
+      },
+      {
+        "word": " therapy",
+        "start": 51.64,
+        "end": 52.38
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "start": 52.38,
+    "end": 56.36,
+    "text": "and how people are using it to help them to be more confident.",
+    "words": [
+      {
+        "word": " and",
+        "start": 52.38,
+        "end": 53.02
+      },
+      {
+        "word": " how",
+        "start": 53.02,
+        "end": 53.18
+      },
+      {
+        "word": " people",
+        "start": 53.18,
+        "end": 53.52
+      },
+      {
+        "word": " are",
+        "start": 53.52,
+        "end": 53.78
+      },
+      {
+        "word": " using",
+        "start": 53.78,
+        "end": 54.12
+      },
+      {
+        "word": " it",
+        "start": 54.12,
+        "end": 54.38
+      },
+      {
+        "word": " to",
+        "start": 54.38,
+        "end": 54.56
+      },
+      {
+        "word": " help",
+        "start": 54.56,
+        "end": 54.82
+      },
+      {
+        "word": " them",
+        "start": 54.82,
+        "end": 55.08
+      },
+      {
+        "word": " to",
+        "start": 55.08,
+        "end": 55.32
+      },
+      {
+        "word": " be",
+        "start": 55.32,
+        "end": 55.58
+      },
+      {
+        "word": " more",
+        "start": 55.58,
+        "end": 55.86
+      },
+      {
+        "word": " confident.",
+        "start": 55.86,
+        "end": 56.36
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "start": 58.7,
+    "end": 61.88,
+    "text": "OK, let's start with our quiz question, Georgie.",
+    "words": [
+      {
+        "word": " OK,",
+        "start": 58.699999999999996,
+        "end": 59.4
+      },
+      {
+        "word": " let's",
+        "start": 59.6,
+        "end": 59.8
+      },
+      {
+        "word": " start",
+        "start": 59.8,
+        "end": 60.02
+      },
+      {
+        "word": " with",
+        "start": 60.02,
+        "end": 60.26
+      },
+      {
+        "word": " our",
+        "start": 60.26,
+        "end": 60.4
+      },
+      {
+        "word": " quiz",
+        "start": 60.4,
+        "end": 60.72
+      },
+      {
+        "word": " question,",
+        "start": 60.72,
+        "end": 61.2
+      },
+      {
+        "word": " Georgie.",
+        "start": 61.4,
+        "end": 61.88
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "start": 62.42,
+    "end": 68.48,
+    "text": "Lots of famous people have faced rejection in their lives before they became successful.",
+    "words": [
+      {
+        "word": " Lots",
+        "start": 62.42,
+        "end": 62.68
+      },
+      {
+        "word": " of",
+        "start": 62.68,
+        "end": 63.02
+      },
+      {
+        "word": " famous",
+        "start": 63.02,
+        "end": 63.42
+      },
+      {
+        "word": " people",
+        "start": 63.42,
+        "end": 63.92
+      },
+      {
+        "word": " have",
+        "start": 63.92,
+        "end": 64.4
+      },
+      {
+        "word": " faced",
+        "start": 64.4,
+        "end": 64.78
+      },
+      {
+        "word": " rejection",
+        "start": 64.78,
+        "end": 65.4
+      },
+      {
+        "word": " in",
+        "start": 65.4,
+        "end": 66.0
+      },
+      {
+        "word": " their",
+        "start": 66.0,
+        "end": 66.18
+      },
+      {
+        "word": " lives",
+        "start": 66.18,
+        "end": 66.64
+      },
+      {
+        "word": " before",
+        "start": 66.64,
+        "end": 67.12
+      },
+      {
+        "word": " they",
+        "start": 67.12,
+        "end": 67.42
+      },
+      {
+        "word": " became",
+        "start": 67.42,
+        "end": 67.8
+      },
+      {
+        "word": " successful.",
+        "start": 67.8,
+        "end": 68.48
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "start": 69.2,
+    "end": 75.52,
+    "text": "But which of these things did not happen to the animator Walt Disney before he became successful?",
+    "words": [
+      {
+        "word": " But",
+        "start": 69.2,
+        "end": 69.3
+      },
+      {
+        "word": " which",
+        "start": 69.3,
+        "end": 69.58
+      },
+      {
+        "word": " of",
+        "start": 69.58,
+        "end": 69.76
+      },
+      {
+        "word": " these",
+        "start": 69.76,
+        "end": 70.02
+      },
+      {
+        "word": " things",
+        "start": 70.02,
+        "end": 70.46
+      },
+      {
+        "word": " did",
+        "start": 70.46,
+        "end": 70.74
+      },
+      {
+        "word": " not",
+        "start": 70.74,
+        "end": 71.12
+      },
+      {
+        "word": " happen",
+        "start": 71.12,
+        "end": 71.72
+      },
+      {
+        "word": " to",
+        "start": 71.72,
+        "end": 72.1
+      },
+      {
+        "word": " the",
+        "start": 72.1,
+        "end": 72.24
+      },
+      {
+        "word": " animator",
+        "start": 72.24,
+        "end": 72.86
+      },
+      {
+        "word": " Walt",
+        "start": 72.86,
+        "end": 73.22
+      },
+      {
+        "word": " Disney",
+        "start": 73.22,
+        "end": 73.62
+      },
+      {
+        "word": " before",
+        "start": 73.62,
+        "end": 74.14
+      },
+      {
+        "word": " he",
+        "start": 74.14,
+        "end": 74.52
+      },
+      {
+        "word": " became",
+        "start": 74.52,
+        "end": 74.9
+      },
+      {
+        "word": " successful?",
+        "start": 74.9,
+        "end": 75.52
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "start": 75.88,
+    "end": 78.64,
+    "text": "Was it A, he lost his job as an artist?",
+    "words": [
+      {
+        "word": " Was",
+        "start": 75.88,
+        "end": 76.02
+      },
+      {
+        "word": " it",
+        "start": 76.02,
+        "end": 76.14
+      },
+      {
+        "word": " A,",
+        "start": 76.14,
+        "end": 76.54
+      },
+      {
+        "word": " he",
+        "start": 77.02,
+        "end": 77.12
+      },
+      {
+        "word": " lost",
+        "start": 77.12,
+        "end": 77.46
+      },
+      {
+        "word": " his",
+        "start": 77.46,
+        "end": 77.76
+      },
+      {
+        "word": " job",
+        "start": 77.76,
+        "end": 78.06
+      },
+      {
+        "word": " as",
+        "start": 78.06,
+        "end": 78.26
+      },
+      {
+        "word": " an",
+        "start": 78.26,
+        "end": 78.4
+      },
+      {
+        "word": " artist?",
+        "start": 78.4,
+        "end": 78.64
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "start": 79.4,
+    "end": 82.18,
+    "text": "B, his first business ran out of money?",
+    "words": [
+      {
+        "word": " B,",
+        "start": 79.4,
+        "end": 79.66
+      },
+      {
+        "word": " his",
+        "start": 80.36,
+        "end": 80.48
+      },
+      {
+        "word": " first",
+        "start": 80.48,
+        "end": 80.76
+      },
+      {
+        "word": " business",
+        "start": 80.76,
+        "end": 81.26
+      },
+      {
+        "word": " ran",
+        "start": 81.26,
+        "end": 81.58
+      },
+      {
+        "word": " out",
+        "start": 81.58,
+        "end": 81.78
+      },
+      {
+        "word": " of",
+        "start": 81.78,
+        "end": 81.94
+      },
+      {
+        "word": " money?",
+        "start": 81.94,
+        "end": 82.18
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "start": 82.52,
+    "end": 86.32,
+    "text": "Or C, his first full-length film was a failure?",
+    "words": [
+      {
+        "word": " Or",
+        "start": 82.52,
+        "end": 82.78
+      },
+      {
+        "word": " C,",
+        "start": 82.78,
+        "end": 83.22
+      },
+      {
+        "word": " his",
+        "start": 83.74,
+        "end": 83.84
+      },
+      {
+        "word": " first",
+        "start": 83.84,
+        "end": 84.22
+      },
+      {
+        "word": " full",
+        "start": 84.22,
+        "end": 84.66
+      },
+      {
+        "word": "-length",
+        "start": 84.66,
+        "end": 84.92
+      },
+      {
+        "word": " film",
+        "start": 84.92,
+        "end": 85.5
+      },
+      {
+        "word": " was",
+        "start": 85.5,
+        "end": 85.78
+      },
+      {
+        "word": " a",
+        "start": 85.78,
+        "end": 85.92
+      },
+      {
+        "word": " failure?",
+        "start": 85.92,
+        "end": 86.32
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "start": 86.32,
+    "end": 91.54,
+    "text": "I've got no idea, but I'm going to go with A, he lost his job as an artist.",
+    "words": [
+      {
+        "word": " I've",
+        "start": 86.32,
+        "end": 87.0
+      },
+      {
+        "word": " got",
+        "start": 87.0,
+        "end": 87.12
+      },
+      {
+        "word": " no",
+        "start": 87.12,
+        "end": 87.4
+      },
+      {
+        "word": " idea,",
+        "start": 87.4,
+        "end": 87.8
+      },
+      {
+        "word": " but",
+        "start": 88.02,
+        "end": 88.12
+      },
+      {
+        "word": " I'm",
+        "start": 88.12,
+        "end": 88.26
+      },
+      {
+        "word": " going",
+        "start": 88.26,
+        "end": 88.4
+      },
+      {
+        "word": " to",
+        "start": 88.4,
+        "end": 88.54
+      },
+      {
+        "word": " go",
+        "start": 88.54,
+        "end": 88.68
+      },
+      {
+        "word": " with",
+        "start": 88.68,
+        "end": 89.3
+      },
+      {
+        "word": " A,",
+        "start": 89.3,
+        "end": 89.72
+      },
+      {
+        "word": " he",
+        "start": 89.9,
+        "end": 90.06
+      },
+      {
+        "word": " lost",
+        "start": 90.06,
+        "end": 90.38
+      },
+      {
+        "word": " his",
+        "start": 90.38,
+        "end": 90.62
+      },
+      {
+        "word": " job",
+        "start": 90.62,
+        "end": 90.92
+      },
+      {
+        "word": " as",
+        "start": 90.92,
+        "end": 91.14
+      },
+      {
+        "word": " an",
+        "start": 91.14,
+        "end": 91.26
+      },
+      {
+        "word": " artist.",
+        "start": 91.26,
+        "end": 91.54
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "start": 92.04,
+    "end": 95.24,
+    "text": "OK, well, we'll find out the answer at the end of the program.",
+    "words": [
+      {
+        "word": " OK,",
+        "start": 92.04,
+        "end": 92.28
+      },
+      {
+        "word": " well,",
+        "start": 92.46,
+        "end": 92.62
+      },
+      {
+        "word": " we'll",
+        "start": 92.8,
+        "end": 93.04
+      },
+      {
+        "word": " find",
+        "start": 93.04,
+        "end": 93.24
+      },
+      {
+        "word": " out",
+        "start": 93.24,
+        "end": 93.4
+      },
+      {
+        "word": " the",
+        "start": 93.4,
+        "end": 93.54
+      },
+      {
+        "word": " answer",
+        "start": 93.54,
+        "end": 93.86
+      },
+      {
+        "word": " at",
+        "start": 93.86,
+        "end": 94.38
+      },
+      {
+        "word": " the",
+        "start": 94.38,
+        "end": 94.5
+      },
+      {
+        "word": " end",
+        "start": 94.5,
+        "end": 94.7
+      },
+      {
+        "word": " of",
+        "start": 94.7,
+        "end": 94.8
+      },
+      {
+        "word": " the",
+        "start": 94.8,
+        "end": 94.88
+      },
+      {
+        "word": " program.",
+        "start": 94.88,
+        "end": 95.24
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "start": 95.92,
+    "end": 99.4,
+    "text": "OK, Neil, so most people don't like being rejected.",
+    "words": [
+      {
+        "word": " OK,",
+        "start": 95.92,
+        "end": 96.18
+      },
+      {
+        "word": " Neil,",
+        "start": 96.28,
+        "end": 96.46
+      },
+      {
+        "word": " so",
+        "start": 96.64,
+        "end": 96.8
+      },
+      {
+        "word": " most",
+        "start": 96.8,
+        "end": 97.4
+      },
+      {
+        "word": " people",
+        "start": 97.4,
+        "end": 97.78
+      },
+      {
+        "word": " don't",
+        "start": 97.78,
+        "end": 98.24
+      },
+      {
+        "word": " like",
+        "start": 98.24,
+        "end": 98.5
+      },
+      {
+        "word": " being",
+        "start": 98.5,
+        "end": 98.92
+      },
+      {
+        "word": " rejected.",
+        "start": 98.92,
+        "end": 99.4
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "start": 99.92,
+    "end": 104.26,
+    "text": "But one thing to try might be something called rejection therapy.",
+    "words": [
+      {
+        "word": " But",
+        "start": 99.92,
+        "end": 100.2
+      },
+      {
+        "word": " one",
+        "start": 100.2,
+        "end": 100.8
+      },
+      {
+        "word": " thing",
+        "start": 100.8,
+        "end": 101.06
+      },
+      {
+        "word": " to",
+        "start": 101.06,
+        "end": 101.24
+      },
+      {
+        "word": " try",
+        "start": 101.24,
+        "end": 101.58
+      },
+      {
+        "word": " might",
+        "start": 101.58,
+        "end": 101.98
+      },
+      {
+        "word": " be",
+        "start": 101.98,
+        "end": 102.2
+      },
+      {
+        "word": " something",
+        "start": 102.2,
+        "end": 102.46
+      },
+      {
+        "word": " called",
+        "start": 102.46,
+        "end": 102.96
+      },
+      {
+        "word": " rejection",
+        "start": 102.96,
+        "end": 103.54
+      },
+      {
+        "word": " therapy.",
+        "start": 103.54,
+        "end": 104.26
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "start": 104.9,
+    "end": 112.2,
+    "text": "It's a social media trend where people record themselves talking to strangers and sometimes being rejected.",
+    "words": [
+      {
+        "word": " It's",
+        "start": 104.9,
+        "end": 105.14
+      },
+      {
+        "word": " a",
+        "start": 105.14,
+        "end": 105.16
+      },
+      {
+        "word": " social",
+        "start": 105.16,
+        "end": 105.4
+      },
+      {
+        "word": " media",
+        "start": 105.4,
+        "end": 105.72
+      },
+      {
+        "word": " trend",
+        "start": 105.72,
+        "end": 106.14
+      },
+      {
+        "word": " where",
+        "start": 106.14,
+        "end": 106.44
+      },
+      {
+        "word": " people",
+        "start": 106.44,
+        "end": 106.78
+      },
+      {
+        "word": " record",
+        "start": 106.78,
+        "end": 107.24
+      },
+      {
+        "word": " themselves",
+        "start": 107.24,
+        "end": 107.82
+      },
+      {
+        "word": " talking",
+        "start": 107.82,
+        "end": 108.5
+      },
+      {
+        "word": " to",
+        "start": 108.5,
+        "end": 108.78
+      },
+      {
+        "word": " strangers",
+        "start": 108.78,
+        "end": 109.32
+      },
+      {
+        "word": " and",
+        "start": 109.32,
+        "end": 110.48
+      },
+      {
+        "word": " sometimes",
+        "start": 110.48,
+        "end": 111.14
+      },
+      {
+        "word": " being",
+        "start": 111.14,
+        "end": 111.78
+      },
+      {
+        "word": " rejected.",
+        "start": 111.78,
+        "end": 112.2
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "start": 112.76,
+    "end": 118.02,
+    "text": "OK, that sounds quite interesting, but let's find out how it works in practice.",
+    "words": [
+      {
+        "word": " OK,",
+        "start": 112.75999999999999,
+        "end": 113.24
+      },
+      {
+        "word": " that",
+        "start": 113.4,
+        "end": 113.54
+      },
+      {
+        "word": " sounds",
+        "start": 113.54,
+        "end": 114.0
+      },
+      {
+        "word": " quite",
+        "start": 114.0,
+        "end": 114.44
+      },
+      {
+        "word": " interesting,",
+        "start": 114.44,
+        "end": 115.22
+      },
+      {
+        "word": " but",
+        "start": 115.52,
+        "end": 115.6
+      },
+      {
+        "word": " let's",
+        "start": 115.6,
+        "end": 115.86
+      },
+      {
+        "word": " find",
+        "start": 115.86,
+        "end": 116.12
+      },
+      {
+        "word": " out",
+        "start": 116.12,
+        "end": 116.44
+      },
+      {
+        "word": " how",
+        "start": 116.44,
+        "end": 116.76
+      },
+      {
+        "word": " it",
+        "start": 116.76,
+        "end": 116.88
+      },
+      {
+        "word": " works",
+        "start": 116.88,
+        "end": 117.24
+      },
+      {
+        "word": " in",
+        "start": 117.24,
+        "end": 117.58
+      },
+      {
+        "word": " practice.",
+        "start": 117.58,
+        "end": 118.02
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "start": 118.82,
+    "end": 124.84,
+    "text": "Hannah Gelbart, host of the BBC World Service podcast What in the World, had a go at the trend.",
+    "words": [
+      {
+        "word": " Hannah",
+        "start": 118.82,
+        "end": 119.08
+      },
+      {
+        "word": " Gelbart,",
+        "start": 119.08,
+        "end": 119.62
+      },
+      {
+        "word": " host",
+        "start": 119.92,
+        "end": 120.32
+      },
+      {
+        "word": " of",
+        "start": 120.32,
+        "end": 120.64
+      },
+      {
+        "word": " the",
+        "start": 120.64,
+        "end": 120.78
+      },
+      {
+        "word": " BBC",
+        "start": 120.78,
+        "end": 121.04
+      },
+      {
+        "word": " World",
+        "start": 121.04,
+        "end": 121.4
+      },
+      {
+        "word": " Service",
+        "start": 121.4,
+        "end": 121.84
+      },
+      {
+        "word": " podcast",
+        "start": 121.84,
+        "end": 122.18
+      },
+      {
+        "word": " What",
+        "start": 122.18,
+        "end": 122.84
+      },
+      {
+        "word": " in",
+        "start": 122.84,
+        "end": 123.02
+      },
+      {
+        "word": " the",
+        "start": 123.02,
+        "end": 123.12
+      },
+      {
+        "word": " World,",
+        "start": 123.12,
+        "end": 123.4
+      },
+      {
+        "word": " had",
+        "start": 123.7,
+        "end": 123.86
+      },
+      {
+        "word": " a",
+        "start": 123.86,
+        "end": 124.02
+      },
+      {
+        "word": " go",
+        "start": 124.02,
+        "end": 124.22
+      },
+      {
+        "word": " at",
+        "start": 124.22,
+        "end": 124.4
+      },
+      {
+        "word": " the",
+        "start": 124.4,
+        "end": 124.52
+      },
+      {
+        "word": " trend.",
+        "start": 124.52,
+        "end": 124.84
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "start": 125.62,
+    "end": 127.44,
+    "text": "Let's see how she got on.",
+    "words": [
+      {
+        "word": " Let's",
+        "start": 125.62,
+        "end": 126.04
+      },
+      {
+        "word": " see",
+        "start": 126.04,
+        "end": 126.28
+      },
+      {
+        "word": " how",
+        "start": 126.28,
+        "end": 126.7
+      },
+      {
+        "word": " she",
+        "start": 126.7,
+        "end": 126.9
+      },
+      {
+        "word": " got",
+        "start": 126.9,
+        "end": 127.12
+      },
+      {
+        "word": " on.",
+        "start": 127.12,
+        "end": 127.44
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "start": 128.04,
+    "end": 129.64,
+    "text": "Can I come sit down at your table?",
+    "words": [
+      {
+        "word": " Can",
+        "start": 128.04000000000002,
+        "end": 128.52
+      },
+      {
+        "word": " I",
+        "start": 128.52,
+        "end": 128.64
+      },
+      {
+        "word": " come",
+        "start": 128.64,
+        "end": 128.76
+      },
+      {
+        "word": " sit",
+        "start": 128.76,
+        "end": 128.9
+      },
+      {
+        "word": " down",
+        "start": 128.9,
+        "end": 129.12
+      },
+      {
+        "word": " at",
+        "start": 129.12,
+        "end": 129.2
+      },
+      {
+        "word": " your",
+        "start": 129.2,
+        "end": 129.3
+      },
+      {
+        "word": " table?",
+        "start": 129.3,
+        "end": 129.64
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "start": 130.32,
+    "end": 130.5,
+    "text": "Yeah.",
+    "words": [
+      {
+        "word": " Yeah.",
+        "start": 130.32,
+        "end": 130.5
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "start": 130.84,
+    "end": 131.88,
+    "text": "Hey, how's it going?",
+    "words": [
+      {
+        "word": " Hey,",
+        "start": 130.84,
+        "end": 131.02
+      },
+      {
+        "word": " how's",
+        "start": 131.3,
+        "end": 131.58
+      },
+      {
+        "word": " it",
+        "start": 131.58,
+        "end": 131.64
+      },
+      {
+        "word": " going?",
+        "start": 131.64,
+        "end": 131.88
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "start": 132.14,
+    "end": 132.66,
+    "text": "Good for you.",
+    "words": [
+      {
+        "word": " Good",
+        "start": 132.14,
+        "end": 132.34
+      },
+      {
+        "word": " for",
+        "start": 132.34,
+        "end": 132.48
+      },
+      {
+        "word": " you.",
+        "start": 132.48,
+        "end": 132.66
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "start": 132.72,
+    "end": 133.44,
+    "text": "How's your day gone?",
+    "words": [
+      {
+        "word": " How's",
+        "start": 132.72,
+        "end": 132.94
+      },
+      {
+        "word": " your",
+        "start": 132.94,
+        "end": 133.04
+      },
+      {
+        "word": " day",
+        "start": 133.04,
+        "end": 133.22
+      },
+      {
+        "word": " gone?",
+        "start": 133.22,
+        "end": 133.44
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "start": 133.84,
+    "end": 135.16,
+    "text": "Good afternoon, how are you doing?",
+    "words": [
+      {
+        "word": " Good",
+        "start": 133.84,
+        "end": 134.14
+      },
+      {
+        "word": " afternoon,",
+        "start": 134.14,
+        "end": 134.52
+      },
+      {
+        "word": " how",
+        "start": 134.62,
+        "end": 134.78
+      },
+      {
+        "word": " are",
+        "start": 134.78,
+        "end": 134.88
+      },
+      {
+        "word": " you",
+        "start": 134.88,
+        "end": 134.92
+      },
+      {
+        "word": " doing?",
+        "start": 134.92,
+        "end": 135.16
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "start": 136.42,
+    "end": 137.46,
+    "text": "Can I drive your cab?",
+    "words": [
+      {
+        "word": " Can",
+        "start": 136.42,
+        "end": 136.52
+      },
+      {
+        "word": " I",
+        "start": 136.52,
+        "end": 136.72
+      },
+      {
+        "word": " drive",
+        "start": 136.72,
+        "end": 136.98
+      },
+      {
+        "word": " your",
+        "start": 136.98,
+        "end": 137.14
+      },
+      {
+        "word": " cab?",
+        "start": 137.14,
+        "end": 137.46
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "start": 139.52,
+    "end": 140.86,
+    "text": "Can I? Can I get behind the wheel?",
+    "words": [
+      {
+        "word": " Can",
+        "start": 139.52,
+        "end": 139.82
+      },
+      {
+        "word": " I?",
+        "start": 139.82,
+        "end": 139.98
+      },
+      {
+        "word": " Can",
+        "start": 140.08,
+        "end": 140.14
+      },
+      {
+        "word": " I",
+        "start": 140.14,
+        "end": 140.24
+      },
+      {
+        "word": " get",
+        "start": 140.24,
+        "end": 140.34
+      },
+      {
+        "word": " behind",
+        "start": 140.34,
+        "end": 140.5
+      },
+      {
+        "word": " the",
+        "start": 140.5,
+        "end": 140.68
+      },
+      {
+        "word": " wheel?",
+        "start": 140.68,
+        "end": 140.86
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "start": 141.56,
+    "end": 142.28,
+    "text": "Don't be silly.",
+    "words": [
+      {
+        "word": " Don't",
+        "start": 141.56,
+        "end": 142.0
+      },
+      {
+        "word": " be",
+        "start": 142.0,
+        "end": 142.06
+      },
+      {
+        "word": " silly.",
+        "start": 142.06,
+        "end": 142.28
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "start": 142.92,
+    "end": 145.14,
+    "text": "Can I be somewhere else to try and face my fears?",
+    "words": [
+      {
+        "word": " Can",
+        "start": 142.92,
+        "end": 143.18
+      },
+      {
+        "word": " I",
+        "start": 143.18,
+        "end": 143.28
+      },
+      {
+        "word": " be",
+        "start": 143.28,
+        "end": 143.28
+      },
+      {
+        "word": " somewhere",
+        "start": 143.28,
+        "end": 143.5
+      },
+      {
+        "word": " else",
+        "start": 143.5,
+        "end": 143.76
+      },
+      {
+        "word": " to",
+        "start": 143.76,
+        "end": 143.92
+      },
+      {
+        "word": " try",
+        "start": 143.92,
+        "end": 144.08
+      },
+      {
+        "word": " and",
+        "start": 144.08,
+        "end": 144.16
+      },
+      {
+        "word": " face",
+        "start": 144.16,
+        "end": 144.42
+      },
+      {
+        "word": " my",
+        "start": 144.42,
+        "end": 144.7
+      },
+      {
+        "word": " fears?",
+        "start": 144.7,
+        "end": 145.14
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "start": 146.46,
+    "end": 147.28,
+    "text": "Maybe do a bit of shopping.",
+    "words": [
+      {
+        "word": " Maybe",
+        "start": 146.46,
+        "end": 146.76
+      },
+      {
+        "word": " do",
+        "start": 146.76,
+        "end": 146.9
+      },
+      {
+        "word": " a",
+        "start": 146.9,
+        "end": 147.02
+      },
+      {
+        "word": " bit",
+        "start": 147.02,
+        "end": 147.04
+      },
+      {
+        "word": " of",
+        "start": 147.04,
+        "end": 147.12
+      },
+      {
+        "word": " shopping.",
+        "start": 147.12,
+        "end": 147.28
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "start": 148.2,
+    "end": 151.08,
+    "text": "I was wondering, can I have a nap in one of these beds? Can I just try it out?",
+    "words": [
+      {
+        "word": " I",
+        "start": 148.2,
+        "end": 148.34
+      },
+      {
+        "word": " was",
+        "start": 148.34,
+        "end": 148.42
+      },
+      {
+        "word": " wondering,",
+        "start": 148.42,
+        "end": 148.56
+      },
+      {
+        "word": " can",
+        "start": 148.68,
+        "end": 148.8
+      },
+      {
+        "word": " I",
+        "start": 148.8,
+        "end": 148.96
+      },
+      {
+        "word": " have",
+        "start": 148.96,
+        "end": 149.14
+      },
+      {
+        "word": " a",
+        "start": 149.14,
+        "end": 149.26
+      },
+      {
+        "word": " nap",
+        "start": 149.26,
+        "end": 149.36
+      },
+      {
+        "word": " in",
+        "start": 149.36,
+        "end": 149.52
+      },
+      {
+        "word": " one",
+        "start": 149.52,
+        "end": 149.64
+      },
+      {
+        "word": " of",
+        "start": 149.64,
+        "end": 149.74
+      },
+      {
+        "word": " these",
+        "start": 149.74,
+        "end": 149.86
+      },
+      {
+        "word": " beds?",
+        "start": 149.86,
+        "end": 150.14
+      },
+      {
+        "word": " Can",
+        "start": 150.26,
+        "end": 150.32
+      },
+      {
+        "word": " I",
+        "start": 150.32,
+        "end": 150.42
+      },
+      {
+        "word": " just",
+        "start": 150.42,
+        "end": 150.58
+      },
+      {
+        "word": " try",
+        "start": 150.58,
+        "end": 150.74
+      },
+      {
+        "word": " it",
+        "start": 150.74,
+        "end": 150.86
+      },
+      {
+        "word": " out?",
+        "start": 150.86,
+        "end": 151.08
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "start": 151.38,
+    "end": 153.24,
+    "text": "Wow, I didn't expect that one to be a yes.",
+    "words": [
+      {
+        "word": " Wow,",
+        "start": 151.38,
+        "end": 151.58
+      },
+      {
+        "word": " I",
+        "start": 151.66,
+        "end": 151.74
+      },
+      {
+        "word": " didn't",
+        "start": 151.74,
+        "end": 151.86
+      },
+      {
+        "word": " expect",
+        "start": 151.86,
+        "end": 152.12
+      },
+      {
+        "word": " that",
+        "start": 152.12,
+        "end": 152.34
+      },
+      {
+        "word": " one",
+        "start": 152.34,
+        "end": 152.52
+      },
+      {
+        "word": " to",
+        "start": 152.52,
+        "end": 152.7
+      },
+      {
+        "word": " be",
+        "start": 152.7,
+        "end": 152.8
+      },
+      {
+        "word": " a",
+        "start": 152.8,
+        "end": 152.9
+      },
+      {
+        "word": " yes.",
+        "start": 152.9,
+        "end": 153.24
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "start": 153.98,
+    "end": 157.1,
+    "text": "Well, it seems like people were pretty nice to Hannah in those examples.",
+    "words": [
+      {
+        "word": " Well,",
+        "start": 153.98,
+        "end": 154.28
+      },
+      {
+        "word": " it",
+        "start": 154.3,
+        "end": 154.38
+      },
+      {
+        "word": " seems",
+        "start": 154.38,
+        "end": 154.58
+      },
+      {
+        "word": " like",
+        "start": 154.58,
+        "end": 154.8
+      },
+      {
+        "word": " people",
+        "start": 154.8,
+        "end": 155.08
+      },
+      {
+        "word": " were",
+        "start": 155.08,
+        "end": 155.3
+      },
+      {
+        "word": " pretty",
+        "start": 155.3,
+        "end": 155.52
+      },
+      {
+        "word": " nice",
+        "start": 155.52,
+        "end": 155.84
+      },
+      {
+        "word": " to",
+        "start": 155.84,
+        "end": 156.08
+      },
+      {
+        "word": " Hannah",
+        "start": 156.08,
+        "end": 156.24
+      },
+      {
+        "word": " in",
+        "start": 156.24,
+        "end": 156.48
+      },
+      {
+        "word": " those",
+        "start": 156.48,
+        "end": 156.68
+      },
+      {
+        "word": " examples.",
+        "start": 156.68,
+        "end": 157.1
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "start": 157.74,
+    "end": 163.5,
+    "text": "Yes, and she talks with psychologist Claudia Hammond about how she felt during the experiment.",
+    "words": [
+      {
+        "word": " Yes,",
+        "start": 157.74,
+        "end": 158.04
+      },
+      {
+        "word": " and",
+        "start": 158.3,
+        "end": 158.48
+      },
+      {
+        "word": " she",
+        "start": 158.48,
+        "end": 158.64
+      },
+      {
+        "word": " talks",
+        "start": 158.64,
+        "end": 158.9
+      },
+      {
+        "word": " with",
+        "start": 158.9,
+        "end": 159.18
+      },
+      {
+        "word": " psychologist",
+        "start": 159.18,
+        "end": 159.9
+      },
+      {
+        "word": " Claudia",
+        "start": 159.9,
+        "end": 160.32
+      },
+      {
+        "word": " Hammond",
+        "start": 160.32,
+        "end": 160.96
+      },
+      {
+        "word": " about",
+        "start": 160.96,
+        "end": 161.5
+      },
+      {
+        "word": " how",
+        "start": 161.5,
+        "end": 161.72
+      },
+      {
+        "word": " she",
+        "start": 161.72,
+        "end": 161.92
+      },
+      {
+        "word": " felt",
+        "start": 161.92,
+        "end": 162.32
+      },
+      {
+        "word": " during",
+        "start": 162.32,
+        "end": 162.76
+      },
+      {
+        "word": " the",
+        "start": 162.76,
+        "end": 162.98
+      },
+      {
+        "word": " experiment.",
+        "start": 162.98,
+        "end": 163.5
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "start": 163.86,
+    "end": 168.46,
+    "text": "And actually walking up to the first person, I felt my adrenaline really, really spiking.",
+    "words": [
+      {
+        "word": " And",
+        "start": 163.86,
+        "end": 164.12
+      },
+      {
+        "word": " actually",
+        "start": 164.12,
+        "end": 164.38
+      },
+      {
+        "word": " walking",
+        "start": 164.38,
+        "end": 164.76
+      },
+      {
+        "word": " up",
+        "start": 164.76,
+        "end": 165.06
+      },
+      {
+        "word": " to",
+        "start": 165.06,
+        "end": 165.2
+      },
+      {
+        "word": " the",
+        "start": 165.2,
+        "end": 165.32
+      },
+      {
+        "word": " first",
+        "start": 165.32,
+        "end": 165.52
+      },
+      {
+        "word": " person,",
+        "start": 165.52,
+        "end": 165.88
+      },
+      {
+        "word": " I",
+        "start": 166.02,
+        "end": 166.24
+      },
+      {
+        "word": " felt",
+        "start": 166.24,
+        "end": 166.38
+      },
+      {
+        "word": " my",
+        "start": 166.38,
+        "end": 166.56
+      },
+      {
+        "word": " adrenaline",
+        "start": 166.56,
+        "end": 166.88
+      },
+      {
+        "word": " really,",
+        "start": 166.88,
+        "end": 167.74
+      },
+      {
+        "word": " really",
+        "start": 167.74,
+        "end": 168.04
+      },
+      {
+        "word": " spiking.",
+        "start": 168.04,
+        "end": 168.46
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "start": 168.46,
+    "end": 171.64,
+    "text": "I'm not a socially anxious person. I think I'm really confident.",
+    "words": [
+      {
+        "word": " I'm",
+        "start": 168.46,
+        "end": 168.98
+      },
+      {
+        "word": " not",
+        "start": 168.98,
+        "end": 169.1
+      },
+      {
+        "word": " a",
+        "start": 169.1,
+        "end": 169.22
+      },
+      {
+        "word": " socially",
+        "start": 169.22,
+        "end": 169.42
+      },
+      {
+        "word": " anxious",
+        "start": 169.42,
+        "end": 169.7
+      },
+      {
+        "word": " person.",
+        "start": 169.7,
+        "end": 170.16
+      },
+      {
+        "word": " I",
+        "start": 170.24,
+        "end": 170.36
+      },
+      {
+        "word": " think",
+        "start": 170.36,
+        "end": 170.56
+      },
+      {
+        "word": " I'm",
+        "start": 170.56,
+        "end": 170.8
+      },
+      {
+        "word": " really",
+        "start": 170.8,
+        "end": 171.14
+      },
+      {
+        "word": " confident.",
+        "start": 171.14,
+        "end": 171.64
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "start": 171.86,
+    "end": 173.58,
+    "text": "But that first thing really scared me.",
+    "words": [
+      {
+        "word": " But",
+        "start": 171.86,
+        "end": 172.08
+      },
+      {
+        "word": " that",
+        "start": 172.08,
+        "end": 172.24
+      },
+      {
+        "word": " first",
+        "start": 172.24,
+        "end": 172.54
+      },
+      {
+        "word": " thing",
+        "start": 172.54,
+        "end": 172.8
+      },
+      {
+        "word": " really",
+        "start": 172.8,
+        "end": 173.04
+      },
+      {
+        "word": " scared",
+        "start": 173.04,
+        "end": 173.36
+      },
+      {
+        "word": " me.",
+        "start": 173.36,
+        "end": 173.58
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "start": 174.02,
+    "end": 177.86,
+    "text": "And once I'd done one, the second one came easier and the third one came even easier.",
+    "words": [
+      {
+        "word": " And",
+        "start": 174.02,
+        "end": 174.12
+      },
+      {
+        "word": " once",
+        "start": 174.12,
+        "end": 174.24
+      },
+      {
+        "word": " I'd",
+        "start": 174.24,
+        "end": 174.42
+      },
+      {
+        "word": " done",
+        "start": 174.42,
+        "end": 174.56
+      },
+      {
+        "word": " one,",
+        "start": 174.56,
+        "end": 174.86
+      },
+      {
+        "word": " the",
+        "start": 175.22,
+        "end": 175.72
+      },
+      {
+        "word": " second",
+        "start": 175.72,
+        "end": 175.94
+      },
+      {
+        "word": " one",
+        "start": 175.94,
+        "end": 176.1
+      },
+      {
+        "word": " came",
+        "start": 176.1,
+        "end": 176.24
+      },
+      {
+        "word": " easier",
+        "start": 176.24,
+        "end": 176.58
+      },
+      {
+        "word": " and",
+        "start": 176.58,
+        "end": 176.68
+      },
+      {
+        "word": " the",
+        "start": 176.68,
+        "end": 176.78
+      },
+      {
+        "word": " third",
+        "start": 176.78,
+        "end": 176.96
+      },
+      {
+        "word": " one",
+        "start": 176.96,
+        "end": 177.1
+      },
+      {
+        "word": " came",
+        "start": 177.1,
+        "end": 177.28
+      },
+      {
+        "word": " even",
+        "start": 177.28,
+        "end": 177.52
+      },
+      {
+        "word": " easier.",
+        "start": 177.52,
+        "end": 177.86
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "start": 178.08,
+    "end": 181.64,
+    "text": "And, you know, by the fourth time, I didn't even mind it whether they said yes or no.",
+    "words": [
+      {
+        "word": " And,",
+        "start": 178.08,
+        "end": 178.08
+      },
+      {
+        "word": " you",
+        "start": 178.26,
+        "end": 178.36
+      },
+      {
+        "word": " know,",
+        "start": 178.36,
+        "end": 178.44
+      },
+      {
+        "word": " by",
+        "start": 178.46,
+        "end": 178.6
+      },
+      {
+        "word": " the",
+        "start": 178.6,
+        "end": 178.7
+      },
+      {
+        "word": " fourth",
+        "start": 178.7,
+        "end": 178.88
+      },
+      {
+        "word": " time,",
+        "start": 178.88,
+        "end": 179.2
+      },
+      {
+        "word": " I",
+        "start": 179.6,
+        "end": 179.7
+      },
+      {
+        "word": " didn't",
+        "start": 179.7,
+        "end": 179.86
+      },
+      {
+        "word": " even",
+        "start": 179.86,
+        "end": 180.04
+      },
+      {
+        "word": " mind",
+        "start": 180.04,
+        "end": 180.46
+      },
+      {
+        "word": " it",
+        "start": 180.46,
+        "end": 180.58
+      },
+      {
+        "word": " whether",
+        "start": 180.58,
+        "end": 180.72
+      },
+      {
+        "word": " they",
+        "start": 180.72,
+        "end": 180.88
+      },
+      {
+        "word": " said",
+        "start": 180.88,
+        "end": 181.04
+      },
+      {
+        "word": " yes",
+        "start": 181.04,
+        "end": 181.2
+      },
+      {
+        "word": " or",
+        "start": 181.2,
+        "end": 181.4
+      },
+      {
+        "word": " no.",
+        "start": 181.4,
+        "end": 181.64
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "start": 181.98,
+    "end": 185.6,
+    "text": "Hannah says that when she walked up to the first stranger in the video,",
+    "words": [
+      {
+        "word": " Hannah",
+        "start": 181.98,
+        "end": 182.18
+      },
+      {
+        "word": " says",
+        "start": 182.18,
+        "end": 182.52
+      },
+      {
+        "word": " that",
+        "start": 182.52,
+        "end": 182.82
+      },
+      {
+        "word": " when",
+        "start": 182.82,
+        "end": 182.98
+      },
+      {
+        "word": " she",
+        "start": 182.98,
+        "end": 183.2
+      },
+      {
+        "word": " walked",
+        "start": 183.2,
+        "end": 183.44
+      },
+      {
+        "word": " up",
+        "start": 183.44,
+        "end": 183.74
+      },
+      {
+        "word": " to",
+        "start": 183.74,
+        "end": 183.92
+      },
+      {
+        "word": " the",
+        "start": 183.92,
+        "end": 184.06
+      },
+      {
+        "word": " first",
+        "start": 184.06,
+        "end": 184.46
+      },
+      {
+        "word": " stranger",
+        "start": 184.46,
+        "end": 184.86
+      },
+      {
+        "word": " in",
+        "start": 184.86,
+        "end": 185.18
+      },
+      {
+        "word": " the",
+        "start": 185.18,
+        "end": 185.28
+      },
+      {
+        "word": " video,",
+        "start": 185.28,
+        "end": 185.6
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "start": 185.88,
+    "end": 187.98,
+    "text": "she felt her adrenaline spiking.",
+    "words": [
+      {
+        "word": " she",
+        "start": 185.88,
+        "end": 186.0
+      },
+      {
+        "word": " felt",
+        "start": 186.0,
+        "end": 186.3
+      },
+      {
+        "word": " her",
+        "start": 186.3,
+        "end": 186.54
+      },
+      {
+        "word": " adrenaline",
+        "start": 186.54,
+        "end": 187.1
+      },
+      {
+        "word": " spiking.",
+        "start": 187.1,
+        "end": 187.98
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "start": 188.64,
+    "end": 190.86,
+    "text": "If something spikes, it increases sharply.",
+    "words": [
+      {
+        "word": " If",
+        "start": 188.64,
+        "end": 188.76
+      },
+      {
+        "word": " something",
+        "start": 188.76,
+        "end": 189.02
+      },
+      {
+        "word": " spikes,",
+        "start": 189.02,
+        "end": 189.34
+      },
+      {
+        "word": " it",
+        "start": 189.72,
+        "end": 189.82
+      },
+      {
+        "word": " increases",
+        "start": 189.82,
+        "end": 190.3
+      },
+      {
+        "word": " sharply.",
+        "start": 190.3,
+        "end": 190.86
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "start": 191.48,
+    "end": 194.68,
+    "text": "Hannah is not generally a socially anxious person.",
+    "words": [
+      {
+        "word": " Hannah",
+        "start": 191.48,
+        "end": 191.88
+      },
+      {
+        "word": " is",
+        "start": 191.88,
+        "end": 192.26
+      },
+      {
+        "word": " not",
+        "start": 192.26,
+        "end": 192.46
+      },
+      {
+        "word": " generally",
+        "start": 192.46,
+        "end": 192.88
+      },
+      {
+        "word": " a",
+        "start": 192.88,
+        "end": 193.18
+      },
+      {
+        "word": " socially",
+        "start": 193.18,
+        "end": 193.6
+      },
+      {
+        "word": " anxious",
+        "start": 193.6,
+        "end": 194.08
+      },
+      {
+        "word": " person.",
+        "start": 194.08,
+        "end": 194.68
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "start": 194.68,
+    "end": 200.54,
+    "text": "Someone who is socially anxious is nervous or worried about speaking to other people.",
+    "words": [
+      {
+        "word": " Someone",
+        "start": 194.68,
+        "end": 195.46
+      },
+      {
+        "word": " who",
+        "start": 195.46,
+        "end": 195.84
+      },
+      {
+        "word": " is",
+        "start": 195.84,
+        "end": 196.0
+      },
+      {
+        "word": " socially",
+        "start": 196.0,
+        "end": 196.6
+      },
+      {
+        "word": " anxious",
+        "start": 196.6,
+        "end": 197.16
+      },
+      {
+        "word": " is",
+        "start": 197.16,
+        "end": 197.64
+      },
+      {
+        "word": " nervous",
+        "start": 197.64,
+        "end": 198.08
+      },
+      {
+        "word": " or",
+        "start": 198.08,
+        "end": 198.6
+      },
+      {
+        "word": " worried",
+        "start": 198.6,
+        "end": 198.96
+      },
+      {
+        "word": " about",
+        "start": 198.96,
+        "end": 199.22
+      },
+      {
+        "word": " speaking",
+        "start": 199.22,
+        "end": 199.7
+      },
+      {
+        "word": " to",
+        "start": 199.7,
+        "end": 199.96
+      },
+      {
+        "word": " other",
+        "start": 199.96,
+        "end": 200.14
+      },
+      {
+        "word": " people.",
+        "start": 200.14,
+        "end": 200.54
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "start": 201.06,
+    "end": 205.9,
+    "text": "Each time Hannah tried to speak to a new person, she says it came easier.",
+    "words": [
+      {
+        "word": " Each",
+        "start": 201.06,
+        "end": 201.22
+      },
+      {
+        "word": " time",
+        "start": 201.22,
+        "end": 201.52
+      },
+      {
+        "word": " Hannah",
+        "start": 201.52,
+        "end": 201.82
+      },
+      {
+        "word": " tried",
+        "start": 201.82,
+        "end": 202.14
+      },
+      {
+        "word": " to",
+        "start": 202.14,
+        "end": 202.32
+      },
+      {
+        "word": " speak",
+        "start": 202.32,
+        "end": 202.56
+      },
+      {
+        "word": " to",
+        "start": 202.56,
+        "end": 202.8
+      },
+      {
+        "word": " a",
+        "start": 202.8,
+        "end": 202.92
+      },
+      {
+        "word": " new",
+        "start": 202.92,
+        "end": 203.2
+      },
+      {
+        "word": " person,",
+        "start": 203.2,
+        "end": 203.72
+      },
+      {
+        "word": " she",
+        "start": 203.98,
+        "end": 204.18
+      },
+      {
+        "word": " says",
+        "start": 204.18,
+        "end": 204.54
+      },
+      {
+        "word": " it",
+        "start": 204.54,
+        "end": 204.8
+      },
+      {
+        "word": " came",
+        "start": 204.8,
+        "end": 205.18
+      },
+      {
+        "word": " easier.",
+        "start": 205.18,
+        "end": 205.9
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "start": 206.54,
+    "end": 210.76,
+    "text": "Come easier is an informal way to say something is easier to achieve.",
+    "words": [
+      {
+        "word": " Come",
+        "start": 206.54,
+        "end": 206.72
+      },
+      {
+        "word": " easier",
+        "start": 206.72,
+        "end": 207.1
+      },
+      {
+        "word": " is",
+        "start": 207.1,
+        "end": 207.56
+      },
+      {
+        "word": " an",
+        "start": 207.56,
+        "end": 207.68
+      },
+      {
+        "word": " informal",
+        "start": 207.68,
+        "end": 208.04
+      },
+      {
+        "word": " way",
+        "start": 208.04,
+        "end": 208.48
+      },
+      {
+        "word": " to",
+        "start": 208.48,
+        "end": 208.72
+      },
+      {
+        "word": " say",
+        "start": 208.72,
+        "end": 208.94
+      },
+      {
+        "word": " something",
+        "start": 208.94,
+        "end": 209.3
+      },
+      {
+        "word": " is",
+        "start": 209.3,
+        "end": 209.66
+      },
+      {
+        "word": " easier",
+        "start": 209.66,
+        "end": 210.12
+      },
+      {
+        "word": " to",
+        "start": 210.12,
+        "end": 210.4
+      },
+      {
+        "word": " achieve.",
+        "start": 210.4,
+        "end": 210.76
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "start": 211.38,
+    "end": 215.34,
+    "text": "Now, this social media trend is called rejection therapy,",
+    "words": [
+      {
+        "word": " Now,",
+        "start": 211.38,
+        "end": 211.56
+      },
+      {
+        "word": " this",
+        "start": 211.7,
+        "end": 211.86
+      },
+      {
+        "word": " social",
+        "start": 211.86,
+        "end": 212.24
+      },
+      {
+        "word": " media",
+        "start": 212.24,
+        "end": 212.66
+      },
+      {
+        "word": " trend",
+        "start": 212.66,
+        "end": 213.12
+      },
+      {
+        "word": " is",
+        "start": 213.12,
+        "end": 213.5
+      },
+      {
+        "word": " called",
+        "start": 213.5,
+        "end": 213.98
+      },
+      {
+        "word": " rejection",
+        "start": 213.98,
+        "end": 214.6
+      },
+      {
+        "word": " therapy,",
+        "start": 214.6,
+        "end": 215.34
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "start": 215.72,
+    "end": 219.66,
+    "text": "but it's not a proper form of therapy. It hasn't been tested.",
+    "words": [
+      {
+        "word": " but",
+        "start": 215.72,
+        "end": 215.96
+      },
+      {
+        "word": " it's",
+        "start": 215.96,
+        "end": 216.16
+      },
+      {
+        "word": " not",
+        "start": 216.16,
+        "end": 216.4
+      },
+      {
+        "word": " a",
+        "start": 216.4,
+        "end": 216.72
+      },
+      {
+        "word": " proper",
+        "start": 216.72,
+        "end": 217.06
+      },
+      {
+        "word": " form",
+        "start": 217.06,
+        "end": 217.64
+      },
+      {
+        "word": " of",
+        "start": 217.64,
+        "end": 217.84
+      },
+      {
+        "word": " therapy.",
+        "start": 217.84,
+        "end": 218.26
+      },
+      {
+        "word": " It",
+        "start": 218.5,
+        "end": 218.64
+      },
+      {
+        "word": " hasn't",
+        "start": 218.64,
+        "end": 219.06
+      },
+      {
+        "word": " been",
+        "start": 219.06,
+        "end": 219.24
+      },
+      {
+        "word": " tested.",
+        "start": 219.24,
+        "end": 219.66
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "start": 219.66,
+    "end": 225.72,
+    "text": "And there are some criticisms of the videos because they involve filming your interactions with strangers,",
+    "words": [
+      {
+        "word": " And",
+        "start": 219.66,
+        "end": 220.24
+      },
+      {
+        "word": " there",
+        "start": 220.24,
+        "end": 220.46
+      },
+      {
+        "word": " are",
+        "start": 220.46,
+        "end": 220.74
+      },
+      {
+        "word": " some",
+        "start": 220.74,
+        "end": 220.94
+      },
+      {
+        "word": " criticisms",
+        "start": 220.94,
+        "end": 221.38
+      },
+      {
+        "word": " of",
+        "start": 221.38,
+        "end": 221.78
+      },
+      {
+        "word": " the",
+        "start": 221.78,
+        "end": 221.9
+      },
+      {
+        "word": " videos",
+        "start": 221.9,
+        "end": 222.26
+      },
+      {
+        "word": " because",
+        "start": 222.26,
+        "end": 222.8
+      },
+      {
+        "word": " they",
+        "start": 222.8,
+        "end": 223.06
+      },
+      {
+        "word": " involve",
+        "start": 223.06,
+        "end": 223.48
+      },
+      {
+        "word": " filming",
+        "start": 223.48,
+        "end": 223.92
+      },
+      {
+        "word": " your",
+        "start": 223.92,
+        "end": 224.18
+      },
+      {
+        "word": " interactions",
+        "start": 224.18,
+        "end": 224.8
+      },
+      {
+        "word": " with",
+        "start": 224.8,
+        "end": 225.2
+      },
+      {
+        "word": " strangers,",
+        "start": 225.2,
+        "end": 225.72
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "start": 226.34,
+    "end": 227.56,
+    "text": "which people might not want.",
+    "words": [
+      {
+        "word": " which",
+        "start": 226.34,
+        "end": 226.48
+      },
+      {
+        "word": " people",
+        "start": 226.48,
+        "end": 226.76
+      },
+      {
+        "word": " might",
+        "start": 226.76,
+        "end": 227.04
+      },
+      {
+        "word": " not",
+        "start": 227.04,
+        "end": 227.22
+      },
+      {
+        "word": " want.",
+        "start": 227.22,
+        "end": 227.56
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "start": 228.26,
+    "end": 232.1,
+    "text": "But people who post the videos say they boost their confidence.",
+    "words": [
+      {
+        "word": " But",
+        "start": 228.26,
+        "end": 228.46
+      },
+      {
+        "word": " people",
+        "start": 228.46,
+        "end": 228.84
+      },
+      {
+        "word": " who",
+        "start": 228.84,
+        "end": 229.12
+      },
+      {
+        "word": " post",
+        "start": 229.12,
+        "end": 229.54
+      },
+      {
+        "word": " the",
+        "start": 229.54,
+        "end": 229.74
+      },
+      {
+        "word": " videos",
+        "start": 229.74,
+        "end": 230.14
+      },
+      {
+        "word": " say",
+        "start": 230.14,
+        "end": 230.74
+      },
+      {
+        "word": " they",
+        "start": 230.74,
+        "end": 230.92
+      },
+      {
+        "word": " boost",
+        "start": 230.92,
+        "end": 231.32
+      },
+      {
+        "word": " their",
+        "start": 231.32,
+        "end": 231.62
+      },
+      {
+        "word": " confidence.",
+        "start": 231.62,
+        "end": 232.1
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "start": 232.76,
+    "end": 235.78,
+    "text": "So why do people want to ask for rejection?",
+    "words": [
+      {
+        "word": " So",
+        "start": 232.76,
+        "end": 233.1
+      },
+      {
+        "word": " why",
+        "start": 233.1,
+        "end": 233.48
+      },
+      {
+        "word": " do",
+        "start": 233.48,
+        "end": 233.72
+      },
+      {
+        "word": " people",
+        "start": 233.72,
+        "end": 234.16
+      },
+      {
+        "word": " want",
+        "start": 234.16,
+        "end": 234.5
+      },
+      {
+        "word": " to",
+        "start": 234.5,
+        "end": 234.78
+      },
+      {
+        "word": " ask",
+        "start": 234.78,
+        "end": 235.0
+      },
+      {
+        "word": " for",
+        "start": 235.0,
+        "end": 235.24
+      },
+      {
+        "word": " rejection?",
+        "start": 235.24,
+        "end": 235.78
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "start": 236.38,
+    "end": 239.02,
+    "text": "Psychologist Claudia Hammond has some ideas,",
+    "words": [
+      {
+        "word": " Psychologist",
+        "start": 236.38,
+        "end": 236.94
+      },
+      {
+        "word": " Claudia",
+        "start": 236.94,
+        "end": 237.32
+      },
+      {
+        "word": " Hammond",
+        "start": 237.32,
+        "end": 237.98
+      },
+      {
+        "word": " has",
+        "start": 237.98,
+        "end": 238.32
+      },
+      {
+        "word": " some",
+        "start": 238.32,
+        "end": 238.58
+      },
+      {
+        "word": " ideas,",
+        "start": 238.58,
+        "end": 239.02
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "start": 239.52,
+    "end": 243.9,
+    "text": "which she shared with Hannah on the BBC World Service podcast, What in the World.",
+    "words": [
+      {
+        "word": " which",
+        "start": 239.52,
+        "end": 239.64
+      },
+      {
+        "word": " she",
+        "start": 239.64,
+        "end": 239.84
+      },
+      {
+        "word": " shared",
+        "start": 239.84,
+        "end": 240.22
+      },
+      {
+        "word": " with",
+        "start": 240.22,
+        "end": 240.5
+      },
+      {
+        "word": " Hannah",
+        "start": 240.5,
+        "end": 240.82
+      },
+      {
+        "word": " on",
+        "start": 240.82,
+        "end": 241.08
+      },
+      {
+        "word": " the",
+        "start": 241.08,
+        "end": 241.18
+      },
+      {
+        "word": " BBC",
+        "start": 241.18,
+        "end": 241.44
+      },
+      {
+        "word": " World",
+        "start": 241.44,
+        "end": 241.86
+      },
+      {
+        "word": " Service",
+        "start": 241.86,
+        "end": 242.28
+      },
+      {
+        "word": " podcast,",
+        "start": 242.28,
+        "end": 242.76
+      },
+      {
+        "word": " What",
+        "start": 243.26,
+        "end": 243.34
+      },
+      {
+        "word": " in",
+        "start": 243.34,
+        "end": 243.52
+      },
+      {
+        "word": " the",
+        "start": 243.52,
+        "end": 243.64
+      },
+      {
+        "word": " World.",
+        "start": 243.64,
+        "end": 243.9
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "start": 244.64,
+    "end": 247.66,
+    "text": "What we do know is that there is an increase in perfectionism.",
+    "words": [
+      {
+        "word": " What",
+        "start": 244.64,
+        "end": 245.02
+      },
+      {
+        "word": " we",
+        "start": 245.02,
+        "end": 245.16
+      },
+      {
+        "word": " do",
+        "start": 245.16,
+        "end": 245.34
+      },
+      {
+        "word": " know",
+        "start": 245.34,
+        "end": 245.52
+      },
+      {
+        "word": " is",
+        "start": 245.52,
+        "end": 245.72
+      },
+      {
+        "word": " that",
+        "start": 245.72,
+        "end": 245.9
+      },
+      {
+        "word": " there",
+        "start": 245.9,
+        "end": 246.06
+      },
+      {
+        "word": " is",
+        "start": 246.06,
+        "end": 246.24
+      },
+      {
+        "word": " an",
+        "start": 246.24,
+        "end": 246.4
+      },
+      {
+        "word": " increase",
+        "start": 246.4,
+        "end": 246.9
+      },
+      {
+        "word": " in",
+        "start": 246.9,
+        "end": 247.52
+      },
+      {
+        "word": " perfectionism.",
+        "start": 247.52,
+        "end": 247.86
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "start": 247.86,
+    "end": 251.96,
+    "text": "People are more worried now, younger people, about how other people are judging them.",
+    "words": [
+      {
+        "word": " People",
+        "start": 247.86,
+        "end": 248.52
+      },
+      {
+        "word": " are",
+        "start": 248.52,
+        "end": 248.82
+      },
+      {
+        "word": " more",
+        "start": 248.82,
+        "end": 249.2
+      },
+      {
+        "word": " worried",
+        "start": 249.2,
+        "end": 249.58
+      },
+      {
+        "word": " now,",
+        "start": 249.58,
+        "end": 249.78
+      },
+      {
+        "word": " younger",
+        "start": 249.92,
+        "end": 250.02
+      },
+      {
+        "word": " people,",
+        "start": 250.02,
+        "end": 250.34
+      },
+      {
+        "word": " about",
+        "start": 250.46,
+        "end": 250.66
+      },
+      {
+        "word": " how",
+        "start": 250.66,
+        "end": 250.84
+      },
+      {
+        "word": " other",
+        "start": 250.84,
+        "end": 251.12
+      },
+      {
+        "word": " people",
+        "start": 251.12,
+        "end": 251.34
+      },
+      {
+        "word": " are",
+        "start": 251.34,
+        "end": 251.52
+      },
+      {
+        "word": " judging",
+        "start": 251.52,
+        "end": 251.74
+      },
+      {
+        "word": " them.",
+        "start": 251.74,
+        "end": 251.96
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "start": 252.38,
+    "end": 257.2,
+    "text": "And so I wonder whether that might make people more shy of speaking to strangers,",
+    "words": [
+      {
+        "word": " And",
+        "start": 252.38,
+        "end": 252.56
+      },
+      {
+        "word": " so",
+        "start": 252.56,
+        "end": 252.8
+      },
+      {
+        "word": " I",
+        "start": 252.8,
+        "end": 253.04
+      },
+      {
+        "word": " wonder",
+        "start": 253.04,
+        "end": 253.46
+      },
+      {
+        "word": " whether",
+        "start": 253.46,
+        "end": 253.72
+      },
+      {
+        "word": " that",
+        "start": 253.72,
+        "end": 253.96
+      },
+      {
+        "word": " might",
+        "start": 253.96,
+        "end": 254.16
+      },
+      {
+        "word": " make",
+        "start": 254.16,
+        "end": 254.44
+      },
+      {
+        "word": " people",
+        "start": 254.44,
+        "end": 254.76
+      },
+      {
+        "word": " more",
+        "start": 254.76,
+        "end": 255.62
+      },
+      {
+        "word": " shy",
+        "start": 255.62,
+        "end": 256.0
+      },
+      {
+        "word": " of",
+        "start": 256.0,
+        "end": 256.26
+      },
+      {
+        "word": " speaking",
+        "start": 256.26,
+        "end": 256.56
+      },
+      {
+        "word": " to",
+        "start": 256.56,
+        "end": 256.8
+      },
+      {
+        "word": " strangers,",
+        "start": 256.8,
+        "end": 257.2
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "start": 257.58,
+    "end": 261.46,
+    "text": "worried that the people will not appraise them in a good way.",
+    "words": [
+      {
+        "word": " worried",
+        "start": 257.58,
+        "end": 257.9
+      },
+      {
+        "word": " that",
+        "start": 257.9,
+        "end": 258.22
+      },
+      {
+        "word": " the",
+        "start": 258.22,
+        "end": 258.38
+      },
+      {
+        "word": " people",
+        "start": 258.38,
+        "end": 258.78
+      },
+      {
+        "word": " will",
+        "start": 258.78,
+        "end": 259.08
+      },
+      {
+        "word": " not",
+        "start": 259.08,
+        "end": 259.96
+      },
+      {
+        "word": " appraise",
+        "start": 259.96,
+        "end": 260.58
+      },
+      {
+        "word": " them",
+        "start": 260.58,
+        "end": 260.72
+      },
+      {
+        "word": " in",
+        "start": 260.72,
+        "end": 260.86
+      },
+      {
+        "word": " a",
+        "start": 260.86,
+        "end": 260.98
+      },
+      {
+        "word": " good",
+        "start": 260.98,
+        "end": 261.1
+      },
+      {
+        "word": " way.",
+        "start": 261.1,
+        "end": 261.46
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "start": 262.0,
+    "end": 265.7,
+    "text": "And so doing something like this to try to counter that",
+    "words": [
+      {
+        "word": " And",
+        "start": 262.0,
+        "end": 262.3
+      },
+      {
+        "word": " so",
+        "start": 262.3,
+        "end": 262.78
+      },
+      {
+        "word": " doing",
+        "start": 262.78,
+        "end": 263.48
+      },
+      {
+        "word": " something",
+        "start": 263.48,
+        "end": 263.88
+      },
+      {
+        "word": " like",
+        "start": 263.88,
+        "end": 264.18
+      },
+      {
+        "word": " this",
+        "start": 264.18,
+        "end": 264.46
+      },
+      {
+        "word": " to",
+        "start": 264.46,
+        "end": 264.62
+      },
+      {
+        "word": " try",
+        "start": 264.62,
+        "end": 264.8
+      },
+      {
+        "word": " to",
+        "start": 264.8,
+        "end": 264.92
+      },
+      {
+        "word": " counter",
+        "start": 264.92,
+        "end": 265.44
+      },
+      {
+        "word": " that",
+        "start": 265.44,
+        "end": 265.7
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "start": 265.7,
+    "end": 268.84,
+    "text": "might feel like a positive step to people that they're trying to do something.",
+    "words": [
+      {
+        "word": " might",
+        "start": 265.7,
+        "end": 265.92
+      },
+      {
+        "word": " feel",
+        "start": 265.92,
+        "end": 266.18
+      },
+      {
+        "word": " like",
+        "start": 266.18,
+        "end": 266.4
+      },
+      {
+        "word": " a",
+        "start": 266.4,
+        "end": 266.56
+      },
+      {
+        "word": " positive",
+        "start": 266.56,
+        "end": 267.12
+      },
+      {
+        "word": " step",
+        "start": 267.12,
+        "end": 267.5
+      },
+      {
+        "word": " to",
+        "start": 267.5,
+        "end": 267.64
+      },
+      {
+        "word": " people",
+        "start": 267.64,
+        "end": 267.88
+      },
+      {
+        "word": " that",
+        "start": 267.88,
+        "end": 268.04
+      },
+      {
+        "word": " they're",
+        "start": 268.04,
+        "end": 268.18
+      },
+      {
+        "word": " trying",
+        "start": 268.18,
+        "end": 268.34
+      },
+      {
+        "word": " to",
+        "start": 268.34,
+        "end": 268.48
+      },
+      {
+        "word": " do",
+        "start": 268.48,
+        "end": 268.64
+      },
+      {
+        "word": " something.",
+        "start": 268.64,
+        "end": 268.84
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "start": 269.12,
+    "end": 270.42,
+    "text": "Also, they're fun to watch.",
+    "words": [
+      {
+        "word": " Also,",
+        "start": 269.12,
+        "end": 269.38
+      },
+      {
+        "word": " they're",
+        "start": 269.44,
+        "end": 269.7
+      },
+      {
+        "word": " fun",
+        "start": 269.7,
+        "end": 270.02
+      },
+      {
+        "word": " to",
+        "start": 270.02,
+        "end": 270.2
+      },
+      {
+        "word": " watch.",
+        "start": 270.2,
+        "end": 270.42
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "start": 270.72,
+    "end": 275.08,
+    "text": "Claudia says there's an increase in perfectionism among young people.",
+    "words": [
+      {
+        "word": " Claudia",
+        "start": 270.72,
+        "end": 271.04
+      },
+      {
+        "word": " says",
+        "start": 271.04,
+        "end": 271.54
+      },
+      {
+        "word": " there's",
+        "start": 271.54,
+        "end": 272.02
+      },
+      {
+        "word": " an",
+        "start": 272.02,
+        "end": 272.14
+      },
+      {
+        "word": " increase",
+        "start": 272.14,
+        "end": 272.62
+      },
+      {
+        "word": " in",
+        "start": 272.62,
+        "end": 273.02
+      },
+      {
+        "word": " perfectionism",
+        "start": 273.02,
+        "end": 274.02
+      },
+      {
+        "word": " among",
+        "start": 274.02,
+        "end": 274.3
+      },
+      {
+        "word": " young",
+        "start": 274.3,
+        "end": 274.66
+      },
+      {
+        "word": " people.",
+        "start": 274.66,
+        "end": 275.08
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "start": 275.88,
+    "end": 280.04,
+    "text": "Perfectionism is the feeling that everything you do needs to be perfect.",
+    "words": [
+      {
+        "word": " Perfectionism",
+        "start": 275.88,
+        "end": 276.5
+      },
+      {
+        "word": " is",
+        "start": 276.5,
+        "end": 276.68
+      },
+      {
+        "word": " the",
+        "start": 276.68,
+        "end": 276.86
+      },
+      {
+        "word": " feeling",
+        "start": 276.86,
+        "end": 277.18
+      },
+      {
+        "word": " that",
+        "start": 277.18,
+        "end": 277.46
+      },
+      {
+        "word": " everything",
+        "start": 277.46,
+        "end": 277.96
+      },
+      {
+        "word": " you",
+        "start": 277.96,
+        "end": 278.4
+      },
+      {
+        "word": " do",
+        "start": 278.4,
+        "end": 278.62
+      },
+      {
+        "word": " needs",
+        "start": 278.62,
+        "end": 279.1
+      },
+      {
+        "word": " to",
+        "start": 279.1,
+        "end": 279.38
+      },
+      {
+        "word": " be",
+        "start": 279.38,
+        "end": 279.52
+      },
+      {
+        "word": " perfect.",
+        "start": 279.52,
+        "end": 280.04
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "start": 280.54,
+    "end": 286.24,
+    "text": "Young people are also worried about how people will appraise them, which means judge them.",
+    "words": [
+      {
+        "word": " Young",
+        "start": 280.54,
+        "end": 280.72
+      },
+      {
+        "word": " people",
+        "start": 280.72,
+        "end": 281.04
+      },
+      {
+        "word": " are",
+        "start": 281.04,
+        "end": 281.38
+      },
+      {
+        "word": " also",
+        "start": 281.38,
+        "end": 281.8
+      },
+      {
+        "word": " worried",
+        "start": 281.8,
+        "end": 282.26
+      },
+      {
+        "word": " about",
+        "start": 282.26,
+        "end": 282.6
+      },
+      {
+        "word": " how",
+        "start": 282.6,
+        "end": 282.9
+      },
+      {
+        "word": " people",
+        "start": 282.9,
+        "end": 283.3
+      },
+      {
+        "word": " will",
+        "start": 283.3,
+        "end": 283.62
+      },
+      {
+        "word": " appraise",
+        "start": 283.62,
+        "end": 284.4
+      },
+      {
+        "word": " them,",
+        "start": 284.4,
+        "end": 284.6
+      },
+      {
+        "word": " which",
+        "start": 284.82,
+        "end": 285.04
+      },
+      {
+        "word": " means",
+        "start": 285.04,
+        "end": 285.44
+      },
+      {
+        "word": " judge",
+        "start": 285.44,
+        "end": 285.96
+      },
+      {
+        "word": " them.",
+        "start": 285.96,
+        "end": 286.24
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "start": 287.02,
+    "end": 291.8,
+    "text": "Deliberately looking for rejection might be an extreme way to become more confident,",
+    "words": [
+      {
+        "word": " Deliberately",
+        "start": 287.02,
+        "end": 287.64
+      },
+      {
+        "word": " looking",
+        "start": 287.64,
+        "end": 287.92
+      },
+      {
+        "word": " for",
+        "start": 287.92,
+        "end": 288.2
+      },
+      {
+        "word": " rejection",
+        "start": 288.2,
+        "end": 288.7
+      },
+      {
+        "word": " might",
+        "start": 288.7,
+        "end": 289.34
+      },
+      {
+        "word": " be",
+        "start": 289.34,
+        "end": 289.54
+      },
+      {
+        "word": " an",
+        "start": 289.54,
+        "end": 289.66
+      },
+      {
+        "word": " extreme",
+        "start": 289.66,
+        "end": 290.1
+      },
+      {
+        "word": " way",
+        "start": 290.1,
+        "end": 290.54
+      },
+      {
+        "word": " to",
+        "start": 290.54,
+        "end": 290.8
+      },
+      {
+        "word": " become",
+        "start": 290.8,
+        "end": 291.1
+      },
+      {
+        "word": " more",
+        "start": 291.1,
+        "end": 291.32
+      },
+      {
+        "word": " confident,",
+        "start": 291.32,
+        "end": 291.8
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "start": 292.14,
+    "end": 294.62,
+    "text": "but it can lead to surprising discoveries.",
+    "words": [
+      {
+        "word": " but",
+        "start": 292.14,
+        "end": 292.4
+      },
+      {
+        "word": " it",
+        "start": 292.4,
+        "end": 292.56
+      },
+      {
+        "word": " can",
+        "start": 292.56,
+        "end": 292.78
+      },
+      {
+        "word": " lead",
+        "start": 292.78,
+        "end": 293.08
+      },
+      {
+        "word": " to",
+        "start": 293.08,
+        "end": 293.36
+      },
+      {
+        "word": " surprising",
+        "start": 293.36,
+        "end": 293.94
+      },
+      {
+        "word": " discoveries.",
+        "start": 293.94,
+        "end": 294.62
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "start": 295.4,
+    "end": 300.28,
+    "text": "Yes, and Hannah found that most strangers she spoke to were friendly and happy to help.",
+    "words": [
+      {
+        "word": " Yes,",
+        "start": 295.4,
+        "end": 295.78
+      },
+      {
+        "word": " and",
+        "start": 296.06,
+        "end": 296.2
+      },
+      {
+        "word": " Hannah",
+        "start": 296.2,
+        "end": 296.44
+      },
+      {
+        "word": " found",
+        "start": 296.44,
+        "end": 296.82
+      },
+      {
+        "word": " that",
+        "start": 296.82,
+        "end": 297.02
+      },
+      {
+        "word": " most",
+        "start": 297.02,
+        "end": 297.32
+      },
+      {
+        "word": " strangers",
+        "start": 297.32,
+        "end": 297.72
+      },
+      {
+        "word": " she",
+        "start": 297.72,
+        "end": 297.98
+      },
+      {
+        "word": " spoke",
+        "start": 297.98,
+        "end": 298.2
+      },
+      {
+        "word": " to",
+        "start": 298.2,
+        "end": 298.48
+      },
+      {
+        "word": " were",
+        "start": 298.48,
+        "end": 298.82
+      },
+      {
+        "word": " friendly",
+        "start": 298.82,
+        "end": 299.16
+      },
+      {
+        "word": " and",
+        "start": 299.16,
+        "end": 299.5
+      },
+      {
+        "word": " happy",
+        "start": 299.5,
+        "end": 299.78
+      },
+      {
+        "word": " to",
+        "start": 299.78,
+        "end": 299.96
+      },
+      {
+        "word": " help.",
+        "start": 299.96,
+        "end": 300.28
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "start": 300.64,
+    "end": 303.36,
+    "text": "So she didn't really experience rejection much at all.",
+    "words": [
+      {
+        "word": " So",
+        "start": 300.64,
+        "end": 300.88
+      },
+      {
+        "word": " she",
+        "start": 300.88,
+        "end": 301.02
+      },
+      {
+        "word": " didn't",
+        "start": 301.02,
+        "end": 301.32
+      },
+      {
+        "word": " really",
+        "start": 301.32,
+        "end": 301.52
+      },
+      {
+        "word": " experience",
+        "start": 301.52,
+        "end": 302.14
+      },
+      {
+        "word": " rejection",
+        "start": 302.14,
+        "end": 302.6
+      },
+      {
+        "word": " much",
+        "start": 302.6,
+        "end": 302.94
+      },
+      {
+        "word": " at",
+        "start": 302.94,
+        "end": 303.14
+      },
+      {
+        "word": " all.",
+        "start": 303.14,
+        "end": 303.36
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "start": 303.36,
+    "end": 308.26,
+    "text": "OK, Georgie. I think it's time now for the answer to my quiz question.",
+    "words": [
+      {
+        "word": " OK,",
+        "start": 303.36,
+        "end": 304.14
+      },
+      {
+        "word": " Georgie.",
+        "start": 304.42,
+        "end": 304.66
+      },
+      {
+        "word": " I",
+        "start": 304.74,
+        "end": 304.86
+      },
+      {
+        "word": " think",
+        "start": 304.86,
+        "end": 305.14
+      },
+      {
+        "word": " it's",
+        "start": 305.14,
+        "end": 305.56
+      },
+      {
+        "word": " time",
+        "start": 305.56,
+        "end": 305.84
+      },
+      {
+        "word": " now",
+        "start": 305.84,
+        "end": 306.16
+      },
+      {
+        "word": " for",
+        "start": 306.16,
+        "end": 306.34
+      },
+      {
+        "word": " the",
+        "start": 306.34,
+        "end": 306.44
+      },
+      {
+        "word": " answer",
+        "start": 306.44,
+        "end": 306.96
+      },
+      {
+        "word": " to",
+        "start": 306.96,
+        "end": 307.24
+      },
+      {
+        "word": " my",
+        "start": 307.24,
+        "end": 307.42
+      },
+      {
+        "word": " quiz",
+        "start": 307.42,
+        "end": 307.7
+      },
+      {
+        "word": " question.",
+        "start": 307.7,
+        "end": 308.26
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "start": 308.9,
+    "end": 315.48,
+    "text": "I asked you which rejection Walt Disney didn't experience before becoming successful?",
+    "words": [
+      {
+        "word": " I",
+        "start": 308.9,
+        "end": 309.1
+      },
+      {
+        "word": " asked",
+        "start": 309.1,
+        "end": 309.46
+      },
+      {
+        "word": " you",
+        "start": 309.46,
+        "end": 309.7
+      },
+      {
+        "word": " which",
+        "start": 309.7,
+        "end": 310.3
+      },
+      {
+        "word": " rejection",
+        "start": 310.3,
+        "end": 311.02
+      },
+      {
+        "word": " Walt",
+        "start": 311.02,
+        "end": 311.76
+      },
+      {
+        "word": " Disney",
+        "start": 311.76,
+        "end": 312.28
+      },
+      {
+        "word": " didn't",
+        "start": 312.28,
+        "end": 313.12
+      },
+      {
+        "word": " experience",
+        "start": 313.12,
+        "end": 313.86
+      },
+      {
+        "word": " before",
+        "start": 313.86,
+        "end": 314.42
+      },
+      {
+        "word": " becoming",
+        "start": 314.42,
+        "end": 314.9
+      },
+      {
+        "word": " successful?",
+        "start": 314.9,
+        "end": 315.48
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "start": 315.94,
+    "end": 320.28,
+    "text": "Yes, and I went for A. I don't think he lost his job as an artist.",
+    "words": [
+      {
+        "word": " Yes,",
+        "start": 315.94,
+        "end": 316.28
+      },
+      {
+        "word": " and",
+        "start": 316.46,
+        "end": 316.62
+      },
+      {
+        "word": " I",
+        "start": 316.62,
+        "end": 316.86
+      },
+      {
+        "word": " went",
+        "start": 316.86,
+        "end": 317.06
+      },
+      {
+        "word": " for",
+        "start": 317.06,
+        "end": 317.32
+      },
+      {
+        "word": " A.",
+        "start": 317.32,
+        "end": 317.7
+      },
+      {
+        "word": " I",
+        "start": 317.86,
+        "end": 317.98
+      },
+      {
+        "word": " don't",
+        "start": 317.98,
+        "end": 318.36
+      },
+      {
+        "word": " think",
+        "start": 318.36,
+        "end": 318.62
+      },
+      {
+        "word": " he",
+        "start": 318.62,
+        "end": 318.9
+      },
+      {
+        "word": " lost",
+        "start": 318.9,
+        "end": 319.18
+      },
+      {
+        "word": " his",
+        "start": 319.18,
+        "end": 319.44
+      },
+      {
+        "word": " job",
+        "start": 319.44,
+        "end": 319.66
+      },
+      {
+        "word": " as",
+        "start": 319.66,
+        "end": 319.82
+      },
+      {
+        "word": " an",
+        "start": 319.82,
+        "end": 319.94
+      },
+      {
+        "word": " artist.",
+        "start": 319.94,
+        "end": 320.28
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "start": 321.64,
+    "end": 327.66,
+    "text": "Well, actually, the answer was C. His first full-length film, Snow White and the Seven Dwarfs,",
+    "words": [
+      {
+        "word": " Well,",
+        "start": 321.64,
+        "end": 321.94
+      },
+      {
+        "word": " actually,",
+        "start": 322.0,
+        "end": 322.36
+      },
+      {
+        "word": " the",
+        "start": 322.5,
+        "end": 322.64
+      },
+      {
+        "word": " answer",
+        "start": 322.64,
+        "end": 322.94
+      },
+      {
+        "word": " was",
+        "start": 322.94,
+        "end": 323.2
+      },
+      {
+        "word": " C.",
+        "start": 323.2,
+        "end": 323.72
+      },
+      {
+        "word": " His",
+        "start": 324.1,
+        "end": 324.28
+      },
+      {
+        "word": " first",
+        "start": 324.28,
+        "end": 324.64
+      },
+      {
+        "word": " full",
+        "start": 324.64,
+        "end": 324.98
+      },
+      {
+        "word": "-length",
+        "start": 324.98,
+        "end": 325.18
+      },
+      {
+        "word": " film,",
+        "start": 325.18,
+        "end": 325.64
+      },
+      {
+        "word": " Snow",
+        "start": 325.98,
+        "end": 326.2
+      },
+      {
+        "word": " White",
+        "start": 326.2,
+        "end": 326.56
+      },
+      {
+        "word": " and",
+        "start": 326.56,
+        "end": 326.82
+      },
+      {
+        "word": " the",
+        "start": 326.82,
+        "end": 327.0
+      },
+      {
+        "word": " Seven",
+        "start": 327.0,
+        "end": 327.18
+      },
+      {
+        "word": " Dwarfs,",
+        "start": 327.18,
+        "end": 327.66
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "start": 327.8,
+    "end": 330.16,
+    "text": "was not a failure. It was a huge success.",
+    "words": [
+      {
+        "word": " was",
+        "start": 327.8,
+        "end": 327.92
+      },
+      {
+        "word": " not",
+        "start": 327.92,
+        "end": 328.14
+      },
+      {
+        "word": " a",
+        "start": 328.14,
+        "end": 328.3
+      },
+      {
+        "word": " failure.",
+        "start": 328.3,
+        "end": 328.64
+      },
+      {
+        "word": " It",
+        "start": 329.1,
+        "end": 329.24
+      },
+      {
+        "word": " was",
+        "start": 329.24,
+        "end": 329.36
+      },
+      {
+        "word": " a",
+        "start": 329.36,
+        "end": 329.48
+      },
+      {
+        "word": " huge",
+        "start": 329.48,
+        "end": 329.72
+      },
+      {
+        "word": " success.",
+        "start": 329.72,
+        "end": 330.16
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "start": 330.16,
+    "end": 333.74,
+    "text": "Wow, that was his first film. That's really impressive.",
+    "words": [
+      {
+        "word": " Wow,",
+        "start": 330.16,
+        "end": 331.1
+      },
+      {
+        "word": " that",
+        "start": 331.26,
+        "end": 331.4
+      },
+      {
+        "word": " was",
+        "start": 331.4,
+        "end": 331.6
+      },
+      {
+        "word": " his",
+        "start": 331.6,
+        "end": 331.76
+      },
+      {
+        "word": " first",
+        "start": 331.76,
+        "end": 332.14
+      },
+      {
+        "word": " film.",
+        "start": 332.14,
+        "end": 332.6
+      },
+      {
+        "word": " That's",
+        "start": 332.84,
+        "end": 333.12
+      },
+      {
+        "word": " really",
+        "start": 333.12,
+        "end": 333.36
+      },
+      {
+        "word": " impressive.",
+        "start": 333.36,
+        "end": 333.74
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "start": 334.04,
+    "end": 334.42,
+    "text": "It is.",
+    "words": [
+      {
+        "word": " It",
+        "start": 334.04,
+        "end": 334.18
+      },
+      {
+        "word": " is.",
+        "start": 334.18,
+        "end": 334.42
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "start": 335.06,
+    "end": 340.12,
+    "text": "OK, let's recap the vocabulary we learned in this programme, starting with rejection,",
+    "words": [
+      {
+        "word": " OK,",
+        "start": 335.06,
+        "end": 335.3
+      },
+      {
+        "word": " let's",
+        "start": 335.44,
+        "end": 335.64
+      },
+      {
+        "word": " recap",
+        "start": 335.64,
+        "end": 335.92
+      },
+      {
+        "word": " the",
+        "start": 335.92,
+        "end": 336.12
+      },
+      {
+        "word": " vocabulary",
+        "start": 336.12,
+        "end": 336.64
+      },
+      {
+        "word": " we",
+        "start": 336.64,
+        "end": 337.08
+      },
+      {
+        "word": " learned",
+        "start": 337.08,
+        "end": 337.44
+      },
+      {
+        "word": " in",
+        "start": 337.44,
+        "end": 337.78
+      },
+      {
+        "word": " this",
+        "start": 337.78,
+        "end": 338.0
+      },
+      {
+        "word": " programme,",
+        "start": 338.0,
+        "end": 338.48
+      },
+      {
+        "word": " starting",
+        "start": 338.72,
+        "end": 339.12
+      },
+      {
+        "word": " with",
+        "start": 339.12,
+        "end": 339.6
+      },
+      {
+        "word": " rejection,",
+        "start": 339.6,
+        "end": 340.12
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "start": 340.74,
+    "end": 344.44,
+    "text": "which means saying no or refusing an idea or suggestion.",
+    "words": [
+      {
+        "word": " which",
+        "start": 340.74,
+        "end": 340.88
+      },
+      {
+        "word": " means",
+        "start": 340.88,
+        "end": 341.24
+      },
+      {
+        "word": " saying",
+        "start": 341.24,
+        "end": 341.68
+      },
+      {
+        "word": " no",
+        "start": 341.68,
+        "end": 342.1
+      },
+      {
+        "word": " or",
+        "start": 342.1,
+        "end": 342.52
+      },
+      {
+        "word": " refusing",
+        "start": 342.52,
+        "end": 342.96
+      },
+      {
+        "word": " an",
+        "start": 342.96,
+        "end": 343.18
+      },
+      {
+        "word": " idea",
+        "start": 343.18,
+        "end": 343.58
+      },
+      {
+        "word": " or",
+        "start": 343.58,
+        "end": 343.96
+      },
+      {
+        "word": " suggestion.",
+        "start": 343.96,
+        "end": 344.44
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "start": 345.22,
+    "end": 347.78,
+    "text": "The verb spike means increase suddenly.",
+    "words": [
+      {
+        "word": " The",
+        "start": 345.22,
+        "end": 345.3
+      },
+      {
+        "word": " verb",
+        "start": 345.3,
+        "end": 345.58
+      },
+      {
+        "word": " spike",
+        "start": 345.58,
+        "end": 346.02
+      },
+      {
+        "word": " means",
+        "start": 346.02,
+        "end": 346.54
+      },
+      {
+        "word": " increase",
+        "start": 346.54,
+        "end": 347.1
+      },
+      {
+        "word": " suddenly.",
+        "start": 347.1,
+        "end": 347.78
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "start": 348.42,
+    "end": 353.62,
+    "text": "Someone who is socially anxious is nervous or worried about speaking to other people.",
+    "words": [
+      {
+        "word": " Someone",
+        "start": 348.42,
+        "end": 348.64
+      },
+      {
+        "word": " who",
+        "start": 348.64,
+        "end": 349.08
+      },
+      {
+        "word": " is",
+        "start": 349.08,
+        "end": 349.34
+      },
+      {
+        "word": " socially",
+        "start": 349.34,
+        "end": 349.84
+      },
+      {
+        "word": " anxious",
+        "start": 349.84,
+        "end": 350.3
+      },
+      {
+        "word": " is",
+        "start": 350.3,
+        "end": 350.8
+      },
+      {
+        "word": " nervous",
+        "start": 350.8,
+        "end": 351.2
+      },
+      {
+        "word": " or",
+        "start": 351.2,
+        "end": 351.62
+      },
+      {
+        "word": " worried",
+        "start": 351.62,
+        "end": 352.04
+      },
+      {
+        "word": " about",
+        "start": 352.04,
+        "end": 352.34
+      },
+      {
+        "word": " speaking",
+        "start": 352.34,
+        "end": 352.78
+      },
+      {
+        "word": " to",
+        "start": 352.78,
+        "end": 353.04
+      },
+      {
+        "word": " other",
+        "start": 353.04,
+        "end": 353.26
+      },
+      {
+        "word": " people.",
+        "start": 353.26,
+        "end": 353.62
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "start": 354.34,
+    "end": 357.62,
+    "text": "If something comes easier, it's easier to achieve.",
+    "words": [
+      {
+        "word": " If",
+        "start": 354.34,
+        "end": 354.5
+      },
+      {
+        "word": " something",
+        "start": 354.5,
+        "end": 354.8
+      },
+      {
+        "word": " comes",
+        "start": 354.8,
+        "end": 355.34
+      },
+      {
+        "word": " easier,",
+        "start": 355.34,
+        "end": 355.96
+      },
+      {
+        "word": " it's",
+        "start": 356.22,
+        "end": 356.48
+      },
+      {
+        "word": " easier",
+        "start": 356.48,
+        "end": 356.92
+      },
+      {
+        "word": " to",
+        "start": 356.92,
+        "end": 357.18
+      },
+      {
+        "word": " achieve.",
+        "start": 357.18,
+        "end": 357.62
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "start": 358.34,
+    "end": 362.34,
+    "text": "Perfectionism is the feeling that everything you do needs to be perfect.",
+    "words": [
+      {
+        "word": " Perfectionism",
+        "start": 358.34,
+        "end": 358.9
+      },
+      {
+        "word": " is",
+        "start": 358.9,
+        "end": 359.18
+      },
+      {
+        "word": " the",
+        "start": 359.18,
+        "end": 359.32
+      },
+      {
+        "word": " feeling",
+        "start": 359.32,
+        "end": 359.66
+      },
+      {
+        "word": " that",
+        "start": 359.66,
+        "end": 359.96
+      },
+      {
+        "word": " everything",
+        "start": 359.96,
+        "end": 360.38
+      },
+      {
+        "word": " you",
+        "start": 360.38,
+        "end": 360.68
+      },
+      {
+        "word": " do",
+        "start": 360.68,
+        "end": 360.9
+      },
+      {
+        "word": " needs",
+        "start": 360.9,
+        "end": 361.5
+      },
+      {
+        "word": " to",
+        "start": 361.5,
+        "end": 361.72
+      },
+      {
+        "word": " be",
+        "start": 361.72,
+        "end": 361.86
+      },
+      {
+        "word": " perfect.",
+        "start": 361.86,
+        "end": 362.34
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "start": 363.08,
+    "end": 366.0,
+    "text": "And if you appraise someone, you judge them.",
+    "words": [
+      {
+        "word": " And",
+        "start": 363.08,
+        "end": 363.46
+      },
+      {
+        "word": " if",
+        "start": 363.46,
+        "end": 363.78
+      },
+      {
+        "word": " you",
+        "start": 363.78,
+        "end": 363.94
+      },
+      {
+        "word": " appraise",
+        "start": 363.94,
+        "end": 364.44
+      },
+      {
+        "word": " someone,",
+        "start": 364.44,
+        "end": 364.82
+      },
+      {
+        "word": " you",
+        "start": 365.2,
+        "end": 365.32
+      },
+      {
+        "word": " judge",
+        "start": 365.32,
+        "end": 365.7
+      },
+      {
+        "word": " them.",
+        "start": 365.7,
+        "end": 366.0
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "start": 366.44,
+    "end": 369.88,
+    "text": "Once again, our six minutes are up, but you can test what you've learned",
+    "words": [
+      {
+        "word": " Once",
+        "start": 366.44,
+        "end": 366.68
+      },
+      {
+        "word": " again,",
+        "start": 366.68,
+        "end": 366.98
+      },
+      {
+        "word": " our",
+        "start": 367.18,
+        "end": 367.3
+      },
+      {
+        "word": " six",
+        "start": 367.3,
+        "end": 367.6
+      },
+      {
+        "word": " minutes",
+        "start": 367.6,
+        "end": 367.88
+      },
+      {
+        "word": " are",
+        "start": 367.88,
+        "end": 368.1
+      },
+      {
+        "word": " up,",
+        "start": 368.1,
+        "end": 368.38
+      },
+      {
+        "word": " but",
+        "start": 368.56,
+        "end": 368.7
+      },
+      {
+        "word": " you",
+        "start": 368.7,
+        "end": 368.82
+      },
+      {
+        "word": " can",
+        "start": 368.82,
+        "end": 368.98
+      },
+      {
+        "word": " test",
+        "start": 368.98,
+        "end": 369.22
+      },
+      {
+        "word": " what",
+        "start": 369.22,
+        "end": 369.42
+      },
+      {
+        "word": " you've",
+        "start": 369.42,
+        "end": 369.62
+      },
+      {
+        "word": " learned",
+        "start": 369.62,
+        "end": 369.88
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "start": 369.88,
+    "end": 374.28,
+    "text": "with the free worksheet on our website, bbclearningenglish.com.",
+    "words": [
+      {
+        "word": " with",
+        "start": 369.88,
+        "end": 370.16
+      },
+      {
+        "word": " the",
+        "start": 370.16,
+        "end": 370.32
+      },
+      {
+        "word": " free",
+        "start": 370.32,
+        "end": 370.56
+      },
+      {
+        "word": " worksheet",
+        "start": 370.56,
+        "end": 370.98
+      },
+      {
+        "word": " on",
+        "start": 370.98,
+        "end": 371.32
+      },
+      {
+        "word": " our",
+        "start": 371.32,
+        "end": 371.46
+      },
+      {
+        "word": " website,",
+        "start": 371.46,
+        "end": 371.84
+      },
+      {
+        "word": " bbclearningenglish",
+        "start": 372.2,
+        "end": 373.52
+      },
+      {
+        "word": ".com.",
+        "start": 373.52,
+        "end": 374.28
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "start": 374.82,
+    "end": 376.7,
+    "text": "Thank you for joining us, and goodbye.",
+    "words": [
+      {
+        "word": " Thank",
+        "start": 374.82,
+        "end": 375.26
+      },
+      {
+        "word": " you",
+        "start": 375.26,
+        "end": 375.38
+      },
+      {
+        "word": " for",
+        "start": 375.38,
+        "end": 375.52
+      },
+      {
+        "word": " joining",
+        "start": 375.52,
+        "end": 375.78
+      },
+      {
+        "word": " us,",
+        "start": 375.78,
+        "end": 376.14
+      },
+      {
+        "word": " and",
+        "start": 376.36,
+        "end": 376.42
+      },
+      {
+        "word": " goodbye.",
+        "start": 376.42,
+        "end": 376.7
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "start": 377.02,
+    "end": 377.26,
+    "text": "Goodbye.",
+    "words": [
+      {
+        "word": " Goodbye.",
+        "start": 377.02,
+        "end": 377.26
+      }
+    ]
+  }
+]

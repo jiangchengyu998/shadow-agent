@@ -1,6 +1,7 @@
 input/*
-output/*
-*.mp3
+#output/*
+output/*/clips_0.8x/*
+#*.mp3
 *.mp4
 *.wav
 *.m4a

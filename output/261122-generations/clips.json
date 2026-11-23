@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "text": "It was after my wife died last year. It seemed I had a big, big hole to fill and the people down in nursery, they'd phone me up and say, we're doing such and such a thing. Why don't you come and join us? And that's what I've been doing. So, yes, and I've enjoyed it. And I find it very interesting to see how they develop.",
+    "start": 140.44,
+    "end": 165.92,
+    "clip": "/Users/jiangchengyu/Documents/shadow-agent/output/261122-generations/clips/01_it_was_after_my_wife_died.mp3",
+    "slow_clip": "/Users/jiangchengyu/Documents/shadow-agent/output/261122-generations/clips_0.8x/01_it_was_after_my_wife_died_0.8x.mp3"
+  },
+  {
+    "id": 2,
+    "text": "Your first thought would be how lively and energetic young children can be. And what we found is so can older people. And so sometimes, you know, it's the older people that we're saying, can we just calm this down a little bit?",
+    "start": 267.22,
+    "end": 281.46,
+    "clip": "/Users/jiangchengyu/Documents/shadow-agent/output/261122-generations/clips/02_your_first_thought_would_be_how.mp3",
+    "slow_clip": "/Users/jiangchengyu/Documents/shadow-agent/output/261122-generations/clips_0.8x/02_your_first_thought_would_be_how_0.8x.mp3"
+  }
+]

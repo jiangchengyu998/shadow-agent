@@ -1,0 +1,6103 @@
+[
+  {
+    "id": 1,
+    "start": 0.0,
+    "end": 4.3,
+    "text": "Hello and welcome to 6 Minute English from BBC Learning English. I'm Georgie.",
+    "words": [
+      {
+        "word": " Hello",
+        "start": 0.0,
+        "end": 0.26
+      },
+      {
+        "word": " and",
+        "start": 0.26,
+        "end": 0.54
+      },
+      {
+        "word": " welcome",
+        "start": 0.54,
+        "end": 0.82
+      },
+      {
+        "word": " to",
+        "start": 0.82,
+        "end": 1.08
+      },
+      {
+        "word": " 6",
+        "start": 1.08,
+        "end": 1.38
+      },
+      {
+        "word": " Minute",
+        "start": 1.38,
+        "end": 1.62
+      },
+      {
+        "word": " English",
+        "start": 1.62,
+        "end": 1.92
+      },
+      {
+        "word": " from",
+        "start": 1.92,
+        "end": 2.34
+      },
+      {
+        "word": " BBC",
+        "start": 2.34,
+        "end": 2.68
+      },
+      {
+        "word": " Learning",
+        "start": 2.68,
+        "end": 3.06
+      },
+      {
+        "word": " English.",
+        "start": 3.06,
+        "end": 3.38
+      },
+      {
+        "word": " I'm",
+        "start": 3.74,
+        "end": 3.9
+      },
+      {
+        "word": " Georgie.",
+        "start": 3.9,
+        "end": 4.3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "start": 4.48,
+    "end": 8.16,
+    "text": "And I'm Neil. Did you know there is now a video version of this podcast?",
+    "words": [
+      {
+        "word": " And",
+        "start": 4.48,
+        "end": 4.64
+      },
+      {
+        "word": " I'm",
+        "start": 4.64,
+        "end": 4.88
+      },
+      {
+        "word": " Neil.",
+        "start": 4.88,
+        "end": 5.04
+      },
+      {
+        "word": " Did",
+        "start": 5.36,
+        "end": 5.46
+      },
+      {
+        "word": " you",
+        "start": 5.46,
+        "end": 5.6
+      },
+      {
+        "word": " know",
+        "start": 5.6,
+        "end": 5.78
+      },
+      {
+        "word": " there",
+        "start": 5.78,
+        "end": 6.04
+      },
+      {
+        "word": " is",
+        "start": 6.04,
+        "end": 6.28
+      },
+      {
+        "word": " now",
+        "start": 6.28,
+        "end": 6.46
+      },
+      {
+        "word": " a",
+        "start": 6.46,
+        "end": 6.68
+      },
+      {
+        "word": " video",
+        "start": 6.68,
+        "end": 7.08
+      },
+      {
+        "word": " version",
+        "start": 7.08,
+        "end": 7.5
+      },
+      {
+        "word": " of",
+        "start": 7.5,
+        "end": 7.66
+      },
+      {
+        "word": " this",
+        "start": 7.66,
+        "end": 7.78
+      },
+      {
+        "word": " podcast?",
+        "start": 7.78,
+        "end": 8.16
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "start": 8.72,
+    "end": 11.0,
+    "text": "Find it at bbclearningenglish.com.",
+    "words": [
+      {
+        "word": " Find",
+        "start": 8.72,
+        "end": 8.96
+      },
+      {
+        "word": " it",
+        "start": 8.96,
+        "end": 9.12
+      },
+      {
+        "word": " at",
+        "start": 9.12,
+        "end": 9.32
+      },
+      {
+        "word": " bbclearningenglish",
+        "start": 9.32,
+        "end": 10.46
+      },
+      {
+        "word": ".com.",
+        "start": 10.46,
+        "end": 11.0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "start": 12.8,
+    "end": 19.1,
+    "text": "So Neil, we've just had a really hot summer in the UK. Did you have air conditioning in your house?",
+    "words": [
+      {
+        "word": " So",
+        "start": 12.8,
+        "end": 13.32
+      },
+      {
+        "word": " Neil,",
+        "start": 13.32,
+        "end": 13.54
+      },
+      {
+        "word": " we've",
+        "start": 13.8,
+        "end": 14.06
+      },
+      {
+        "word": " just",
+        "start": 14.06,
+        "end": 14.2
+      },
+      {
+        "word": " had",
+        "start": 14.2,
+        "end": 14.44
+      },
+      {
+        "word": " a",
+        "start": 14.44,
+        "end": 14.6
+      },
+      {
+        "word": " really",
+        "start": 14.6,
+        "end": 14.92
+      },
+      {
+        "word": " hot",
+        "start": 14.92,
+        "end": 15.22
+      },
+      {
+        "word": " summer",
+        "start": 15.22,
+        "end": 15.48
+      },
+      {
+        "word": " in",
+        "start": 15.48,
+        "end": 15.7
+      },
+      {
+        "word": " the",
+        "start": 15.7,
+        "end": 15.82
+      },
+      {
+        "word": " UK.",
+        "start": 15.82,
+        "end": 16.1
+      },
+      {
+        "word": " Did",
+        "start": 16.62,
+        "end": 16.74
+      },
+      {
+        "word": " you",
+        "start": 16.74,
+        "end": 17.2
+      },
+      {
+        "word": " have",
+        "start": 17.2,
+        "end": 17.66
+      },
+      {
+        "word": " air",
+        "start": 17.66,
+        "end": 18.0
+      },
+      {
+        "word": " conditioning",
+        "start": 18.0,
+        "end": 18.22
+      },
+      {
+        "word": " in",
+        "start": 18.22,
+        "end": 18.62
+      },
+      {
+        "word": " your",
+        "start": 18.62,
+        "end": 18.78
+      },
+      {
+        "word": " house?",
+        "start": 18.78,
+        "end": 19.1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "start": 19.46,
+    "end": 25.14,
+    "text": "I didn't have air conditioning in my house. I wish I had because it was really hot and I",
+    "words": [
+      {
+        "word": " I",
+        "start": 19.46,
+        "end": 19.6
+      },
+      {
+        "word": " didn't",
+        "start": 19.6,
+        "end": 20.14
+      },
+      {
+        "word": " have",
+        "start": 20.14,
+        "end": 20.38
+      },
+      {
+        "word": " air",
+        "start": 20.38,
+        "end": 20.58
+      },
+      {
+        "word": " conditioning",
+        "start": 20.58,
+        "end": 20.98
+      },
+      {
+        "word": " in",
+        "start": 20.98,
+        "end": 21.22
+      },
+      {
+        "word": " my",
+        "start": 21.22,
+        "end": 21.36
+      },
+      {
+        "word": " house.",
+        "start": 21.36,
+        "end": 21.68
+      },
+      {
+        "word": " I",
+        "start": 21.78,
+        "end": 21.9
+      },
+      {
+        "word": " wish",
+        "start": 21.9,
+        "end": 22.08
+      },
+      {
+        "word": " I",
+        "start": 22.08,
+        "end": 22.28
+      },
+      {
+        "word": " had",
+        "start": 22.28,
+        "end": 22.56
+      },
+      {
+        "word": " because",
+        "start": 22.56,
+        "end": 23.26
+      },
+      {
+        "word": " it",
+        "start": 23.26,
+        "end": 23.46
+      },
+      {
+        "word": " was",
+        "start": 23.46,
+        "end": 23.66
+      },
+      {
+        "word": " really",
+        "start": 23.66,
+        "end": 24.12
+      },
+      {
+        "word": " hot",
+        "start": 24.12,
+        "end": 24.52
+      },
+      {
+        "word": " and",
+        "start": 24.52,
+        "end": 25.02
+      },
+      {
+        "word": " I",
+        "start": 25.02,
+        "end": 25.14
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "start": 25.14,
+    "end": 29.58,
+    "text": "couldn't sleep. No, I had one of those big fans which didn't always do its job.",
+    "words": [
+      {
+        "word": " couldn't",
+        "start": 25.14,
+        "end": 25.36
+      },
+      {
+        "word": " sleep.",
+        "start": 25.36,
+        "end": 25.66
+      },
+      {
+        "word": " No,",
+        "start": 26.1,
+        "end": 26.38
+      },
+      {
+        "word": " I",
+        "start": 26.54,
+        "end": 26.7
+      },
+      {
+        "word": " had",
+        "start": 26.7,
+        "end": 26.9
+      },
+      {
+        "word": " one",
+        "start": 26.9,
+        "end": 27.06
+      },
+      {
+        "word": " of",
+        "start": 27.06,
+        "end": 27.16
+      },
+      {
+        "word": " those",
+        "start": 27.16,
+        "end": 27.32
+      },
+      {
+        "word": " big",
+        "start": 27.32,
+        "end": 27.56
+      },
+      {
+        "word": " fans",
+        "start": 27.56,
+        "end": 27.98
+      },
+      {
+        "word": " which",
+        "start": 27.98,
+        "end": 28.26
+      },
+      {
+        "word": " didn't",
+        "start": 28.26,
+        "end": 28.54
+      },
+      {
+        "word": " always",
+        "start": 28.54,
+        "end": 28.84
+      },
+      {
+        "word": " do",
+        "start": 28.84,
+        "end": 29.16
+      },
+      {
+        "word": " its",
+        "start": 29.16,
+        "end": 29.3
+      },
+      {
+        "word": " job.",
+        "start": 29.3,
+        "end": 29.58
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "start": 30.0,
+    "end": 35.16,
+    "text": "But there is a really serious side to this. Heat records continue to be broken around the world.",
+    "words": [
+      {
+        "word": " But",
+        "start": 30.0,
+        "end": 30.18
+      },
+      {
+        "word": " there",
+        "start": 30.18,
+        "end": 30.26
+      },
+      {
+        "word": " is",
+        "start": 30.26,
+        "end": 30.38
+      },
+      {
+        "word": " a",
+        "start": 30.38,
+        "end": 30.48
+      },
+      {
+        "word": " really",
+        "start": 30.48,
+        "end": 30.68
+      },
+      {
+        "word": " serious",
+        "start": 30.68,
+        "end": 31.0
+      },
+      {
+        "word": " side",
+        "start": 31.0,
+        "end": 31.4
+      },
+      {
+        "word": " to",
+        "start": 31.4,
+        "end": 31.58
+      },
+      {
+        "word": " this.",
+        "start": 31.58,
+        "end": 31.86
+      },
+      {
+        "word": " Heat",
+        "start": 32.4,
+        "end": 32.6
+      },
+      {
+        "word": " records",
+        "start": 32.6,
+        "end": 32.98
+      },
+      {
+        "word": " continue",
+        "start": 32.98,
+        "end": 33.58
+      },
+      {
+        "word": " to",
+        "start": 33.58,
+        "end": 33.78
+      },
+      {
+        "word": " be",
+        "start": 33.78,
+        "end": 33.88
+      },
+      {
+        "word": " broken",
+        "start": 33.88,
+        "end": 34.2
+      },
+      {
+        "word": " around",
+        "start": 34.2,
+        "end": 34.6
+      },
+      {
+        "word": " the",
+        "start": 34.6,
+        "end": 34.86
+      },
+      {
+        "word": " world.",
+        "start": 34.86,
+        "end": 35.16
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "start": 35.66,
+    "end": 40.68,
+    "text": "You may be feeling that summers are getting too hot. Have you been using air conditioning more",
+    "words": [
+      {
+        "word": " You",
+        "start": 35.66,
+        "end": 35.78
+      },
+      {
+        "word": " may",
+        "start": 35.78,
+        "end": 35.94
+      },
+      {
+        "word": " be",
+        "start": 35.94,
+        "end": 36.1
+      },
+      {
+        "word": " feeling",
+        "start": 36.1,
+        "end": 36.36
+      },
+      {
+        "word": " that",
+        "start": 36.36,
+        "end": 36.6
+      },
+      {
+        "word": " summers",
+        "start": 36.6,
+        "end": 36.9
+      },
+      {
+        "word": " are",
+        "start": 36.9,
+        "end": 37.18
+      },
+      {
+        "word": " getting",
+        "start": 37.18,
+        "end": 37.5
+      },
+      {
+        "word": " too",
+        "start": 37.5,
+        "end": 37.88
+      },
+      {
+        "word": " hot.",
+        "start": 37.88,
+        "end": 38.36
+      },
+      {
+        "word": " Have",
+        "start": 38.74,
+        "end": 38.9
+      },
+      {
+        "word": " you",
+        "start": 38.9,
+        "end": 39.1
+      },
+      {
+        "word": " been",
+        "start": 39.1,
+        "end": 39.32
+      },
+      {
+        "word": " using",
+        "start": 39.32,
+        "end": 39.5
+      },
+      {
+        "word": " air",
+        "start": 39.5,
+        "end": 39.86
+      },
+      {
+        "word": " conditioning",
+        "start": 39.86,
+        "end": 40.1
+      },
+      {
+        "word": " more",
+        "start": 40.1,
+        "end": 40.68
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "start": 40.68,
+    "end": 46.82,
+    "text": "to cope? If so, you're not alone. Experts are predicting that 10 new air conditioning units",
+    "words": [
+      {
+        "word": " to",
+        "start": 40.68,
+        "end": 40.98
+      },
+      {
+        "word": " cope?",
+        "start": 40.98,
+        "end": 41.2
+      },
+      {
+        "word": " If",
+        "start": 41.88,
+        "end": 42.02
+      },
+      {
+        "word": " so,",
+        "start": 42.02,
+        "end": 42.32
+      },
+      {
+        "word": " you're",
+        "start": 42.48,
+        "end": 42.68
+      },
+      {
+        "word": " not",
+        "start": 42.68,
+        "end": 42.82
+      },
+      {
+        "word": " alone.",
+        "start": 42.82,
+        "end": 43.14
+      },
+      {
+        "word": " Experts",
+        "start": 43.56,
+        "end": 44.02
+      },
+      {
+        "word": " are",
+        "start": 44.02,
+        "end": 44.12
+      },
+      {
+        "word": " predicting",
+        "start": 44.12,
+        "end": 44.46
+      },
+      {
+        "word": " that",
+        "start": 44.46,
+        "end": 44.82
+      },
+      {
+        "word": " 10",
+        "start": 44.82,
+        "end": 45.26
+      },
+      {
+        "word": " new",
+        "start": 45.26,
+        "end": 45.64
+      },
+      {
+        "word": " air",
+        "start": 45.64,
+        "end": 45.98
+      },
+      {
+        "word": " conditioning",
+        "start": 45.98,
+        "end": 46.28
+      },
+      {
+        "word": " units",
+        "start": 46.28,
+        "end": 46.82
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "start": 46.82,
+    "end": 52.54,
+    "text": "will be installed every second for the next 30 years. Today on 6 Minute English we're talking",
+    "words": [
+      {
+        "word": " will",
+        "start": 46.82,
+        "end": 47.02
+      },
+      {
+        "word": " be",
+        "start": 47.02,
+        "end": 47.18
+      },
+      {
+        "word": " installed",
+        "start": 47.18,
+        "end": 47.6
+      },
+      {
+        "word": " every",
+        "start": 47.6,
+        "end": 48.12
+      },
+      {
+        "word": " second",
+        "start": 48.12,
+        "end": 48.58
+      },
+      {
+        "word": " for",
+        "start": 48.58,
+        "end": 48.92
+      },
+      {
+        "word": " the",
+        "start": 48.92,
+        "end": 49.04
+      },
+      {
+        "word": " next",
+        "start": 49.04,
+        "end": 49.28
+      },
+      {
+        "word": " 30",
+        "start": 49.28,
+        "end": 49.72
+      },
+      {
+        "word": " years.",
+        "start": 49.72,
+        "end": 50.16
+      },
+      {
+        "word": " Today",
+        "start": 50.72,
+        "end": 50.96
+      },
+      {
+        "word": " on",
+        "start": 50.96,
+        "end": 51.18
+      },
+      {
+        "word": " 6",
+        "start": 51.18,
+        "end": 51.38
+      },
+      {
+        "word": " Minute",
+        "start": 51.38,
+        "end": 51.6
+      },
+      {
+        "word": " English",
+        "start": 51.6,
+        "end": 51.86
+      },
+      {
+        "word": " we're",
+        "start": 51.86,
+        "end": 52.28
+      },
+      {
+        "word": " talking",
+        "start": 52.28,
+        "end": 52.54
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "start": 52.54,
+    "end": 57.36,
+    "text": "about this and whether air conditioning really is the best way to cope with a warming world.",
+    "words": [
+      {
+        "word": " about",
+        "start": 52.54,
+        "end": 52.84
+      },
+      {
+        "word": " this",
+        "start": 52.84,
+        "end": 53.14
+      },
+      {
+        "word": " and",
+        "start": 53.14,
+        "end": 53.42
+      },
+      {
+        "word": " whether",
+        "start": 53.42,
+        "end": 53.6
+      },
+      {
+        "word": " air",
+        "start": 53.6,
+        "end": 53.96
+      },
+      {
+        "word": " conditioning",
+        "start": 53.96,
+        "end": 54.36
+      },
+      {
+        "word": " really",
+        "start": 54.36,
+        "end": 54.9
+      },
+      {
+        "word": " is",
+        "start": 54.9,
+        "end": 55.22
+      },
+      {
+        "word": " the",
+        "start": 55.22,
+        "end": 55.38
+      },
+      {
+        "word": " best",
+        "start": 55.38,
+        "end": 55.62
+      },
+      {
+        "word": " way",
+        "start": 55.62,
+        "end": 55.84
+      },
+      {
+        "word": " to",
+        "start": 55.84,
+        "end": 56.0
+      },
+      {
+        "word": " cope",
+        "start": 56.0,
+        "end": 56.32
+      },
+      {
+        "word": " with",
+        "start": 56.32,
+        "end": 56.58
+      },
+      {
+        "word": " a",
+        "start": 56.58,
+        "end": 56.68
+      },
+      {
+        "word": " warming",
+        "start": 56.68,
+        "end": 56.94
+      },
+      {
+        "word": " world.",
+        "start": 56.94,
+        "end": 57.36
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "start": 58.16,
+    "end": 61.4,
+    "text": "OK, as always, Neil, we'll start with a quiz question.",
+    "words": [
+      {
+        "word": " OK,",
+        "start": 58.16,
+        "end": 58.52
+      },
+      {
+        "word": " as",
+        "start": 58.66,
+        "end": 58.76
+      },
+      {
+        "word": " always,",
+        "start": 58.76,
+        "end": 59.14
+      },
+      {
+        "word": " Neil,",
+        "start": 59.28,
+        "end": 59.48
+      },
+      {
+        "word": " we'll",
+        "start": 59.66,
+        "end": 59.8
+      },
+      {
+        "word": " start",
+        "start": 59.8,
+        "end": 60.04
+      },
+      {
+        "word": " with",
+        "start": 60.04,
+        "end": 60.32
+      },
+      {
+        "word": " a",
+        "start": 60.32,
+        "end": 60.6
+      },
+      {
+        "word": " quiz",
+        "start": 60.6,
+        "end": 60.84
+      },
+      {
+        "word": " question.",
+        "start": 60.84,
+        "end": 61.4
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "start": 62.1,
+    "end": 68.3,
+    "text": "So, modern air conditioning was invented in 1902, but what was it originally used for?",
+    "words": [
+      {
+        "word": " So,",
+        "start": 62.1,
+        "end": 62.1
+      },
+      {
+        "word": " modern",
+        "start": 62.76,
+        "end": 62.76
+      },
+      {
+        "word": " air",
+        "start": 62.76,
+        "end": 63.1
+      },
+      {
+        "word": " conditioning",
+        "start": 63.1,
+        "end": 63.46
+      },
+      {
+        "word": " was",
+        "start": 63.46,
+        "end": 63.74
+      },
+      {
+        "word": " invented",
+        "start": 63.74,
+        "end": 64.22
+      },
+      {
+        "word": " in",
+        "start": 64.22,
+        "end": 64.6
+      },
+      {
+        "word": " 1902,",
+        "start": 64.6,
+        "end": 65.54
+      },
+      {
+        "word": " but",
+        "start": 66.12,
+        "end": 66.3
+      },
+      {
+        "word": " what",
+        "start": 66.3,
+        "end": 66.66
+      },
+      {
+        "word": " was",
+        "start": 66.66,
+        "end": 66.86
+      },
+      {
+        "word": " it",
+        "start": 66.86,
+        "end": 67.0
+      },
+      {
+        "word": " originally",
+        "start": 67.0,
+        "end": 67.44
+      },
+      {
+        "word": " used",
+        "start": 67.44,
+        "end": 68.0
+      },
+      {
+        "word": " for?",
+        "start": 68.0,
+        "end": 68.3
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "start": 68.68,
+    "end": 74.8,
+    "text": "Is it A, to protect people in hospitals, B, to dry ink, or C, to clean air?",
+    "words": [
+      {
+        "word": " Is",
+        "start": 68.68,
+        "end": 68.76
+      },
+      {
+        "word": " it",
+        "start": 68.76,
+        "end": 68.92
+      },
+      {
+        "word": " A,",
+        "start": 68.92,
+        "end": 69.22
+      },
+      {
+        "word": " to",
+        "start": 69.56,
+        "end": 69.62
+      },
+      {
+        "word": " protect",
+        "start": 69.62,
+        "end": 69.88
+      },
+      {
+        "word": " people",
+        "start": 69.88,
+        "end": 70.24
+      },
+      {
+        "word": " in",
+        "start": 70.24,
+        "end": 70.46
+      },
+      {
+        "word": " hospitals,",
+        "start": 70.46,
+        "end": 70.84
+      },
+      {
+        "word": " B,",
+        "start": 71.34,
+        "end": 71.74
+      },
+      {
+        "word": " to",
+        "start": 72.06,
+        "end": 72.1
+      },
+      {
+        "word": " dry",
+        "start": 72.1,
+        "end": 72.3
+      },
+      {
+        "word": " ink,",
+        "start": 72.3,
+        "end": 72.64
+      },
+      {
+        "word": " or",
+        "start": 72.98,
+        "end": 73.24
+      },
+      {
+        "word": " C,",
+        "start": 73.24,
+        "end": 73.62
+      },
+      {
+        "word": " to",
+        "start": 73.92,
+        "end": 73.98
+      },
+      {
+        "word": " clean",
+        "start": 73.98,
+        "end": 74.32
+      },
+      {
+        "word": " air?",
+        "start": 74.32,
+        "end": 74.8
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "start": 75.38,
+    "end": 81.36,
+    "text": "Well, I have absolutely no idea, Georgie. I'm going to guess and say C, clean air.",
+    "words": [
+      {
+        "word": " Well,",
+        "start": 75.38,
+        "end": 75.72
+      },
+      {
+        "word": " I",
+        "start": 76.12,
+        "end": 76.42
+      },
+      {
+        "word": " have",
+        "start": 76.42,
+        "end": 76.7
+      },
+      {
+        "word": " absolutely",
+        "start": 76.7,
+        "end": 77.16
+      },
+      {
+        "word": " no",
+        "start": 77.16,
+        "end": 77.46
+      },
+      {
+        "word": " idea,",
+        "start": 77.46,
+        "end": 77.84
+      },
+      {
+        "word": " Georgie.",
+        "start": 78.04,
+        "end": 78.42
+      },
+      {
+        "word": " I'm",
+        "start": 78.6,
+        "end": 78.8
+      },
+      {
+        "word": " going",
+        "start": 78.8,
+        "end": 78.86
+      },
+      {
+        "word": " to",
+        "start": 78.86,
+        "end": 78.94
+      },
+      {
+        "word": " guess",
+        "start": 78.94,
+        "end": 79.22
+      },
+      {
+        "word": " and",
+        "start": 79.22,
+        "end": 79.52
+      },
+      {
+        "word": " say",
+        "start": 79.52,
+        "end": 79.78
+      },
+      {
+        "word": " C,",
+        "start": 79.78,
+        "end": 80.24
+      },
+      {
+        "word": " clean",
+        "start": 80.62,
+        "end": 80.94
+      },
+      {
+        "word": " air.",
+        "start": 80.94,
+        "end": 81.36
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "start": 81.76,
+    "end": 84.74,
+    "text": "OK, Neil, we'll find out the answer at the end of the program.",
+    "words": [
+      {
+        "word": " OK,",
+        "start": 81.76,
+        "end": 82.02
+      },
+      {
+        "word": " Neil,",
+        "start": 82.1,
+        "end": 82.24
+      },
+      {
+        "word": " we'll",
+        "start": 82.4,
+        "end": 82.54
+      },
+      {
+        "word": " find",
+        "start": 82.54,
+        "end": 82.78
+      },
+      {
+        "word": " out",
+        "start": 82.78,
+        "end": 83.0
+      },
+      {
+        "word": " the",
+        "start": 83.0,
+        "end": 83.14
+      },
+      {
+        "word": " answer",
+        "start": 83.14,
+        "end": 83.4
+      },
+      {
+        "word": " at",
+        "start": 83.4,
+        "end": 83.66
+      },
+      {
+        "word": " the",
+        "start": 83.66,
+        "end": 83.78
+      },
+      {
+        "word": " end",
+        "start": 83.78,
+        "end": 84.08
+      },
+      {
+        "word": " of",
+        "start": 84.08,
+        "end": 84.28
+      },
+      {
+        "word": " the",
+        "start": 84.28,
+        "end": 84.4
+      },
+      {
+        "word": " program.",
+        "start": 84.4,
+        "end": 84.74
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "start": 84.74,
+    "end": 89.88,
+    "text": "OK, Georgie, we've been talking about how uncomfortable the hot weather can make you",
+    "words": [
+      {
+        "word": " OK,",
+        "start": 84.74,
+        "end": 85.48
+      },
+      {
+        "word": " Georgie,",
+        "start": 85.6,
+        "end": 85.92
+      },
+      {
+        "word": " we've",
+        "start": 86.0,
+        "end": 86.14
+      },
+      {
+        "word": " been",
+        "start": 86.14,
+        "end": 86.24
+      },
+      {
+        "word": " talking",
+        "start": 86.24,
+        "end": 86.5
+      },
+      {
+        "word": " about",
+        "start": 86.5,
+        "end": 86.92
+      },
+      {
+        "word": " how",
+        "start": 86.92,
+        "end": 87.24
+      },
+      {
+        "word": " uncomfortable",
+        "start": 87.24,
+        "end": 88.04
+      },
+      {
+        "word": " the",
+        "start": 88.04,
+        "end": 88.78
+      },
+      {
+        "word": " hot",
+        "start": 88.78,
+        "end": 89.0
+      },
+      {
+        "word": " weather",
+        "start": 89.0,
+        "end": 89.26
+      },
+      {
+        "word": " can",
+        "start": 89.26,
+        "end": 89.48
+      },
+      {
+        "word": " make",
+        "start": 89.48,
+        "end": 89.72
+      },
+      {
+        "word": " you",
+        "start": 89.72,
+        "end": 89.88
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "start": 89.88,
+    "end": 93.7,
+    "text": "feel in the summer. Is air conditioning all about comfort, though?",
+    "words": [
+      {
+        "word": " feel",
+        "start": 89.88,
+        "end": 90.18
+      },
+      {
+        "word": " in",
+        "start": 90.18,
+        "end": 90.4
+      },
+      {
+        "word": " the",
+        "start": 90.4,
+        "end": 90.5
+      },
+      {
+        "word": " summer.",
+        "start": 90.5,
+        "end": 90.78
+      },
+      {
+        "word": " Is",
+        "start": 91.46,
+        "end": 91.7
+      },
+      {
+        "word": " air",
+        "start": 91.7,
+        "end": 91.9
+      },
+      {
+        "word": " conditioning",
+        "start": 91.9,
+        "end": 92.2
+      },
+      {
+        "word": " all",
+        "start": 92.2,
+        "end": 92.62
+      },
+      {
+        "word": " about",
+        "start": 92.62,
+        "end": 92.9
+      },
+      {
+        "word": " comfort,",
+        "start": 92.9,
+        "end": 93.38
+      },
+      {
+        "word": " though?",
+        "start": 93.58,
+        "end": 93.7
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "start": 94.32,
+    "end": 99.08,
+    "text": "No, it's not just about comfort. Summer heat can be a real health issue as well.",
+    "words": [
+      {
+        "word": " No,",
+        "start": 94.32,
+        "end": 94.64
+      },
+      {
+        "word": " it's",
+        "start": 94.78,
+        "end": 94.9
+      },
+      {
+        "word": " not",
+        "start": 94.9,
+        "end": 95.08
+      },
+      {
+        "word": " just",
+        "start": 95.08,
+        "end": 95.26
+      },
+      {
+        "word": " about",
+        "start": 95.26,
+        "end": 95.48
+      },
+      {
+        "word": " comfort.",
+        "start": 95.48,
+        "end": 95.88
+      },
+      {
+        "word": " Summer",
+        "start": 96.3,
+        "end": 96.46
+      },
+      {
+        "word": " heat",
+        "start": 96.46,
+        "end": 96.78
+      },
+      {
+        "word": " can",
+        "start": 96.78,
+        "end": 97.16
+      },
+      {
+        "word": " be",
+        "start": 97.16,
+        "end": 97.36
+      },
+      {
+        "word": " a",
+        "start": 97.36,
+        "end": 97.56
+      },
+      {
+        "word": " real",
+        "start": 97.56,
+        "end": 97.72
+      },
+      {
+        "word": " health",
+        "start": 97.72,
+        "end": 98.2
+      },
+      {
+        "word": " issue",
+        "start": 98.2,
+        "end": 98.62
+      },
+      {
+        "word": " as",
+        "start": 98.62,
+        "end": 98.82
+      },
+      {
+        "word": " well.",
+        "start": 98.82,
+        "end": 99.08
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "start": 99.6,
+    "end": 104.8,
+    "text": "It's thought that across Europe over 30,000 people died as a result of this summer's heat.",
+    "words": [
+      {
+        "word": " It's",
+        "start": 99.6,
+        "end": 99.86
+      },
+      {
+        "word": " thought",
+        "start": 99.86,
+        "end": 100.1
+      },
+      {
+        "word": " that",
+        "start": 100.1,
+        "end": 100.32
+      },
+      {
+        "word": " across",
+        "start": 100.32,
+        "end": 100.7
+      },
+      {
+        "word": " Europe",
+        "start": 100.7,
+        "end": 101.02
+      },
+      {
+        "word": " over",
+        "start": 101.02,
+        "end": 101.38
+      },
+      {
+        "word": " 30",
+        "start": 101.38,
+        "end": 101.9
+      },
+      {
+        "word": ",000",
+        "start": 101.9,
+        "end": 102.3
+      },
+      {
+        "word": " people",
+        "start": 102.3,
+        "end": 102.56
+      },
+      {
+        "word": " died",
+        "start": 102.56,
+        "end": 102.94
+      },
+      {
+        "word": " as",
+        "start": 102.94,
+        "end": 103.22
+      },
+      {
+        "word": " a",
+        "start": 103.22,
+        "end": 103.3
+      },
+      {
+        "word": " result",
+        "start": 103.3,
+        "end": 103.6
+      },
+      {
+        "word": " of",
+        "start": 103.6,
+        "end": 103.86
+      },
+      {
+        "word": " this",
+        "start": 103.86,
+        "end": 104.1
+      },
+      {
+        "word": " summer's",
+        "start": 104.1,
+        "end": 104.52
+      },
+      {
+        "word": " heat.",
+        "start": 104.52,
+        "end": 104.8
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "start": 105.48,
+    "end": 110.9,
+    "text": "Dr Radhika Kozler, an expert in climatology, told BBC World Services the climate question",
+    "words": [
+      {
+        "word": " Dr",
+        "start": 105.48,
+        "end": 105.62
+      },
+      {
+        "word": " Radhika",
+        "start": 105.62,
+        "end": 106.04
+      },
+      {
+        "word": " Kozler,",
+        "start": 106.04,
+        "end": 106.52
+      },
+      {
+        "word": " an",
+        "start": 106.74,
+        "end": 106.82
+      },
+      {
+        "word": " expert",
+        "start": 106.82,
+        "end": 107.12
+      },
+      {
+        "word": " in",
+        "start": 107.12,
+        "end": 107.42
+      },
+      {
+        "word": " climatology,",
+        "start": 107.42,
+        "end": 108.14
+      },
+      {
+        "word": " told",
+        "start": 108.46,
+        "end": 108.66
+      },
+      {
+        "word": " BBC",
+        "start": 108.66,
+        "end": 108.98
+      },
+      {
+        "word": " World",
+        "start": 108.98,
+        "end": 109.32
+      },
+      {
+        "word": " Services",
+        "start": 109.32,
+        "end": 109.86
+      },
+      {
+        "word": " the",
+        "start": 109.86,
+        "end": 110.16
+      },
+      {
+        "word": " climate",
+        "start": 110.16,
+        "end": 110.48
+      },
+      {
+        "word": " question",
+        "start": 110.48,
+        "end": 110.9
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "start": 110.9,
+    "end": 113.52,
+    "text": "how important air conditioning can be.",
+    "words": [
+      {
+        "word": " how",
+        "start": 110.9,
+        "end": 111.54
+      },
+      {
+        "word": " important",
+        "start": 111.54,
+        "end": 112.08
+      },
+      {
+        "word": " air",
+        "start": 112.08,
+        "end": 112.4
+      },
+      {
+        "word": " conditioning",
+        "start": 112.4,
+        "end": 112.66
+      },
+      {
+        "word": " can",
+        "start": 112.66,
+        "end": 113.22
+      },
+      {
+        "word": " be.",
+        "start": 113.22,
+        "end": 113.52
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "start": 114.22,
+    "end": 121.06,
+    "text": "Actually, air conditioning is life-saving. In Singapore, when Lee Kuan Yew was asked what made",
+    "words": [
+      {
+        "word": " Actually,",
+        "start": 114.22,
+        "end": 114.56
+      },
+      {
+        "word": " air",
+        "start": 114.82,
+        "end": 115.08
+      },
+      {
+        "word": " conditioning",
+        "start": 115.08,
+        "end": 115.32
+      },
+      {
+        "word": " is",
+        "start": 115.32,
+        "end": 115.74
+      },
+      {
+        "word": " life",
+        "start": 115.74,
+        "end": 115.96
+      },
+      {
+        "word": "-saving.",
+        "start": 115.96,
+        "end": 116.3
+      },
+      {
+        "word": " In",
+        "start": 117.2,
+        "end": 117.72
+      },
+      {
+        "word": " Singapore,",
+        "start": 117.72,
+        "end": 118.5
+      },
+      {
+        "word": " when",
+        "start": 119.28,
+        "end": 119.32
+      },
+      {
+        "word": " Lee",
+        "start": 119.32,
+        "end": 119.56
+      },
+      {
+        "word": " Kuan",
+        "start": 119.56,
+        "end": 119.74
+      },
+      {
+        "word": " Yew",
+        "start": 119.74,
+        "end": 119.94
+      },
+      {
+        "word": " was",
+        "start": 119.94,
+        "end": 120.14
+      },
+      {
+        "word": " asked",
+        "start": 120.14,
+        "end": 120.4
+      },
+      {
+        "word": " what",
+        "start": 120.4,
+        "end": 120.68
+      },
+      {
+        "word": " made",
+        "start": 120.68,
+        "end": 121.06
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "start": 121.06,
+    "end": 125.74,
+    "text": "civilization possible in the tropics, he said it was air conditioning.",
+    "words": [
+      {
+        "word": " civilization",
+        "start": 121.06,
+        "end": 122.08
+      },
+      {
+        "word": " possible",
+        "start": 122.08,
+        "end": 123.24
+      },
+      {
+        "word": " in",
+        "start": 123.24,
+        "end": 123.64
+      },
+      {
+        "word": " the",
+        "start": 123.64,
+        "end": 123.76
+      },
+      {
+        "word": " tropics,",
+        "start": 123.76,
+        "end": 124.38
+      },
+      {
+        "word": " he",
+        "start": 124.5,
+        "end": 124.66
+      },
+      {
+        "word": " said",
+        "start": 124.66,
+        "end": 124.86
+      },
+      {
+        "word": " it",
+        "start": 124.86,
+        "end": 124.98
+      },
+      {
+        "word": " was",
+        "start": 124.98,
+        "end": 125.12
+      },
+      {
+        "word": " air",
+        "start": 125.12,
+        "end": 125.34
+      },
+      {
+        "word": " conditioning.",
+        "start": 125.34,
+        "end": 125.74
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "start": 126.34,
+    "end": 130.0,
+    "text": "And there are so many large parts of the world where we would not be able to inhabit",
+    "words": [
+      {
+        "word": " And",
+        "start": 126.34,
+        "end": 126.52
+      },
+      {
+        "word": " there",
+        "start": 126.52,
+        "end": 126.64
+      },
+      {
+        "word": " are",
+        "start": 126.64,
+        "end": 126.74
+      },
+      {
+        "word": " so",
+        "start": 126.74,
+        "end": 127.0
+      },
+      {
+        "word": " many",
+        "start": 127.0,
+        "end": 127.22
+      },
+      {
+        "word": " large",
+        "start": 127.22,
+        "end": 127.46
+      },
+      {
+        "word": " parts",
+        "start": 127.46,
+        "end": 127.74
+      },
+      {
+        "word": " of",
+        "start": 127.74,
+        "end": 127.92
+      },
+      {
+        "word": " the",
+        "start": 127.92,
+        "end": 128.02
+      },
+      {
+        "word": " world",
+        "start": 128.02,
+        "end": 128.26
+      },
+      {
+        "word": " where",
+        "start": 128.26,
+        "end": 128.42
+      },
+      {
+        "word": " we",
+        "start": 128.42,
+        "end": 128.58
+      },
+      {
+        "word": " would",
+        "start": 128.58,
+        "end": 128.78
+      },
+      {
+        "word": " not",
+        "start": 128.78,
+        "end": 129.06
+      },
+      {
+        "word": " be",
+        "start": 129.06,
+        "end": 129.32
+      },
+      {
+        "word": " able",
+        "start": 129.32,
+        "end": 129.5
+      },
+      {
+        "word": " to",
+        "start": 129.5,
+        "end": 129.62
+      },
+      {
+        "word": " inhabit",
+        "start": 129.62,
+        "end": 130.0
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "start": 130.0,
+    "end": 131.82,
+    "text": "if we did not have air conditioning.",
+    "words": [
+      {
+        "word": " if",
+        "start": 130.0,
+        "end": 130.44
+      },
+      {
+        "word": " we",
+        "start": 130.44,
+        "end": 130.58
+      },
+      {
+        "word": " did",
+        "start": 130.58,
+        "end": 130.7
+      },
+      {
+        "word": " not",
+        "start": 130.7,
+        "end": 130.9
+      },
+      {
+        "word": " have",
+        "start": 130.9,
+        "end": 131.22
+      },
+      {
+        "word": " air",
+        "start": 131.22,
+        "end": 131.4
+      },
+      {
+        "word": " conditioning.",
+        "start": 131.4,
+        "end": 131.82
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "start": 132.12,
+    "end": 138.38,
+    "text": "So, Radhika is saying that air conditioning is life-saving. It literally stops people from dying.",
+    "words": [
+      {
+        "word": " So,",
+        "start": 132.12,
+        "end": 132.5
+      },
+      {
+        "word": " Radhika",
+        "start": 132.72,
+        "end": 133.08
+      },
+      {
+        "word": " is",
+        "start": 133.08,
+        "end": 133.34
+      },
+      {
+        "word": " saying",
+        "start": 133.34,
+        "end": 133.66
+      },
+      {
+        "word": " that",
+        "start": 133.66,
+        "end": 133.9
+      },
+      {
+        "word": " air",
+        "start": 133.9,
+        "end": 134.16
+      },
+      {
+        "word": " conditioning",
+        "start": 134.16,
+        "end": 134.64
+      },
+      {
+        "word": " is",
+        "start": 134.64,
+        "end": 135.02
+      },
+      {
+        "word": " life",
+        "start": 135.02,
+        "end": 135.4
+      },
+      {
+        "word": "-saving.",
+        "start": 135.4,
+        "end": 135.84
+      },
+      {
+        "word": " It",
+        "start": 136.16,
+        "end": 136.3
+      },
+      {
+        "word": " literally",
+        "start": 136.3,
+        "end": 136.82
+      },
+      {
+        "word": " stops",
+        "start": 136.82,
+        "end": 137.36
+      },
+      {
+        "word": " people",
+        "start": 137.36,
+        "end": 137.78
+      },
+      {
+        "word": " from",
+        "start": 137.78,
+        "end": 138.04
+      },
+      {
+        "word": " dying.",
+        "start": 138.04,
+        "end": 138.38
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "start": 139.02,
+    "end": 142.24,
+    "text": "Yes, and she makes the point that there are many parts of the world",
+    "words": [
+      {
+        "word": " Yes,",
+        "start": 139.01999999999998,
+        "end": 139.34
+      },
+      {
+        "word": " and",
+        "start": 139.64,
+        "end": 139.76
+      },
+      {
+        "word": " she",
+        "start": 139.76,
+        "end": 139.92
+      },
+      {
+        "word": " makes",
+        "start": 139.92,
+        "end": 140.18
+      },
+      {
+        "word": " the",
+        "start": 140.18,
+        "end": 140.36
+      },
+      {
+        "word": " point",
+        "start": 140.36,
+        "end": 140.58
+      },
+      {
+        "word": " that",
+        "start": 140.58,
+        "end": 140.78
+      },
+      {
+        "word": " there",
+        "start": 140.78,
+        "end": 140.96
+      },
+      {
+        "word": " are",
+        "start": 140.96,
+        "end": 141.12
+      },
+      {
+        "word": " many",
+        "start": 141.12,
+        "end": 141.42
+      },
+      {
+        "word": " parts",
+        "start": 141.42,
+        "end": 141.74
+      },
+      {
+        "word": " of",
+        "start": 141.74,
+        "end": 141.86
+      },
+      {
+        "word": " the",
+        "start": 141.86,
+        "end": 141.96
+      },
+      {
+        "word": " world",
+        "start": 141.96,
+        "end": 142.24
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "start": 142.24,
+    "end": 146.82,
+    "text": "that we would not be able to inhabit, that means live in, without this technology.",
+    "words": [
+      {
+        "word": " that",
+        "start": 142.24,
+        "end": 142.46
+      },
+      {
+        "word": " we",
+        "start": 142.46,
+        "end": 142.6
+      },
+      {
+        "word": " would",
+        "start": 142.6,
+        "end": 142.76
+      },
+      {
+        "word": " not",
+        "start": 142.76,
+        "end": 143.0
+      },
+      {
+        "word": " be",
+        "start": 143.0,
+        "end": 143.18
+      },
+      {
+        "word": " able",
+        "start": 143.18,
+        "end": 143.42
+      },
+      {
+        "word": " to",
+        "start": 143.42,
+        "end": 143.6
+      },
+      {
+        "word": " inhabit,",
+        "start": 143.6,
+        "end": 143.94
+      },
+      {
+        "word": " that",
+        "start": 144.42,
+        "end": 144.5
+      },
+      {
+        "word": " means",
+        "start": 144.5,
+        "end": 144.78
+      },
+      {
+        "word": " live",
+        "start": 144.78,
+        "end": 145.14
+      },
+      {
+        "word": " in,",
+        "start": 145.14,
+        "end": 145.34
+      },
+      {
+        "word": " without",
+        "start": 145.68,
+        "end": 145.98
+      },
+      {
+        "word": " this",
+        "start": 145.98,
+        "end": 146.28
+      },
+      {
+        "word": " technology.",
+        "start": 146.28,
+        "end": 146.82
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "start": 147.44,
+    "end": 152.26,
+    "text": "OK, Georgie, so it sounds like air conditioning has a lot of good things about it.",
+    "words": [
+      {
+        "word": " OK,",
+        "start": 147.44,
+        "end": 147.68
+      },
+      {
+        "word": " Georgie,",
+        "start": 147.8,
+        "end": 148.14
+      },
+      {
+        "word": " so",
+        "start": 148.22,
+        "end": 148.36
+      },
+      {
+        "word": " it",
+        "start": 148.36,
+        "end": 148.62
+      },
+      {
+        "word": " sounds",
+        "start": 148.62,
+        "end": 148.86
+      },
+      {
+        "word": " like",
+        "start": 148.86,
+        "end": 149.12
+      },
+      {
+        "word": " air",
+        "start": 149.12,
+        "end": 149.36
+      },
+      {
+        "word": " conditioning",
+        "start": 149.36,
+        "end": 149.82
+      },
+      {
+        "word": " has",
+        "start": 149.82,
+        "end": 150.26
+      },
+      {
+        "word": " a",
+        "start": 150.26,
+        "end": 150.42
+      },
+      {
+        "word": " lot",
+        "start": 150.42,
+        "end": 150.66
+      },
+      {
+        "word": " of",
+        "start": 150.66,
+        "end": 151.0
+      },
+      {
+        "word": " good",
+        "start": 151.0,
+        "end": 151.2
+      },
+      {
+        "word": " things",
+        "start": 151.2,
+        "end": 151.6
+      },
+      {
+        "word": " about",
+        "start": 151.6,
+        "end": 151.92
+      },
+      {
+        "word": " it.",
+        "start": 151.92,
+        "end": 152.26
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "start": 152.72,
+    "end": 153.88,
+    "text": "Is it all positive, though?",
+    "words": [
+      {
+        "word": " Is",
+        "start": 152.72,
+        "end": 152.9
+      },
+      {
+        "word": " it",
+        "start": 152.9,
+        "end": 153.0
+      },
+      {
+        "word": " all",
+        "start": 153.0,
+        "end": 153.14
+      },
+      {
+        "word": " positive,",
+        "start": 153.14,
+        "end": 153.54
+      },
+      {
+        "word": " though?",
+        "start": 153.74,
+        "end": 153.88
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "start": 154.38,
+    "end": 159.02,
+    "text": "No, there are some serious downsides. So one big problem with air conditioning is",
+    "words": [
+      {
+        "word": " No,",
+        "start": 154.38,
+        "end": 154.64
+      },
+      {
+        "word": " there",
+        "start": 154.78,
+        "end": 154.9
+      },
+      {
+        "word": " are",
+        "start": 154.9,
+        "end": 155.06
+      },
+      {
+        "word": " some",
+        "start": 155.06,
+        "end": 155.26
+      },
+      {
+        "word": " serious",
+        "start": 155.26,
+        "end": 155.68
+      },
+      {
+        "word": " downsides.",
+        "start": 155.68,
+        "end": 156.44
+      },
+      {
+        "word": " So",
+        "start": 156.72,
+        "end": 156.78
+      },
+      {
+        "word": " one",
+        "start": 156.78,
+        "end": 157.04
+      },
+      {
+        "word": " big",
+        "start": 157.04,
+        "end": 157.42
+      },
+      {
+        "word": " problem",
+        "start": 157.42,
+        "end": 157.84
+      },
+      {
+        "word": " with",
+        "start": 157.84,
+        "end": 158.12
+      },
+      {
+        "word": " air",
+        "start": 158.12,
+        "end": 158.36
+      },
+      {
+        "word": " conditioning",
+        "start": 158.36,
+        "end": 158.7
+      },
+      {
+        "word": " is",
+        "start": 158.7,
+        "end": 159.02
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "start": 159.02,
+    "end": 163.66,
+    "text": "the amount of energy it uses. Let's hear more from Radhika talking to the climate question.",
+    "words": [
+      {
+        "word": " the",
+        "start": 159.02,
+        "end": 159.14
+      },
+      {
+        "word": " amount",
+        "start": 159.14,
+        "end": 159.34
+      },
+      {
+        "word": " of",
+        "start": 159.34,
+        "end": 159.52
+      },
+      {
+        "word": " energy",
+        "start": 159.52,
+        "end": 159.92
+      },
+      {
+        "word": " it",
+        "start": 159.92,
+        "end": 160.12
+      },
+      {
+        "word": " uses.",
+        "start": 160.12,
+        "end": 160.42
+      },
+      {
+        "word": " Let's",
+        "start": 160.86,
+        "end": 161.18
+      },
+      {
+        "word": " hear",
+        "start": 161.18,
+        "end": 161.28
+      },
+      {
+        "word": " more",
+        "start": 161.28,
+        "end": 161.44
+      },
+      {
+        "word": " from",
+        "start": 161.44,
+        "end": 161.6
+      },
+      {
+        "word": " Radhika",
+        "start": 161.6,
+        "end": 162.0
+      },
+      {
+        "word": " talking",
+        "start": 162.0,
+        "end": 162.44
+      },
+      {
+        "word": " to",
+        "start": 162.44,
+        "end": 162.76
+      },
+      {
+        "word": " the",
+        "start": 162.76,
+        "end": 163.02
+      },
+      {
+        "word": " climate",
+        "start": 163.02,
+        "end": 163.28
+      },
+      {
+        "word": " question.",
+        "start": 163.28,
+        "end": 163.66
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "start": 164.3,
+    "end": 170.72,
+    "text": "When air conditioning becomes the first go-to solution for how we deal with the increased",
+    "words": [
+      {
+        "word": " When",
+        "start": 164.3,
+        "end": 164.86
+      },
+      {
+        "word": " air",
+        "start": 164.86,
+        "end": 165.04
+      },
+      {
+        "word": " conditioning",
+        "start": 165.04,
+        "end": 165.28
+      },
+      {
+        "word": " becomes",
+        "start": 165.28,
+        "end": 165.92
+      },
+      {
+        "word": " the",
+        "start": 165.92,
+        "end": 166.42
+      },
+      {
+        "word": " first",
+        "start": 166.42,
+        "end": 166.92
+      },
+      {
+        "word": " go",
+        "start": 166.92,
+        "end": 167.26
+      },
+      {
+        "word": "-to",
+        "start": 167.26,
+        "end": 167.44
+      },
+      {
+        "word": " solution",
+        "start": 167.44,
+        "end": 168.04
+      },
+      {
+        "word": " for",
+        "start": 168.04,
+        "end": 168.44
+      },
+      {
+        "word": " how",
+        "start": 168.44,
+        "end": 168.7
+      },
+      {
+        "word": " we",
+        "start": 168.7,
+        "end": 168.88
+      },
+      {
+        "word": " deal",
+        "start": 168.88,
+        "end": 169.2
+      },
+      {
+        "word": " with",
+        "start": 169.2,
+        "end": 169.54
+      },
+      {
+        "word": " the",
+        "start": 169.54,
+        "end": 169.82
+      },
+      {
+        "word": " increased",
+        "start": 169.82,
+        "end": 170.72
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "start": 170.72,
+    "end": 174.92,
+    "text": "prolonged and extreme heat that we're going to face and are facing,",
+    "words": [
+      {
+        "word": " prolonged",
+        "start": 170.72,
+        "end": 171.62
+      },
+      {
+        "word": " and",
+        "start": 171.62,
+        "end": 172.08
+      },
+      {
+        "word": " extreme",
+        "start": 172.08,
+        "end": 172.42
+      },
+      {
+        "word": " heat",
+        "start": 172.42,
+        "end": 172.84
+      },
+      {
+        "word": " that",
+        "start": 172.84,
+        "end": 173.08
+      },
+      {
+        "word": " we're",
+        "start": 173.08,
+        "end": 173.28
+      },
+      {
+        "word": " going",
+        "start": 173.28,
+        "end": 173.46
+      },
+      {
+        "word": " to",
+        "start": 173.46,
+        "end": 173.64
+      },
+      {
+        "word": " face",
+        "start": 173.64,
+        "end": 173.94
+      },
+      {
+        "word": " and",
+        "start": 173.94,
+        "end": 174.22
+      },
+      {
+        "word": " are",
+        "start": 174.22,
+        "end": 174.5
+      },
+      {
+        "word": " facing,",
+        "start": 174.5,
+        "end": 174.92
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "start": 175.42,
+    "end": 179.94,
+    "text": "it places stresses across the system that is not able to be met.",
+    "words": [
+      {
+        "word": " it",
+        "start": 175.42,
+        "end": 175.62
+      },
+      {
+        "word": " places",
+        "start": 175.62,
+        "end": 175.98
+      },
+      {
+        "word": " stresses",
+        "start": 175.98,
+        "end": 176.5
+      },
+      {
+        "word": " across",
+        "start": 176.5,
+        "end": 176.9
+      },
+      {
+        "word": " the",
+        "start": 176.9,
+        "end": 177.22
+      },
+      {
+        "word": " system",
+        "start": 177.22,
+        "end": 177.78
+      },
+      {
+        "word": " that",
+        "start": 177.78,
+        "end": 178.36
+      },
+      {
+        "word": " is",
+        "start": 178.36,
+        "end": 178.54
+      },
+      {
+        "word": " not",
+        "start": 178.54,
+        "end": 178.74
+      },
+      {
+        "word": " able",
+        "start": 178.74,
+        "end": 179.12
+      },
+      {
+        "word": " to",
+        "start": 179.12,
+        "end": 179.32
+      },
+      {
+        "word": " be",
+        "start": 179.32,
+        "end": 179.54
+      },
+      {
+        "word": " met.",
+        "start": 179.54,
+        "end": 179.94
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "start": 180.18,
+    "end": 184.0,
+    "text": "So, you know, we're going to see the grid collapse. We're going to see emissions rise.",
+    "words": [
+      {
+        "word": " So,",
+        "start": 180.18,
+        "end": 180.26
+      },
+      {
+        "word": " you",
+        "start": 180.36,
+        "end": 180.44
+      },
+      {
+        "word": " know,",
+        "start": 180.44,
+        "end": 180.54
+      },
+      {
+        "word": " we're",
+        "start": 180.58,
+        "end": 180.76
+      },
+      {
+        "word": " going",
+        "start": 180.76,
+        "end": 180.9
+      },
+      {
+        "word": " to",
+        "start": 180.9,
+        "end": 180.98
+      },
+      {
+        "word": " see",
+        "start": 180.98,
+        "end": 181.26
+      },
+      {
+        "word": " the",
+        "start": 181.26,
+        "end": 181.52
+      },
+      {
+        "word": " grid",
+        "start": 181.52,
+        "end": 181.76
+      },
+      {
+        "word": " collapse.",
+        "start": 181.76,
+        "end": 182.16
+      },
+      {
+        "word": " We're",
+        "start": 182.4,
+        "end": 182.48
+      },
+      {
+        "word": " going",
+        "start": 182.48,
+        "end": 182.6
+      },
+      {
+        "word": " to",
+        "start": 182.6,
+        "end": 182.7
+      },
+      {
+        "word": " see",
+        "start": 182.7,
+        "end": 182.96
+      },
+      {
+        "word": " emissions",
+        "start": 182.96,
+        "end": 183.54
+      },
+      {
+        "word": " rise.",
+        "start": 183.54,
+        "end": 184.0
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "start": 184.46,
+    "end": 189.0,
+    "text": "We're going to see all kinds of other impacts that actually are quite detrimental.",
+    "words": [
+      {
+        "word": " We're",
+        "start": 184.46,
+        "end": 184.76
+      },
+      {
+        "word": " going",
+        "start": 184.76,
+        "end": 184.88
+      },
+      {
+        "word": " to",
+        "start": 184.88,
+        "end": 184.96
+      },
+      {
+        "word": " see",
+        "start": 184.96,
+        "end": 185.14
+      },
+      {
+        "word": " all",
+        "start": 185.14,
+        "end": 185.48
+      },
+      {
+        "word": " kinds",
+        "start": 185.48,
+        "end": 185.72
+      },
+      {
+        "word": " of",
+        "start": 185.72,
+        "end": 185.92
+      },
+      {
+        "word": " other",
+        "start": 185.92,
+        "end": 186.28
+      },
+      {
+        "word": " impacts",
+        "start": 186.28,
+        "end": 186.9
+      },
+      {
+        "word": " that",
+        "start": 186.9,
+        "end": 187.5
+      },
+      {
+        "word": " actually",
+        "start": 187.5,
+        "end": 187.9
+      },
+      {
+        "word": " are",
+        "start": 187.9,
+        "end": 188.26
+      },
+      {
+        "word": " quite",
+        "start": 188.26,
+        "end": 188.52
+      },
+      {
+        "word": " detrimental.",
+        "start": 188.52,
+        "end": 189.0
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "start": 189.0,
+    "end": 194.12,
+    "text": "And we reach a vicious cycle because then you're in a world where it's getting warmer,",
+    "words": [
+      {
+        "word": " And",
+        "start": 189.0,
+        "end": 189.24
+      },
+      {
+        "word": " we",
+        "start": 189.24,
+        "end": 189.86
+      },
+      {
+        "word": " reach",
+        "start": 189.86,
+        "end": 190.2
+      },
+      {
+        "word": " a",
+        "start": 190.2,
+        "end": 190.34
+      },
+      {
+        "word": " vicious",
+        "start": 190.34,
+        "end": 190.54
+      },
+      {
+        "word": " cycle",
+        "start": 190.54,
+        "end": 191.06
+      },
+      {
+        "word": " because",
+        "start": 191.06,
+        "end": 191.42
+      },
+      {
+        "word": " then",
+        "start": 191.42,
+        "end": 191.7
+      },
+      {
+        "word": " you're",
+        "start": 191.7,
+        "end": 191.92
+      },
+      {
+        "word": " in",
+        "start": 191.92,
+        "end": 192.04
+      },
+      {
+        "word": " a",
+        "start": 192.04,
+        "end": 192.12
+      },
+      {
+        "word": " world",
+        "start": 192.12,
+        "end": 192.48
+      },
+      {
+        "word": " where",
+        "start": 192.48,
+        "end": 193.0
+      },
+      {
+        "word": " it's",
+        "start": 193.0,
+        "end": 193.48
+      },
+      {
+        "word": " getting",
+        "start": 193.48,
+        "end": 193.7
+      },
+      {
+        "word": " warmer,",
+        "start": 193.7,
+        "end": 194.12
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "start": 194.64,
+    "end": 197.28,
+    "text": "we're using air conditioning to be able to protect ourselves.",
+    "words": [
+      {
+        "word": " we're",
+        "start": 194.64,
+        "end": 194.82
+      },
+      {
+        "word": " using",
+        "start": 194.82,
+        "end": 195.12
+      },
+      {
+        "word": " air",
+        "start": 195.12,
+        "end": 195.38
+      },
+      {
+        "word": " conditioning",
+        "start": 195.38,
+        "end": 195.66
+      },
+      {
+        "word": " to",
+        "start": 195.66,
+        "end": 196.08
+      },
+      {
+        "word": " be",
+        "start": 196.08,
+        "end": 196.22
+      },
+      {
+        "word": " able",
+        "start": 196.22,
+        "end": 196.36
+      },
+      {
+        "word": " to",
+        "start": 196.36,
+        "end": 196.46
+      },
+      {
+        "word": " protect",
+        "start": 196.46,
+        "end": 196.76
+      },
+      {
+        "word": " ourselves.",
+        "start": 196.76,
+        "end": 197.28
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "start": 197.64,
+    "end": 200.38,
+    "text": "That's leading to more emissions and more energy use",
+    "words": [
+      {
+        "word": " That's",
+        "start": 197.64,
+        "end": 198.04
+      },
+      {
+        "word": " leading",
+        "start": 198.04,
+        "end": 198.22
+      },
+      {
+        "word": " to",
+        "start": 198.22,
+        "end": 198.46
+      },
+      {
+        "word": " more",
+        "start": 198.46,
+        "end": 198.72
+      },
+      {
+        "word": " emissions",
+        "start": 198.72,
+        "end": 199.14
+      },
+      {
+        "word": " and",
+        "start": 199.14,
+        "end": 199.46
+      },
+      {
+        "word": " more",
+        "start": 199.46,
+        "end": 199.68
+      },
+      {
+        "word": " energy",
+        "start": 199.68,
+        "end": 200.0
+      },
+      {
+        "word": " use",
+        "start": 200.0,
+        "end": 200.38
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "start": 200.38,
+    "end": 203.46,
+    "text": "that is then making the world warmer and then we need more air conditioning.",
+    "words": [
+      {
+        "word": " that",
+        "start": 200.38,
+        "end": 200.7
+      },
+      {
+        "word": " is",
+        "start": 200.7,
+        "end": 200.9
+      },
+      {
+        "word": " then",
+        "start": 200.9,
+        "end": 201.08
+      },
+      {
+        "word": " making",
+        "start": 201.08,
+        "end": 201.3
+      },
+      {
+        "word": " the",
+        "start": 201.3,
+        "end": 201.5
+      },
+      {
+        "word": " world",
+        "start": 201.5,
+        "end": 201.68
+      },
+      {
+        "word": " warmer",
+        "start": 201.68,
+        "end": 202.0
+      },
+      {
+        "word": " and",
+        "start": 202.0,
+        "end": 202.3
+      },
+      {
+        "word": " then",
+        "start": 202.3,
+        "end": 202.44
+      },
+      {
+        "word": " we",
+        "start": 202.44,
+        "end": 202.56
+      },
+      {
+        "word": " need",
+        "start": 202.56,
+        "end": 202.76
+      },
+      {
+        "word": " more",
+        "start": 202.76,
+        "end": 202.92
+      },
+      {
+        "word": " air",
+        "start": 202.92,
+        "end": 203.12
+      },
+      {
+        "word": " conditioning.",
+        "start": 203.12,
+        "end": 203.46
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "start": 203.76,
+    "end": 208.98,
+    "text": "We heard about the grid. The grid is the network that distributes electricity across",
+    "words": [
+      {
+        "word": " We",
+        "start": 203.76,
+        "end": 203.98
+      },
+      {
+        "word": " heard",
+        "start": 203.98,
+        "end": 204.34
+      },
+      {
+        "word": " about",
+        "start": 204.34,
+        "end": 204.66
+      },
+      {
+        "word": " the",
+        "start": 204.66,
+        "end": 204.9
+      },
+      {
+        "word": " grid.",
+        "start": 204.9,
+        "end": 205.12
+      },
+      {
+        "word": " The",
+        "start": 205.44,
+        "end": 205.52
+      },
+      {
+        "word": " grid",
+        "start": 205.52,
+        "end": 205.76
+      },
+      {
+        "word": " is",
+        "start": 205.76,
+        "end": 206.24
+      },
+      {
+        "word": " the",
+        "start": 206.24,
+        "end": 206.38
+      },
+      {
+        "word": " network",
+        "start": 206.38,
+        "end": 206.8
+      },
+      {
+        "word": " that",
+        "start": 206.8,
+        "end": 207.1
+      },
+      {
+        "word": " distributes",
+        "start": 207.1,
+        "end": 207.84
+      },
+      {
+        "word": " electricity",
+        "start": 207.84,
+        "end": 208.58
+      },
+      {
+        "word": " across",
+        "start": 208.58,
+        "end": 208.98
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "start": 208.98,
+    "end": 214.94,
+    "text": "towns, cities and countries. If people are trying to use more electricity than it can cope with,",
+    "words": [
+      {
+        "word": " towns,",
+        "start": 208.98,
+        "end": 209.56
+      },
+      {
+        "word": " cities",
+        "start": 209.76,
+        "end": 210.1
+      },
+      {
+        "word": " and",
+        "start": 210.1,
+        "end": 210.58
+      },
+      {
+        "word": " countries.",
+        "start": 210.58,
+        "end": 211.0
+      },
+      {
+        "word": " If",
+        "start": 211.54,
+        "end": 211.7
+      },
+      {
+        "word": " people",
+        "start": 211.7,
+        "end": 211.96
+      },
+      {
+        "word": " are",
+        "start": 211.96,
+        "end": 212.1
+      },
+      {
+        "word": " trying",
+        "start": 212.1,
+        "end": 212.34
+      },
+      {
+        "word": " to",
+        "start": 212.34,
+        "end": 212.52
+      },
+      {
+        "word": " use",
+        "start": 212.52,
+        "end": 212.74
+      },
+      {
+        "word": " more",
+        "start": 212.74,
+        "end": 213.12
+      },
+      {
+        "word": " electricity",
+        "start": 213.12,
+        "end": 213.78
+      },
+      {
+        "word": " than",
+        "start": 213.78,
+        "end": 214.12
+      },
+      {
+        "word": " it",
+        "start": 214.12,
+        "end": 214.26
+      },
+      {
+        "word": " can",
+        "start": 214.26,
+        "end": 214.42
+      },
+      {
+        "word": " cope",
+        "start": 214.42,
+        "end": 214.66
+      },
+      {
+        "word": " with,",
+        "start": 214.66,
+        "end": 214.94
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "start": 214.94,
+    "end": 220.26,
+    "text": "then the grid can collapse. You get power cuts, which is when you can't get any electricity.",
+    "words": [
+      {
+        "word": " then",
+        "start": 214.94,
+        "end": 215.28
+      },
+      {
+        "word": " the",
+        "start": 215.28,
+        "end": 215.4
+      },
+      {
+        "word": " grid",
+        "start": 215.4,
+        "end": 215.6
+      },
+      {
+        "word": " can",
+        "start": 215.6,
+        "end": 215.82
+      },
+      {
+        "word": " collapse.",
+        "start": 215.82,
+        "end": 216.3
+      },
+      {
+        "word": " You",
+        "start": 216.84,
+        "end": 216.96
+      },
+      {
+        "word": " get",
+        "start": 216.96,
+        "end": 217.1
+      },
+      {
+        "word": " power",
+        "start": 217.1,
+        "end": 217.42
+      },
+      {
+        "word": " cuts,",
+        "start": 217.42,
+        "end": 217.78
+      },
+      {
+        "word": " which",
+        "start": 218.08,
+        "end": 218.36
+      },
+      {
+        "word": " is",
+        "start": 218.36,
+        "end": 218.52
+      },
+      {
+        "word": " when",
+        "start": 218.52,
+        "end": 218.68
+      },
+      {
+        "word": " you",
+        "start": 218.68,
+        "end": 218.84
+      },
+      {
+        "word": " can't",
+        "start": 218.84,
+        "end": 219.08
+      },
+      {
+        "word": " get",
+        "start": 219.08,
+        "end": 219.22
+      },
+      {
+        "word": " any",
+        "start": 219.22,
+        "end": 219.6
+      },
+      {
+        "word": " electricity.",
+        "start": 219.6,
+        "end": 220.26
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "start": 221.14,
+    "end": 225.96,
+    "text": "We heard that air conditioning creates emissions, which can lead the world to warm up,",
+    "words": [
+      {
+        "word": " We",
+        "start": 221.14,
+        "end": 221.42
+      },
+      {
+        "word": " heard",
+        "start": 221.42,
+        "end": 221.68
+      },
+      {
+        "word": " that",
+        "start": 221.68,
+        "end": 221.88
+      },
+      {
+        "word": " air",
+        "start": 221.88,
+        "end": 222.2
+      },
+      {
+        "word": " conditioning",
+        "start": 222.2,
+        "end": 222.58
+      },
+      {
+        "word": " creates",
+        "start": 222.58,
+        "end": 223.18
+      },
+      {
+        "word": " emissions,",
+        "start": 223.18,
+        "end": 223.78
+      },
+      {
+        "word": " which",
+        "start": 224.2,
+        "end": 224.36
+      },
+      {
+        "word": " can",
+        "start": 224.36,
+        "end": 224.62
+      },
+      {
+        "word": " lead",
+        "start": 224.62,
+        "end": 224.88
+      },
+      {
+        "word": " the",
+        "start": 224.88,
+        "end": 225.02
+      },
+      {
+        "word": " world",
+        "start": 225.02,
+        "end": 225.24
+      },
+      {
+        "word": " to",
+        "start": 225.24,
+        "end": 225.44
+      },
+      {
+        "word": " warm",
+        "start": 225.44,
+        "end": 225.66
+      },
+      {
+        "word": " up,",
+        "start": 225.66,
+        "end": 225.96
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "start": 226.12,
+    "end": 231.68,
+    "text": "which means we then need more air conditioning. This makes the world even warmer and so on.",
+    "words": [
+      {
+        "word": " which",
+        "start": 226.12,
+        "end": 226.26
+      },
+      {
+        "word": " means",
+        "start": 226.26,
+        "end": 226.52
+      },
+      {
+        "word": " we",
+        "start": 226.52,
+        "end": 226.78
+      },
+      {
+        "word": " then",
+        "start": 226.78,
+        "end": 227.0
+      },
+      {
+        "word": " need",
+        "start": 227.0,
+        "end": 227.34
+      },
+      {
+        "word": " more",
+        "start": 227.34,
+        "end": 227.64
+      },
+      {
+        "word": " air",
+        "start": 227.64,
+        "end": 228.02
+      },
+      {
+        "word": " conditioning.",
+        "start": 228.02,
+        "end": 228.4
+      },
+      {
+        "word": " This",
+        "start": 228.96,
+        "end": 229.16
+      },
+      {
+        "word": " makes",
+        "start": 229.16,
+        "end": 229.42
+      },
+      {
+        "word": " the",
+        "start": 229.42,
+        "end": 229.62
+      },
+      {
+        "word": " world",
+        "start": 229.62,
+        "end": 229.86
+      },
+      {
+        "word": " even",
+        "start": 229.86,
+        "end": 230.32
+      },
+      {
+        "word": " warmer",
+        "start": 230.32,
+        "end": 230.68
+      },
+      {
+        "word": " and",
+        "start": 230.68,
+        "end": 231.08
+      },
+      {
+        "word": " so",
+        "start": 231.08,
+        "end": 231.36
+      },
+      {
+        "word": " on.",
+        "start": 231.36,
+        "end": 231.68
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "start": 232.1,
+    "end": 236.76,
+    "text": "And Radhika calls this a vicious cycle. A vicious cycle or a vicious circle",
+    "words": [
+      {
+        "word": " And",
+        "start": 232.1,
+        "end": 232.22
+      },
+      {
+        "word": " Radhika",
+        "start": 232.22,
+        "end": 232.54
+      },
+      {
+        "word": " calls",
+        "start": 232.54,
+        "end": 232.88
+      },
+      {
+        "word": " this",
+        "start": 232.88,
+        "end": 233.1
+      },
+      {
+        "word": " a",
+        "start": 233.1,
+        "end": 233.36
+      },
+      {
+        "word": " vicious",
+        "start": 233.36,
+        "end": 233.7
+      },
+      {
+        "word": " cycle.",
+        "start": 233.7,
+        "end": 234.26
+      },
+      {
+        "word": " A",
+        "start": 234.72,
+        "end": 234.8
+      },
+      {
+        "word": " vicious",
+        "start": 234.8,
+        "end": 235.02
+      },
+      {
+        "word": " cycle",
+        "start": 235.02,
+        "end": 235.44
+      },
+      {
+        "word": " or",
+        "start": 235.44,
+        "end": 235.82
+      },
+      {
+        "word": " a",
+        "start": 235.82,
+        "end": 236.0
+      },
+      {
+        "word": " vicious",
+        "start": 236.0,
+        "end": 236.22
+      },
+      {
+        "word": " circle",
+        "start": 236.22,
+        "end": 236.76
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "start": 236.76,
+    "end": 240.3,
+    "text": "is where a solution to a problem actually makes it worse,",
+    "words": [
+      {
+        "word": " is",
+        "start": 236.76,
+        "end": 237.32
+      },
+      {
+        "word": " where",
+        "start": 237.32,
+        "end": 237.48
+      },
+      {
+        "word": " a",
+        "start": 237.48,
+        "end": 237.64
+      },
+      {
+        "word": " solution",
+        "start": 237.64,
+        "end": 238.08
+      },
+      {
+        "word": " to",
+        "start": 238.08,
+        "end": 238.36
+      },
+      {
+        "word": " a",
+        "start": 238.36,
+        "end": 238.48
+      },
+      {
+        "word": " problem",
+        "start": 238.48,
+        "end": 238.84
+      },
+      {
+        "word": " actually",
+        "start": 238.84,
+        "end": 239.4
+      },
+      {
+        "word": " makes",
+        "start": 239.4,
+        "end": 239.78
+      },
+      {
+        "word": " it",
+        "start": 239.78,
+        "end": 239.96
+      },
+      {
+        "word": " worse,",
+        "start": 239.96,
+        "end": 240.3
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "start": 240.3,
+    "end": 244.88,
+    "text": "which means you have to do more. And that makes the problem even worse still.",
+    "words": [
+      {
+        "word": " which",
+        "start": 240.3,
+        "end": 240.86
+      },
+      {
+        "word": " means",
+        "start": 240.86,
+        "end": 241.16
+      },
+      {
+        "word": " you",
+        "start": 241.16,
+        "end": 241.34
+      },
+      {
+        "word": " have",
+        "start": 241.34,
+        "end": 241.5
+      },
+      {
+        "word": " to",
+        "start": 241.5,
+        "end": 241.64
+      },
+      {
+        "word": " do",
+        "start": 241.64,
+        "end": 241.78
+      },
+      {
+        "word": " more.",
+        "start": 241.78,
+        "end": 242.1
+      },
+      {
+        "word": " And",
+        "start": 242.6,
+        "end": 242.6
+      },
+      {
+        "word": " that",
+        "start": 242.6,
+        "end": 242.82
+      },
+      {
+        "word": " makes",
+        "start": 242.82,
+        "end": 243.06
+      },
+      {
+        "word": " the",
+        "start": 243.06,
+        "end": 243.22
+      },
+      {
+        "word": " problem",
+        "start": 243.22,
+        "end": 243.54
+      },
+      {
+        "word": " even",
+        "start": 243.54,
+        "end": 243.98
+      },
+      {
+        "word": " worse",
+        "start": 243.98,
+        "end": 244.4
+      },
+      {
+        "word": " still.",
+        "start": 244.4,
+        "end": 244.88
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "start": 246.04,
+    "end": 249.44,
+    "text": "Okay. Well, that sounds like a bit of a problem. What are the solutions?",
+    "words": [
+      {
+        "word": " Okay.",
+        "start": 246.04,
+        "end": 246.34
+      },
+      {
+        "word": " Well,",
+        "start": 246.5,
+        "end": 246.58
+      },
+      {
+        "word": " that",
+        "start": 246.64,
+        "end": 246.76
+      },
+      {
+        "word": " sounds",
+        "start": 246.76,
+        "end": 246.98
+      },
+      {
+        "word": " like",
+        "start": 246.98,
+        "end": 247.2
+      },
+      {
+        "word": " a",
+        "start": 247.2,
+        "end": 247.34
+      },
+      {
+        "word": " bit",
+        "start": 247.34,
+        "end": 247.44
+      },
+      {
+        "word": " of",
+        "start": 247.44,
+        "end": 247.56
+      },
+      {
+        "word": " a",
+        "start": 247.56,
+        "end": 247.68
+      },
+      {
+        "word": " problem.",
+        "start": 247.68,
+        "end": 248.2
+      },
+      {
+        "word": " What",
+        "start": 248.6,
+        "end": 248.78
+      },
+      {
+        "word": " are",
+        "start": 248.78,
+        "end": 248.88
+      },
+      {
+        "word": " the",
+        "start": 248.88,
+        "end": 248.96
+      },
+      {
+        "word": " solutions?",
+        "start": 248.96,
+        "end": 249.44
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "start": 250.24,
+    "end": 252.84,
+    "text": "Well, Radhika says that there are some things we should try",
+    "words": [
+      {
+        "word": " Well,",
+        "start": 250.24,
+        "end": 250.42
+      },
+      {
+        "word": " Radhika",
+        "start": 250.48,
+        "end": 250.92
+      },
+      {
+        "word": " says",
+        "start": 250.92,
+        "end": 251.18
+      },
+      {
+        "word": " that",
+        "start": 251.18,
+        "end": 251.4
+      },
+      {
+        "word": " there",
+        "start": 251.4,
+        "end": 251.52
+      },
+      {
+        "word": " are",
+        "start": 251.52,
+        "end": 251.64
+      },
+      {
+        "word": " some",
+        "start": 251.64,
+        "end": 251.82
+      },
+      {
+        "word": " things",
+        "start": 251.82,
+        "end": 252.08
+      },
+      {
+        "word": " we",
+        "start": 252.08,
+        "end": 252.3
+      },
+      {
+        "word": " should",
+        "start": 252.3,
+        "end": 252.48
+      },
+      {
+        "word": " try",
+        "start": 252.48,
+        "end": 252.84
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "start": 252.84,
+    "end": 256.9,
+    "text": "first before using air conditioning, which will still be important.",
+    "words": [
+      {
+        "word": " first",
+        "start": 252.84,
+        "end": 253.52
+      },
+      {
+        "word": " before",
+        "start": 253.52,
+        "end": 253.94
+      },
+      {
+        "word": " using",
+        "start": 253.94,
+        "end": 254.34
+      },
+      {
+        "word": " air",
+        "start": 254.34,
+        "end": 254.64
+      },
+      {
+        "word": " conditioning,",
+        "start": 254.64,
+        "end": 255.0
+      },
+      {
+        "word": " which",
+        "start": 255.0,
+        "end": 255.68
+      },
+      {
+        "word": " will",
+        "start": 255.68,
+        "end": 255.96
+      },
+      {
+        "word": " still",
+        "start": 255.96,
+        "end": 256.24
+      },
+      {
+        "word": " be",
+        "start": 256.24,
+        "end": 256.44
+      },
+      {
+        "word": " important.",
+        "start": 256.44,
+        "end": 256.9
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "start": 257.22,
+    "end": 259.82,
+    "text": "Here she is again, talking to the climate question.",
+    "words": [
+      {
+        "word": " Here",
+        "start": 257.22,
+        "end": 257.4
+      },
+      {
+        "word": " she",
+        "start": 257.4,
+        "end": 257.58
+      },
+      {
+        "word": " is",
+        "start": 257.58,
+        "end": 257.8
+      },
+      {
+        "word": " again,",
+        "start": 257.8,
+        "end": 258.08
+      },
+      {
+        "word": " talking",
+        "start": 258.2,
+        "end": 258.52
+      },
+      {
+        "word": " to",
+        "start": 258.52,
+        "end": 258.92
+      },
+      {
+        "word": " the",
+        "start": 258.92,
+        "end": 259.14
+      },
+      {
+        "word": " climate",
+        "start": 259.14,
+        "end": 259.4
+      },
+      {
+        "word": " question.",
+        "start": 259.4,
+        "end": 259.82
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "start": 260.52,
+    "end": 265.04,
+    "text": "So one of the most important things is to do passive cooling first.",
+    "words": [
+      {
+        "word": " So",
+        "start": 260.52,
+        "end": 260.98
+      },
+      {
+        "word": " one",
+        "start": 260.98,
+        "end": 261.34
+      },
+      {
+        "word": " of",
+        "start": 261.34,
+        "end": 261.46
+      },
+      {
+        "word": " the",
+        "start": 261.46,
+        "end": 261.54
+      },
+      {
+        "word": " most",
+        "start": 261.54,
+        "end": 261.72
+      },
+      {
+        "word": " important",
+        "start": 261.72,
+        "end": 262.12
+      },
+      {
+        "word": " things",
+        "start": 262.12,
+        "end": 262.52
+      },
+      {
+        "word": " is",
+        "start": 262.52,
+        "end": 263.08
+      },
+      {
+        "word": " to",
+        "start": 263.08,
+        "end": 263.36
+      },
+      {
+        "word": " do",
+        "start": 263.36,
+        "end": 263.6
+      },
+      {
+        "word": " passive",
+        "start": 263.6,
+        "end": 264.06
+      },
+      {
+        "word": " cooling",
+        "start": 264.06,
+        "end": 264.46
+      },
+      {
+        "word": " first.",
+        "start": 264.46,
+        "end": 265.04
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "start": 265.04,
+    "end": 272.2,
+    "text": "Now passive cooling is when we take steps to provide thermal comfort that are not energy",
+    "words": [
+      {
+        "word": " Now",
+        "start": 265.04,
+        "end": 265.76
+      },
+      {
+        "word": " passive",
+        "start": 265.76,
+        "end": 266.12
+      },
+      {
+        "word": " cooling",
+        "start": 266.12,
+        "end": 266.42
+      },
+      {
+        "word": " is",
+        "start": 266.42,
+        "end": 266.8
+      },
+      {
+        "word": " when",
+        "start": 266.8,
+        "end": 267.0
+      },
+      {
+        "word": " we",
+        "start": 267.0,
+        "end": 267.36
+      },
+      {
+        "word": " take",
+        "start": 267.36,
+        "end": 268.12
+      },
+      {
+        "word": " steps",
+        "start": 268.12,
+        "end": 269.28
+      },
+      {
+        "word": " to",
+        "start": 269.28,
+        "end": 269.74
+      },
+      {
+        "word": " provide",
+        "start": 269.74,
+        "end": 270.32
+      },
+      {
+        "word": " thermal",
+        "start": 270.32,
+        "end": 270.66
+      },
+      {
+        "word": " comfort",
+        "start": 270.66,
+        "end": 271.12
+      },
+      {
+        "word": " that",
+        "start": 271.12,
+        "end": 271.34
+      },
+      {
+        "word": " are",
+        "start": 271.34,
+        "end": 271.48
+      },
+      {
+        "word": " not",
+        "start": 271.48,
+        "end": 271.72
+      },
+      {
+        "word": " energy",
+        "start": 271.72,
+        "end": 272.2
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "start": 272.2,
+    "end": 277.7,
+    "text": "intensive. Some of the most important ones are first to cut solar gain,",
+    "words": [
+      {
+        "word": " intensive.",
+        "start": 272.2,
+        "end": 272.68
+      },
+      {
+        "word": " Some",
+        "start": 273.4,
+        "end": 274.02
+      },
+      {
+        "word": " of",
+        "start": 274.02,
+        "end": 274.18
+      },
+      {
+        "word": " the",
+        "start": 274.18,
+        "end": 274.3
+      },
+      {
+        "word": " most",
+        "start": 274.3,
+        "end": 274.5
+      },
+      {
+        "word": " important",
+        "start": 274.5,
+        "end": 274.98
+      },
+      {
+        "word": " ones",
+        "start": 274.98,
+        "end": 275.3
+      },
+      {
+        "word": " are",
+        "start": 275.3,
+        "end": 275.68
+      },
+      {
+        "word": " first",
+        "start": 275.68,
+        "end": 276.12
+      },
+      {
+        "word": " to",
+        "start": 276.12,
+        "end": 276.46
+      },
+      {
+        "word": " cut",
+        "start": 276.46,
+        "end": 276.8
+      },
+      {
+        "word": " solar",
+        "start": 276.8,
+        "end": 277.34
+      },
+      {
+        "word": " gain,",
+        "start": 277.34,
+        "end": 277.7
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "start": 278.04,
+    "end": 279.36,
+    "text": "which is through things like shading.",
+    "words": [
+      {
+        "word": " which",
+        "start": 278.04,
+        "end": 278.24
+      },
+      {
+        "word": " is",
+        "start": 278.24,
+        "end": 278.4
+      },
+      {
+        "word": " through",
+        "start": 278.4,
+        "end": 278.56
+      },
+      {
+        "word": " things",
+        "start": 278.56,
+        "end": 278.84
+      },
+      {
+        "word": " like",
+        "start": 278.84,
+        "end": 279.06
+      },
+      {
+        "word": " shading.",
+        "start": 279.06,
+        "end": 279.36
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "start": 280.12,
+    "end": 284.7,
+    "text": "Passive cooling is where you cool your house down without using a lot of energy.",
+    "words": [
+      {
+        "word": " Passive",
+        "start": 280.12,
+        "end": 280.64
+      },
+      {
+        "word": " cooling",
+        "start": 280.64,
+        "end": 281.06
+      },
+      {
+        "word": " is",
+        "start": 281.06,
+        "end": 281.38
+      },
+      {
+        "word": " where",
+        "start": 281.38,
+        "end": 281.58
+      },
+      {
+        "word": " you",
+        "start": 281.58,
+        "end": 281.78
+      },
+      {
+        "word": " cool",
+        "start": 281.78,
+        "end": 282.12
+      },
+      {
+        "word": " your",
+        "start": 282.12,
+        "end": 282.28
+      },
+      {
+        "word": " house",
+        "start": 282.28,
+        "end": 282.58
+      },
+      {
+        "word": " down",
+        "start": 282.58,
+        "end": 282.88
+      },
+      {
+        "word": " without",
+        "start": 282.88,
+        "end": 283.3
+      },
+      {
+        "word": " using",
+        "start": 283.3,
+        "end": 283.86
+      },
+      {
+        "word": " a",
+        "start": 283.86,
+        "end": 284.04
+      },
+      {
+        "word": " lot",
+        "start": 284.04,
+        "end": 284.2
+      },
+      {
+        "word": " of",
+        "start": 284.2,
+        "end": 284.34
+      },
+      {
+        "word": " energy.",
+        "start": 284.34,
+        "end": 284.7
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "start": 285.1,
+    "end": 289.08,
+    "text": "Yes. Heat from the sun can be blocked by shading, which could be with trees,",
+    "words": [
+      {
+        "word": " Yes.",
+        "start": 285.1,
+        "end": 285.3
+      },
+      {
+        "word": " Heat",
+        "start": 285.74,
+        "end": 285.84
+      },
+      {
+        "word": " from",
+        "start": 285.84,
+        "end": 286.02
+      },
+      {
+        "word": " the",
+        "start": 286.02,
+        "end": 286.14
+      },
+      {
+        "word": " sun",
+        "start": 286.14,
+        "end": 286.38
+      },
+      {
+        "word": " can",
+        "start": 286.38,
+        "end": 286.64
+      },
+      {
+        "word": " be",
+        "start": 286.64,
+        "end": 286.82
+      },
+      {
+        "word": " blocked",
+        "start": 286.82,
+        "end": 287.08
+      },
+      {
+        "word": " by",
+        "start": 287.08,
+        "end": 287.34
+      },
+      {
+        "word": " shading,",
+        "start": 287.34,
+        "end": 287.82
+      },
+      {
+        "word": " which",
+        "start": 288.12,
+        "end": 288.26
+      },
+      {
+        "word": " could",
+        "start": 288.26,
+        "end": 288.42
+      },
+      {
+        "word": " be",
+        "start": 288.42,
+        "end": 288.58
+      },
+      {
+        "word": " with",
+        "start": 288.58,
+        "end": 288.76
+      },
+      {
+        "word": " trees,",
+        "start": 288.76,
+        "end": 289.08
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "start": 289.08,
+    "end": 290.68,
+    "text": "curtains or blinds.",
+    "words": [
+      {
+        "word": " curtains",
+        "start": 289.08,
+        "end": 289.7
+      },
+      {
+        "word": " or",
+        "start": 289.7,
+        "end": 290.14
+      },
+      {
+        "word": " blinds.",
+        "start": 290.14,
+        "end": 290.68
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "start": 291.4,
+    "end": 296.32,
+    "text": "Okay, Georgie. So passive cooling and shading, that sounds really easy. Is it that simple?",
+    "words": [
+      {
+        "word": " Okay,",
+        "start": 291.4,
+        "end": 291.7
+      },
+      {
+        "word": " Georgie.",
+        "start": 291.78,
+        "end": 292.1
+      },
+      {
+        "word": " So",
+        "start": 292.22,
+        "end": 292.4
+      },
+      {
+        "word": " passive",
+        "start": 292.4,
+        "end": 292.86
+      },
+      {
+        "word": " cooling",
+        "start": 292.86,
+        "end": 293.24
+      },
+      {
+        "word": " and",
+        "start": 293.24,
+        "end": 293.5
+      },
+      {
+        "word": " shading,",
+        "start": 293.5,
+        "end": 293.88
+      },
+      {
+        "word": " that",
+        "start": 294.06,
+        "end": 294.2
+      },
+      {
+        "word": " sounds",
+        "start": 294.2,
+        "end": 294.44
+      },
+      {
+        "word": " really",
+        "start": 294.44,
+        "end": 294.74
+      },
+      {
+        "word": " easy.",
+        "start": 294.74,
+        "end": 295.18
+      },
+      {
+        "word": " Is",
+        "start": 295.36,
+        "end": 295.54
+      },
+      {
+        "word": " it",
+        "start": 295.54,
+        "end": 295.78
+      },
+      {
+        "word": " that",
+        "start": 295.78,
+        "end": 295.98
+      },
+      {
+        "word": " simple?",
+        "start": 295.98,
+        "end": 296.32
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "start": 296.78,
+    "end": 301.0,
+    "text": "No, that's not all we have to do. Radhika also talks about the importance of using",
+    "words": [
+      {
+        "word": " No,",
+        "start": 296.78,
+        "end": 296.96
+      },
+      {
+        "word": " that's",
+        "start": 297.0,
+        "end": 297.26
+      },
+      {
+        "word": " not",
+        "start": 297.26,
+        "end": 297.46
+      },
+      {
+        "word": " all",
+        "start": 297.46,
+        "end": 297.68
+      },
+      {
+        "word": " we",
+        "start": 297.68,
+        "end": 297.84
+      },
+      {
+        "word": " have",
+        "start": 297.84,
+        "end": 298.0
+      },
+      {
+        "word": " to",
+        "start": 298.0,
+        "end": 298.14
+      },
+      {
+        "word": " do.",
+        "start": 298.14,
+        "end": 298.34
+      },
+      {
+        "word": " Radhika",
+        "start": 298.6,
+        "end": 298.94
+      },
+      {
+        "word": " also",
+        "start": 298.94,
+        "end": 299.26
+      },
+      {
+        "word": " talks",
+        "start": 299.26,
+        "end": 299.58
+      },
+      {
+        "word": " about",
+        "start": 299.58,
+        "end": 299.84
+      },
+      {
+        "word": " the",
+        "start": 299.84,
+        "end": 299.98
+      },
+      {
+        "word": " importance",
+        "start": 299.98,
+        "end": 300.4
+      },
+      {
+        "word": " of",
+        "start": 300.4,
+        "end": 300.74
+      },
+      {
+        "word": " using",
+        "start": 300.74,
+        "end": 301.0
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "start": 301.0,
+    "end": 305.14,
+    "text": "sustainable energy to power the air conditioning that we still will need.",
+    "words": [
+      {
+        "word": " sustainable",
+        "start": 301.0,
+        "end": 301.54
+      },
+      {
+        "word": " energy",
+        "start": 301.54,
+        "end": 302.14
+      },
+      {
+        "word": " to",
+        "start": 302.14,
+        "end": 302.52
+      },
+      {
+        "word": " power",
+        "start": 302.52,
+        "end": 302.82
+      },
+      {
+        "word": " the",
+        "start": 302.82,
+        "end": 302.98
+      },
+      {
+        "word": " air",
+        "start": 302.98,
+        "end": 303.16
+      },
+      {
+        "word": " conditioning",
+        "start": 303.16,
+        "end": 303.5
+      },
+      {
+        "word": " that",
+        "start": 303.5,
+        "end": 303.96
+      },
+      {
+        "word": " we",
+        "start": 303.96,
+        "end": 304.12
+      },
+      {
+        "word": " still",
+        "start": 304.12,
+        "end": 304.46
+      },
+      {
+        "word": " will",
+        "start": 304.46,
+        "end": 304.8
+      },
+      {
+        "word": " need.",
+        "start": 304.8,
+        "end": 305.14
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "start": 305.9,
+    "end": 310.58,
+    "text": "Okay, Georgie. It's time, I think, for you to give the answer to the question you asked us.",
+    "words": [
+      {
+        "word": " Okay,",
+        "start": 305.9,
+        "end": 306.4
+      },
+      {
+        "word": " Georgie.",
+        "start": 306.48,
+        "end": 306.88
+      },
+      {
+        "word": " It's",
+        "start": 307.0,
+        "end": 307.12
+      },
+      {
+        "word": " time,",
+        "start": 307.12,
+        "end": 307.42
+      },
+      {
+        "word": " I",
+        "start": 307.56,
+        "end": 307.6
+      },
+      {
+        "word": " think,",
+        "start": 307.6,
+        "end": 307.8
+      },
+      {
+        "word": " for",
+        "start": 307.82,
+        "end": 308.08
+      },
+      {
+        "word": " you",
+        "start": 308.08,
+        "end": 308.28
+      },
+      {
+        "word": " to",
+        "start": 308.28,
+        "end": 308.46
+      },
+      {
+        "word": " give",
+        "start": 308.46,
+        "end": 308.62
+      },
+      {
+        "word": " the",
+        "start": 308.62,
+        "end": 308.8
+      },
+      {
+        "word": " answer",
+        "start": 308.8,
+        "end": 309.04
+      },
+      {
+        "word": " to",
+        "start": 309.04,
+        "end": 309.2
+      },
+      {
+        "word": " the",
+        "start": 309.2,
+        "end": 309.3
+      },
+      {
+        "word": " question",
+        "start": 309.3,
+        "end": 309.72
+      },
+      {
+        "word": " you",
+        "start": 309.72,
+        "end": 310.06
+      },
+      {
+        "word": " asked",
+        "start": 310.06,
+        "end": 310.34
+      },
+      {
+        "word": " us.",
+        "start": 310.34,
+        "end": 310.58
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "start": 310.88,
+    "end": 315.5,
+    "text": "Yes, Neil. I asked you what modern air conditioning was used for when it was first",
+    "words": [
+      {
+        "word": " Yes,",
+        "start": 310.88,
+        "end": 311.34
+      },
+      {
+        "word": " Neil.",
+        "start": 311.62,
+        "end": 311.8
+      },
+      {
+        "word": " I",
+        "start": 312.08,
+        "end": 312.2
+      },
+      {
+        "word": " asked",
+        "start": 312.2,
+        "end": 312.56
+      },
+      {
+        "word": " you",
+        "start": 312.56,
+        "end": 312.72
+      },
+      {
+        "word": " what",
+        "start": 312.72,
+        "end": 312.9
+      },
+      {
+        "word": " modern",
+        "start": 312.9,
+        "end": 313.22
+      },
+      {
+        "word": " air",
+        "start": 313.22,
+        "end": 313.54
+      },
+      {
+        "word": " conditioning",
+        "start": 313.54,
+        "end": 313.86
+      },
+      {
+        "word": " was",
+        "start": 313.86,
+        "end": 314.18
+      },
+      {
+        "word": " used",
+        "start": 314.18,
+        "end": 314.48
+      },
+      {
+        "word": " for",
+        "start": 314.48,
+        "end": 314.84
+      },
+      {
+        "word": " when",
+        "start": 314.84,
+        "end": 315.04
+      },
+      {
+        "word": " it",
+        "start": 315.04,
+        "end": 315.1
+      },
+      {
+        "word": " was",
+        "start": 315.1,
+        "end": 315.22
+      },
+      {
+        "word": " first",
+        "start": 315.22,
+        "end": 315.5
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "start": 315.5,
+    "end": 322.2,
+    "text": "invented in 1902. And I had a wild guess. I said C to clean air,",
+    "words": [
+      {
+        "word": " invented",
+        "start": 315.5,
+        "end": 315.88
+      },
+      {
+        "word": " in",
+        "start": 315.88,
+        "end": 316.26
+      },
+      {
+        "word": " 1902.",
+        "start": 316.26,
+        "end": 317.18
+      },
+      {
+        "word": " And",
+        "start": 317.74,
+        "end": 317.8
+      },
+      {
+        "word": " I",
+        "start": 317.8,
+        "end": 317.98
+      },
+      {
+        "word": " had",
+        "start": 317.98,
+        "end": 318.36
+      },
+      {
+        "word": " a",
+        "start": 318.36,
+        "end": 318.84
+      },
+      {
+        "word": " wild",
+        "start": 318.84,
+        "end": 319.28
+      },
+      {
+        "word": " guess.",
+        "start": 319.28,
+        "end": 319.72
+      },
+      {
+        "word": " I",
+        "start": 320.52,
+        "end": 320.54
+      },
+      {
+        "word": " said",
+        "start": 320.54,
+        "end": 320.76
+      },
+      {
+        "word": " C",
+        "start": 320.76,
+        "end": 321.22
+      },
+      {
+        "word": " to",
+        "start": 321.22,
+        "end": 321.58
+      },
+      {
+        "word": " clean",
+        "start": 321.58,
+        "end": 321.92
+      },
+      {
+        "word": " air,",
+        "start": 321.92,
+        "end": 322.2
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "start": 322.2,
+    "end": 326.34,
+    "text": "but you know what? I'm feeling pretty confident now. Sadly, you are incorrect.",
+    "words": [
+      {
+        "word": " but",
+        "start": 322.2,
+        "end": 322.38
+      },
+      {
+        "word": " you",
+        "start": 322.38,
+        "end": 322.54
+      },
+      {
+        "word": " know",
+        "start": 322.54,
+        "end": 322.62
+      },
+      {
+        "word": " what?",
+        "start": 322.62,
+        "end": 322.84
+      },
+      {
+        "word": " I'm",
+        "start": 322.92,
+        "end": 323.1
+      },
+      {
+        "word": " feeling",
+        "start": 323.1,
+        "end": 323.4
+      },
+      {
+        "word": " pretty",
+        "start": 323.4,
+        "end": 323.68
+      },
+      {
+        "word": " confident",
+        "start": 323.68,
+        "end": 324.2
+      },
+      {
+        "word": " now.",
+        "start": 324.2,
+        "end": 324.54
+      },
+      {
+        "word": " Sadly,",
+        "start": 325.06,
+        "end": 325.4
+      },
+      {
+        "word": " you",
+        "start": 325.56,
+        "end": 325.74
+      },
+      {
+        "word": " are",
+        "start": 325.74,
+        "end": 325.94
+      },
+      {
+        "word": " incorrect.",
+        "start": 325.94,
+        "end": 326.34
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "start": 326.84,
+    "end": 331.3,
+    "text": "The correct answer was B to dry ink. It was invented by Willis Carrier",
+    "words": [
+      {
+        "word": " The",
+        "start": 326.84,
+        "end": 326.92
+      },
+      {
+        "word": " correct",
+        "start": 326.92,
+        "end": 327.16
+      },
+      {
+        "word": " answer",
+        "start": 327.16,
+        "end": 327.56
+      },
+      {
+        "word": " was",
+        "start": 327.56,
+        "end": 327.82
+      },
+      {
+        "word": " B",
+        "start": 327.82,
+        "end": 328.12
+      },
+      {
+        "word": " to",
+        "start": 328.12,
+        "end": 328.42
+      },
+      {
+        "word": " dry",
+        "start": 328.42,
+        "end": 328.66
+      },
+      {
+        "word": " ink.",
+        "start": 328.66,
+        "end": 329.0
+      },
+      {
+        "word": " It",
+        "start": 329.38,
+        "end": 329.42
+      },
+      {
+        "word": " was",
+        "start": 329.42,
+        "end": 329.58
+      },
+      {
+        "word": " invented",
+        "start": 329.58,
+        "end": 330.12
+      },
+      {
+        "word": " by",
+        "start": 330.12,
+        "end": 330.5
+      },
+      {
+        "word": " Willis",
+        "start": 330.5,
+        "end": 330.9
+      },
+      {
+        "word": " Carrier",
+        "start": 330.9,
+        "end": 331.3
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "start": 331.3,
+    "end": 333.7,
+    "text": "at a printing company in Brooklyn, New York.",
+    "words": [
+      {
+        "word": " at",
+        "start": 331.3,
+        "end": 331.52
+      },
+      {
+        "word": " a",
+        "start": 331.52,
+        "end": 331.64
+      },
+      {
+        "word": " printing",
+        "start": 331.64,
+        "end": 331.86
+      },
+      {
+        "word": " company",
+        "start": 331.86,
+        "end": 332.34
+      },
+      {
+        "word": " in",
+        "start": 332.34,
+        "end": 332.7
+      },
+      {
+        "word": " Brooklyn,",
+        "start": 332.7,
+        "end": 333.02
+      },
+      {
+        "word": " New",
+        "start": 333.3,
+        "end": 333.4
+      },
+      {
+        "word": " York.",
+        "start": 333.4,
+        "end": 333.7
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "start": 334.2,
+    "end": 337.38,
+    "text": "Okay, let's recap the vocabulary we learned in this programme,",
+    "words": [
+      {
+        "word": " Okay,",
+        "start": 334.2,
+        "end": 334.5
+      },
+      {
+        "word": " let's",
+        "start": 334.6,
+        "end": 334.92
+      },
+      {
+        "word": " recap",
+        "start": 334.92,
+        "end": 335.36
+      },
+      {
+        "word": " the",
+        "start": 335.36,
+        "end": 335.62
+      },
+      {
+        "word": " vocabulary",
+        "start": 335.62,
+        "end": 336.16
+      },
+      {
+        "word": " we",
+        "start": 336.16,
+        "end": 336.46
+      },
+      {
+        "word": " learned",
+        "start": 336.46,
+        "end": 336.7
+      },
+      {
+        "word": " in",
+        "start": 336.7,
+        "end": 336.88
+      },
+      {
+        "word": " this",
+        "start": 336.88,
+        "end": 337.0
+      },
+      {
+        "word": " programme,",
+        "start": 337.0,
+        "end": 337.38
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "start": 337.38,
+    "end": 342.52,
+    "text": "starting with lifesaving, which describes something that stops people from dying.",
+    "words": [
+      {
+        "word": " starting",
+        "start": 337.38,
+        "end": 337.86
+      },
+      {
+        "word": " with",
+        "start": 337.86,
+        "end": 338.16
+      },
+      {
+        "word": " lifesaving,",
+        "start": 338.16,
+        "end": 339.08
+      },
+      {
+        "word": " which",
+        "start": 339.26,
+        "end": 339.52
+      },
+      {
+        "word": " describes",
+        "start": 339.52,
+        "end": 339.92
+      },
+      {
+        "word": " something",
+        "start": 339.92,
+        "end": 340.54
+      },
+      {
+        "word": " that",
+        "start": 340.54,
+        "end": 340.84
+      },
+      {
+        "word": " stops",
+        "start": 340.84,
+        "end": 341.36
+      },
+      {
+        "word": " people",
+        "start": 341.36,
+        "end": 341.9
+      },
+      {
+        "word": " from",
+        "start": 341.9,
+        "end": 342.2
+      },
+      {
+        "word": " dying.",
+        "start": 342.2,
+        "end": 342.52
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "start": 342.52,
+    "end": 346.54,
+    "text": "If it's possible to inhabit somewhere, that means it's possible to live there.",
+    "words": [
+      {
+        "word": " If",
+        "start": 342.52,
+        "end": 342.92
+      },
+      {
+        "word": " it's",
+        "start": 342.92,
+        "end": 343.08
+      },
+      {
+        "word": " possible",
+        "start": 343.08,
+        "end": 343.42
+      },
+      {
+        "word": " to",
+        "start": 343.42,
+        "end": 343.64
+      },
+      {
+        "word": " inhabit",
+        "start": 343.64,
+        "end": 344.06
+      },
+      {
+        "word": " somewhere,",
+        "start": 344.06,
+        "end": 344.58
+      },
+      {
+        "word": " that",
+        "start": 344.84,
+        "end": 344.98
+      },
+      {
+        "word": " means",
+        "start": 344.98,
+        "end": 345.22
+      },
+      {
+        "word": " it's",
+        "start": 345.22,
+        "end": 345.52
+      },
+      {
+        "word": " possible",
+        "start": 345.52,
+        "end": 345.84
+      },
+      {
+        "word": " to",
+        "start": 345.84,
+        "end": 346.1
+      },
+      {
+        "word": " live",
+        "start": 346.1,
+        "end": 346.32
+      },
+      {
+        "word": " there.",
+        "start": 346.32,
+        "end": 346.54
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "start": 346.94,
+    "end": 352.08,
+    "text": "The grid is the system or network that distributes electricity across towns,",
+    "words": [
+      {
+        "word": " The",
+        "start": 346.94,
+        "end": 347.06
+      },
+      {
+        "word": " grid",
+        "start": 347.06,
+        "end": 347.38
+      },
+      {
+        "word": " is",
+        "start": 347.38,
+        "end": 347.92
+      },
+      {
+        "word": " the",
+        "start": 347.92,
+        "end": 348.08
+      },
+      {
+        "word": " system",
+        "start": 348.08,
+        "end": 348.62
+      },
+      {
+        "word": " or",
+        "start": 348.62,
+        "end": 348.92
+      },
+      {
+        "word": " network",
+        "start": 348.92,
+        "end": 349.44
+      },
+      {
+        "word": " that",
+        "start": 349.44,
+        "end": 349.84
+      },
+      {
+        "word": " distributes",
+        "start": 349.84,
+        "end": 350.56
+      },
+      {
+        "word": " electricity",
+        "start": 350.56,
+        "end": 351.18
+      },
+      {
+        "word": " across",
+        "start": 351.18,
+        "end": 351.52
+      },
+      {
+        "word": " towns,",
+        "start": 351.52,
+        "end": 352.08
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "start": 352.34,
+    "end": 357.92,
+    "text": "cities and countries. A vicious cycle is where a solution to a problem also makes it worse,",
+    "words": [
+      {
+        "word": " cities",
+        "start": 352.34,
+        "end": 352.68
+      },
+      {
+        "word": " and",
+        "start": 352.68,
+        "end": 353.04
+      },
+      {
+        "word": " countries.",
+        "start": 353.04,
+        "end": 353.48
+      },
+      {
+        "word": " A",
+        "start": 353.8,
+        "end": 353.9
+      },
+      {
+        "word": " vicious",
+        "start": 353.9,
+        "end": 354.18
+      },
+      {
+        "word": " cycle",
+        "start": 354.18,
+        "end": 354.66
+      },
+      {
+        "word": " is",
+        "start": 354.66,
+        "end": 354.98
+      },
+      {
+        "word": " where",
+        "start": 354.98,
+        "end": 355.18
+      },
+      {
+        "word": " a",
+        "start": 355.18,
+        "end": 355.38
+      },
+      {
+        "word": " solution",
+        "start": 355.38,
+        "end": 355.82
+      },
+      {
+        "word": " to",
+        "start": 355.82,
+        "end": 356.1
+      },
+      {
+        "word": " a",
+        "start": 356.1,
+        "end": 356.22
+      },
+      {
+        "word": " problem",
+        "start": 356.22,
+        "end": 356.52
+      },
+      {
+        "word": " also",
+        "start": 356.52,
+        "end": 357.02
+      },
+      {
+        "word": " makes",
+        "start": 357.02,
+        "end": 357.42
+      },
+      {
+        "word": " it",
+        "start": 357.42,
+        "end": 357.62
+      },
+      {
+        "word": " worse,",
+        "start": 357.62,
+        "end": 357.92
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "start": 358.28,
+    "end": 362.2,
+    "text": "meaning the problem just keeps getting even worse as you try to fix it.",
+    "words": [
+      {
+        "word": " meaning",
+        "start": 358.28,
+        "end": 358.52
+      },
+      {
+        "word": " the",
+        "start": 358.52,
+        "end": 358.76
+      },
+      {
+        "word": " problem",
+        "start": 358.76,
+        "end": 359.08
+      },
+      {
+        "word": " just",
+        "start": 359.08,
+        "end": 359.38
+      },
+      {
+        "word": " keeps",
+        "start": 359.38,
+        "end": 359.74
+      },
+      {
+        "word": " getting",
+        "start": 359.74,
+        "end": 360.02
+      },
+      {
+        "word": " even",
+        "start": 360.02,
+        "end": 360.46
+      },
+      {
+        "word": " worse",
+        "start": 360.46,
+        "end": 360.8
+      },
+      {
+        "word": " as",
+        "start": 360.8,
+        "end": 361.22
+      },
+      {
+        "word": " you",
+        "start": 361.22,
+        "end": 361.36
+      },
+      {
+        "word": " try",
+        "start": 361.36,
+        "end": 361.54
+      },
+      {
+        "word": " to",
+        "start": 361.54,
+        "end": 361.7
+      },
+      {
+        "word": " fix",
+        "start": 361.7,
+        "end": 361.92
+      },
+      {
+        "word": " it.",
+        "start": 361.92,
+        "end": 362.2
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "start": 362.4,
+    "end": 367.26,
+    "text": "Passive cooling is where you make a building cooler without using a lot of power.",
+    "words": [
+      {
+        "word": " Passive",
+        "start": 362.4,
+        "end": 362.88
+      },
+      {
+        "word": " cooling",
+        "start": 362.88,
+        "end": 363.22
+      },
+      {
+        "word": " is",
+        "start": 363.22,
+        "end": 363.7
+      },
+      {
+        "word": " where",
+        "start": 363.7,
+        "end": 363.92
+      },
+      {
+        "word": " you",
+        "start": 363.92,
+        "end": 364.12
+      },
+      {
+        "word": " make",
+        "start": 364.12,
+        "end": 364.38
+      },
+      {
+        "word": " a",
+        "start": 364.38,
+        "end": 364.56
+      },
+      {
+        "word": " building",
+        "start": 364.56,
+        "end": 364.82
+      },
+      {
+        "word": " cooler",
+        "start": 364.82,
+        "end": 365.3
+      },
+      {
+        "word": " without",
+        "start": 365.3,
+        "end": 365.84
+      },
+      {
+        "word": " using",
+        "start": 365.84,
+        "end": 366.3
+      },
+      {
+        "word": " a",
+        "start": 366.3,
+        "end": 366.6
+      },
+      {
+        "word": " lot",
+        "start": 366.6,
+        "end": 366.76
+      },
+      {
+        "word": " of",
+        "start": 366.76,
+        "end": 366.9
+      },
+      {
+        "word": " power.",
+        "start": 366.9,
+        "end": 367.26
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "start": 367.82,
+    "end": 370.78,
+    "text": "And shading is blocking the sun's light and heat.",
+    "words": [
+      {
+        "word": " And",
+        "start": 367.82,
+        "end": 368.12
+      },
+      {
+        "word": " shading",
+        "start": 368.12,
+        "end": 368.56
+      },
+      {
+        "word": " is",
+        "start": 368.56,
+        "end": 368.96
+      },
+      {
+        "word": " blocking",
+        "start": 368.96,
+        "end": 369.28
+      },
+      {
+        "word": " the",
+        "start": 369.28,
+        "end": 369.58
+      },
+      {
+        "word": " sun's",
+        "start": 369.58,
+        "end": 369.96
+      },
+      {
+        "word": " light",
+        "start": 369.96,
+        "end": 370.24
+      },
+      {
+        "word": " and",
+        "start": 370.24,
+        "end": 370.5
+      },
+      {
+        "word": " heat.",
+        "start": 370.5,
+        "end": 370.78
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "start": 370.78,
+    "end": 374.6,
+    "text": "Once again, our six minutes are up. Test what you've learned with the worksheet",
+    "words": [
+      {
+        "word": " Once",
+        "start": 370.78,
+        "end": 371.16
+      },
+      {
+        "word": " again,",
+        "start": 371.16,
+        "end": 371.4
+      },
+      {
+        "word": " our",
+        "start": 371.5,
+        "end": 371.6
+      },
+      {
+        "word": " six",
+        "start": 371.6,
+        "end": 371.88
+      },
+      {
+        "word": " minutes",
+        "start": 371.88,
+        "end": 372.12
+      },
+      {
+        "word": " are",
+        "start": 372.12,
+        "end": 372.34
+      },
+      {
+        "word": " up.",
+        "start": 372.34,
+        "end": 372.56
+      },
+      {
+        "word": " Test",
+        "start": 372.92,
+        "end": 373.12
+      },
+      {
+        "word": " what",
+        "start": 373.12,
+        "end": 373.36
+      },
+      {
+        "word": " you've",
+        "start": 373.36,
+        "end": 373.56
+      },
+      {
+        "word": " learned",
+        "start": 373.56,
+        "end": 373.8
+      },
+      {
+        "word": " with",
+        "start": 373.8,
+        "end": 374.08
+      },
+      {
+        "word": " the",
+        "start": 374.08,
+        "end": 374.24
+      },
+      {
+        "word": " worksheet",
+        "start": 374.24,
+        "end": 374.6
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "start": 374.6,
+    "end": 377.36,
+    "text": "on our website bbclearningenglish.com.",
+    "words": [
+      {
+        "word": " on",
+        "start": 374.6,
+        "end": 375.02
+      },
+      {
+        "word": " our",
+        "start": 375.02,
+        "end": 375.18
+      },
+      {
+        "word": " website",
+        "start": 375.18,
+        "end": 375.56
+      },
+      {
+        "word": " bbclearningenglish",
+        "start": 375.56,
+        "end": 376.84
+      },
+      {
+        "word": ".com.",
+        "start": 376.84,
+        "end": 377.36
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "start": 377.48,
+    "end": 378.78,
+    "text": "Thank you for joining us. Goodbye.",
+    "words": [
+      {
+        "word": " Thank",
+        "start": 377.48,
+        "end": 377.66
+      },
+      {
+        "word": " you",
+        "start": 377.66,
+        "end": 377.78
+      },
+      {
+        "word": " for",
+        "start": 377.78,
+        "end": 377.9
+      },
+      {
+        "word": " joining",
+        "start": 377.9,
+        "end": 378.14
+      },
+      {
+        "word": " us.",
+        "start": 378.14,
+        "end": 378.46
+      },
+      {
+        "word": " Goodbye.",
+        "start": 378.62,
+        "end": 378.78
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "start": 379.22,
+    "end": 379.38,
+    "text": "Goodbye.",
+    "words": [
+      {
+        "word": " Goodbye.",
+        "start": 379.22,
+        "end": 379.38
+      }
+    ]
+  }
+]

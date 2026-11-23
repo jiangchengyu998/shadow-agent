@@ -1,0 +1,1734 @@
+[
+  {
+    "id": 1,
+    "source_ids": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "start": 102.76,
+    "end": 125.26,
+    "text": "So, how do scientists calculate the effects of climate change in the first place? The answer is with models. Huge amounts of physical and chemical data are fed into supercomputers, which then paint pictures of possible futures on Earth. But as NASA climate scientist Kate Marvel explained to BBC World Service programme, the climate question, nothing is certain.",
+    "words": [
+      {
+        "word": " So,",
+        "start": 102.76,
+        "end": 103.02,
+        "source_id": 16
+      },
+      {
+        "word": " how",
+        "start": 103.14,
+        "end": 103.38,
+        "source_id": 16
+      },
+      {
+        "word": " do",
+        "start": 103.38,
+        "end": 103.54,
+        "source_id": 16
+      },
+      {
+        "word": " scientists",
+        "start": 103.54,
+        "end": 103.98,
+        "source_id": 16
+      },
+      {
+        "word": " calculate",
+        "start": 103.98,
+        "end": 104.72,
+        "source_id": 16
+      },
+      {
+        "word": " the",
+        "start": 104.72,
+        "end": 105.04,
+        "source_id": 17
+      },
+      {
+        "word": " effects",
+        "start": 105.04,
+        "end": 105.36,
+        "source_id": 17
+      },
+      {
+        "word": " of",
+        "start": 105.36,
+        "end": 105.54,
+        "source_id": 17
+      },
+      {
+        "word": " climate",
+        "start": 105.54,
+        "end": 105.82,
+        "source_id": 17
+      },
+      {
+        "word": " change",
+        "start": 105.82,
+        "end": 106.16,
+        "source_id": 17
+      },
+      {
+        "word": " in",
+        "start": 106.16,
+        "end": 106.46,
+        "source_id": 17
+      },
+      {
+        "word": " the",
+        "start": 106.46,
+        "end": 106.6,
+        "source_id": 17
+      },
+      {
+        "word": " first",
+        "start": 106.6,
+        "end": 106.88,
+        "source_id": 17
+      },
+      {
+        "word": " place?",
+        "start": 106.88,
+        "end": 107.18,
+        "source_id": 17
+      },
+      {
+        "word": " The",
+        "start": 107.62,
+        "end": 107.78,
+        "source_id": 17
+      },
+      {
+        "word": " answer",
+        "start": 107.78,
+        "end": 108.12,
+        "source_id": 17
+      },
+      {
+        "word": " is",
+        "start": 108.12,
+        "end": 108.46,
+        "source_id": 17
+      },
+      {
+        "word": " with",
+        "start": 108.46,
+        "end": 108.7,
+        "source_id": 17
+      },
+      {
+        "word": " models.",
+        "start": 108.7,
+        "end": 109.08,
+        "source_id": 17
+      },
+      {
+        "word": " Huge",
+        "start": 109.08,
+        "end": 109.98,
+        "source_id": 18
+      },
+      {
+        "word": " amounts",
+        "start": 109.98,
+        "end": 110.42,
+        "source_id": 18
+      },
+      {
+        "word": " of",
+        "start": 110.42,
+        "end": 110.72,
+        "source_id": 18
+      },
+      {
+        "word": " physical",
+        "start": 110.72,
+        "end": 111.06,
+        "source_id": 18
+      },
+      {
+        "word": " and",
+        "start": 111.06,
+        "end": 111.38,
+        "source_id": 18
+      },
+      {
+        "word": " chemical",
+        "start": 111.38,
+        "end": 111.78,
+        "source_id": 18
+      },
+      {
+        "word": " data",
+        "start": 111.78,
+        "end": 112.22,
+        "source_id": 18
+      },
+      {
+        "word": " are",
+        "start": 112.22,
+        "end": 112.52,
+        "source_id": 18
+      },
+      {
+        "word": " fed",
+        "start": 112.52,
+        "end": 112.82,
+        "source_id": 18
+      },
+      {
+        "word": " into",
+        "start": 112.82,
+        "end": 113.24,
+        "source_id": 18
+      },
+      {
+        "word": " supercomputers,",
+        "start": 113.24,
+        "end": 114.34,
+        "source_id": 18
+      },
+      {
+        "word": " which",
+        "start": 114.6,
+        "end": 114.8,
+        "source_id": 18
+      },
+      {
+        "word": " then",
+        "start": 114.8,
+        "end": 114.98,
+        "source_id": 18
+      },
+      {
+        "word": " paint",
+        "start": 114.98,
+        "end": 115.28,
+        "source_id": 18
+      },
+      {
+        "word": " pictures",
+        "start": 115.28,
+        "end": 115.7,
+        "source_id": 19
+      },
+      {
+        "word": " of",
+        "start": 115.7,
+        "end": 116.0,
+        "source_id": 19
+      },
+      {
+        "word": " possible",
+        "start": 116.0,
+        "end": 116.5,
+        "source_id": 19
+      },
+      {
+        "word": " futures",
+        "start": 116.5,
+        "end": 116.94,
+        "source_id": 19
+      },
+      {
+        "word": " on",
+        "start": 116.94,
+        "end": 117.16,
+        "source_id": 19
+      },
+      {
+        "word": " Earth.",
+        "start": 117.16,
+        "end": 117.44,
+        "source_id": 19
+      },
+      {
+        "word": " But",
+        "start": 117.74,
+        "end": 118.04,
+        "source_id": 19
+      },
+      {
+        "word": " as",
+        "start": 118.04,
+        "end": 118.46,
+        "source_id": 19
+      },
+      {
+        "word": " NASA",
+        "start": 118.46,
+        "end": 118.72,
+        "source_id": 19
+      },
+      {
+        "word": " climate",
+        "start": 118.72,
+        "end": 119.16,
+        "source_id": 19
+      },
+      {
+        "word": " scientist",
+        "start": 119.16,
+        "end": 119.54,
+        "source_id": 19
+      },
+      {
+        "word": " Kate",
+        "start": 119.54,
+        "end": 119.94,
+        "source_id": 19
+      },
+      {
+        "word": " Marvel",
+        "start": 119.94,
+        "end": 120.32,
+        "source_id": 19
+      },
+      {
+        "word": " explained",
+        "start": 120.32,
+        "end": 120.8,
+        "source_id": 20
+      },
+      {
+        "word": " to",
+        "start": 120.8,
+        "end": 121.04,
+        "source_id": 20
+      },
+      {
+        "word": " BBC",
+        "start": 121.04,
+        "end": 121.24,
+        "source_id": 20
+      },
+      {
+        "word": " World",
+        "start": 121.24,
+        "end": 121.62,
+        "source_id": 20
+      },
+      {
+        "word": " Service",
+        "start": 121.62,
+        "end": 122.0,
+        "source_id": 20
+      },
+      {
+        "word": " programme,",
+        "start": 122.0,
+        "end": 122.46,
+        "source_id": 20
+      },
+      {
+        "word": " the",
+        "start": 122.72,
+        "end": 122.76,
+        "source_id": 20
+      },
+      {
+        "word": " climate",
+        "start": 122.76,
+        "end": 123.06,
+        "source_id": 20
+      },
+      {
+        "word": " question,",
+        "start": 123.06,
+        "end": 123.52,
+        "source_id": 20
+      },
+      {
+        "word": " nothing",
+        "start": 124.06,
+        "end": 124.3,
+        "source_id": 20
+      },
+      {
+        "word": " is",
+        "start": 124.3,
+        "end": 124.76,
+        "source_id": 20
+      },
+      {
+        "word": " certain.",
+        "start": 124.76,
+        "end": 125.26,
+        "source_id": 20
+      }
+    ],
+    "target_index": 1,
+    "target": "So, how do scientists calculate the effects of climate change in the first place? The answer is with models. Huge amounts of physical and chemical data are fed into supercomputers, which then paint pictures of possible futures on Earth. But, as NASA climate scientist Kate Marvel explained to BBC World Service programme The Climate Question, nothing is certain.",
+    "match_score": 100.0
+  },
+  {
+    "id": 2,
+    "source_ids": [
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "start": 138.38,
+    "end": 163.12,
+    "text": "Climate models don't make predictions, those are statements about what's likely to happen. Instead they make projections about different possible futures. And these depend on many things. In other words, climate models are conditional, meaning that they depend on other factors. The main factor in climate change, of course, is human activity, especially greenhouse gas emissions.",
+    "words": [
+      {
+        "word": " Climate",
+        "start": 138.38,
+        "end": 139.12,
+        "source_id": 24
+      },
+      {
+        "word": " models",
+        "start": 139.12,
+        "end": 139.5,
+        "source_id": 24
+      },
+      {
+        "word": " don't",
+        "start": 139.5,
+        "end": 139.86,
+        "source_id": 24
+      },
+      {
+        "word": " make",
+        "start": 139.86,
+        "end": 140.06,
+        "source_id": 24
+      },
+      {
+        "word": " predictions,",
+        "start": 140.06,
+        "end": 140.84,
+        "source_id": 24
+      },
+      {
+        "word": " those",
+        "start": 141.24,
+        "end": 141.4,
+        "source_id": 24
+      },
+      {
+        "word": " are",
+        "start": 141.4,
+        "end": 141.58,
+        "source_id": 24
+      },
+      {
+        "word": " statements",
+        "start": 141.58,
+        "end": 142.02,
+        "source_id": 24
+      },
+      {
+        "word": " about",
+        "start": 142.02,
+        "end": 142.36,
+        "source_id": 24
+      },
+      {
+        "word": " what's",
+        "start": 142.36,
+        "end": 142.68,
+        "source_id": 24
+      },
+      {
+        "word": " likely",
+        "start": 142.68,
+        "end": 143.02,
+        "source_id": 24
+      },
+      {
+        "word": " to",
+        "start": 143.02,
+        "end": 143.26,
+        "source_id": 24
+      },
+      {
+        "word": " happen.",
+        "start": 143.26,
+        "end": 143.56,
+        "source_id": 25
+      },
+      {
+        "word": " Instead",
+        "start": 143.92,
+        "end": 144.28,
+        "source_id": 25
+      },
+      {
+        "word": " they",
+        "start": 144.28,
+        "end": 144.56,
+        "source_id": 25
+      },
+      {
+        "word": " make",
+        "start": 144.56,
+        "end": 144.84,
+        "source_id": 25
+      },
+      {
+        "word": " projections",
+        "start": 144.84,
+        "end": 145.88,
+        "source_id": 25
+      },
+      {
+        "word": " about",
+        "start": 145.88,
+        "end": 146.44,
+        "source_id": 25
+      },
+      {
+        "word": " different",
+        "start": 146.44,
+        "end": 147.0,
+        "source_id": 25
+      },
+      {
+        "word": " possible",
+        "start": 147.0,
+        "end": 147.46,
+        "source_id": 25
+      },
+      {
+        "word": " futures.",
+        "start": 147.46,
+        "end": 148.06,
+        "source_id": 25
+      },
+      {
+        "word": " And",
+        "start": 148.72,
+        "end": 148.92,
+        "source_id": 25
+      },
+      {
+        "word": " these",
+        "start": 148.92,
+        "end": 149.08,
+        "source_id": 25
+      },
+      {
+        "word": " depend",
+        "start": 149.08,
+        "end": 149.44,
+        "source_id": 26
+      },
+      {
+        "word": " on",
+        "start": 149.44,
+        "end": 149.66,
+        "source_id": 26
+      },
+      {
+        "word": " many",
+        "start": 149.66,
+        "end": 149.92,
+        "source_id": 26
+      },
+      {
+        "word": " things.",
+        "start": 149.92,
+        "end": 150.44,
+        "source_id": 26
+      },
+      {
+        "word": " In",
+        "start": 151.0,
+        "end": 151.12,
+        "source_id": 26
+      },
+      {
+        "word": " other",
+        "start": 151.12,
+        "end": 151.28,
+        "source_id": 26
+      },
+      {
+        "word": " words,",
+        "start": 151.28,
+        "end": 151.66,
+        "source_id": 26
+      },
+      {
+        "word": " climate",
+        "start": 152.0,
+        "end": 152.32,
+        "source_id": 26
+      },
+      {
+        "word": " models",
+        "start": 152.32,
+        "end": 152.9,
+        "source_id": 26
+      },
+      {
+        "word": " are",
+        "start": 152.9,
+        "end": 153.22,
+        "source_id": 26
+      },
+      {
+        "word": " conditional,",
+        "start": 153.22,
+        "end": 153.92,
+        "source_id": 26
+      },
+      {
+        "word": " meaning",
+        "start": 154.34,
+        "end": 154.74,
+        "source_id": 26
+      },
+      {
+        "word": " that",
+        "start": 154.74,
+        "end": 155.1,
+        "source_id": 27
+      },
+      {
+        "word": " they",
+        "start": 155.1,
+        "end": 155.22,
+        "source_id": 27
+      },
+      {
+        "word": " depend",
+        "start": 155.22,
+        "end": 155.6,
+        "source_id": 27
+      },
+      {
+        "word": " on",
+        "start": 155.6,
+        "end": 155.94,
+        "source_id": 27
+      },
+      {
+        "word": " other",
+        "start": 155.94,
+        "end": 156.18,
+        "source_id": 27
+      },
+      {
+        "word": " factors.",
+        "start": 156.18,
+        "end": 156.54,
+        "source_id": 27
+      },
+      {
+        "word": " The",
+        "start": 157.34,
+        "end": 157.5,
+        "source_id": 27
+      },
+      {
+        "word": " main",
+        "start": 157.5,
+        "end": 157.86,
+        "source_id": 27
+      },
+      {
+        "word": " factor",
+        "start": 157.86,
+        "end": 158.3,
+        "source_id": 27
+      },
+      {
+        "word": " in",
+        "start": 158.3,
+        "end": 158.48,
+        "source_id": 27
+      },
+      {
+        "word": " climate",
+        "start": 158.48,
+        "end": 158.74,
+        "source_id": 27
+      },
+      {
+        "word": " change,",
+        "start": 158.74,
+        "end": 159.06,
+        "source_id": 27
+      },
+      {
+        "word": " of",
+        "start": 159.12,
+        "end": 159.24,
+        "source_id": 27
+      },
+      {
+        "word": " course,",
+        "start": 159.24,
+        "end": 159.4,
+        "source_id": 27
+      },
+      {
+        "word": " is",
+        "start": 159.58,
+        "end": 159.72,
+        "source_id": 28
+      },
+      {
+        "word": " human",
+        "start": 159.72,
+        "end": 160.12,
+        "source_id": 28
+      },
+      {
+        "word": " activity,",
+        "start": 160.12,
+        "end": 160.84,
+        "source_id": 28
+      },
+      {
+        "word": " especially",
+        "start": 161.04,
+        "end": 161.58,
+        "source_id": 28
+      },
+      {
+        "word": " greenhouse",
+        "start": 161.58,
+        "end": 162.24,
+        "source_id": 28
+      },
+      {
+        "word": " gas",
+        "start": 162.24,
+        "end": 162.66,
+        "source_id": 28
+      },
+      {
+        "word": " emissions.",
+        "start": 162.66,
+        "end": 163.12,
+        "source_id": 28
+      }
+    ],
+    "target_index": 2,
+    "target": "Climate models don't make predictions. Those are statements about what's likely to happen. Instead, they make projections about different possible futures, and these depend on many things. In other words, climate models are conditional, meaning that they depend on other factors. The main factor in climate change, of course, is human activity, especially greenhouse gas emissions.",
+    "match_score": 100.0
+  },
+  {
+    "id": 3,
+    "source_ids": [
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "start": 177.16,
+    "end": 199.08,
+    "text": "So the thing about clouds is that they have this dual effect. They both cool the planet by blocking sunlight and they warm the planet because they have their own greenhouse effect. Right now the unit that scientists use to measure the energy imbalance of the planet, how much it's out of whack, is watts like in a light bulb per square meter.",
+    "words": [
+      {
+        "word": " So",
+        "start": 177.16,
+        "end": 177.44,
+        "source_id": 32
+      },
+      {
+        "word": " the",
+        "start": 177.44,
+        "end": 177.58,
+        "source_id": 32
+      },
+      {
+        "word": " thing",
+        "start": 177.58,
+        "end": 177.8,
+        "source_id": 32
+      },
+      {
+        "word": " about",
+        "start": 177.8,
+        "end": 178.02,
+        "source_id": 32
+      },
+      {
+        "word": " clouds",
+        "start": 178.02,
+        "end": 178.46,
+        "source_id": 32
+      },
+      {
+        "word": " is",
+        "start": 178.46,
+        "end": 178.84,
+        "source_id": 32
+      },
+      {
+        "word": " that",
+        "start": 178.84,
+        "end": 179.2,
+        "source_id": 32
+      },
+      {
+        "word": " they",
+        "start": 179.2,
+        "end": 179.48,
+        "source_id": 32
+      },
+      {
+        "word": " have",
+        "start": 179.48,
+        "end": 179.72,
+        "source_id": 32
+      },
+      {
+        "word": " this",
+        "start": 179.72,
+        "end": 180.0,
+        "source_id": 32
+      },
+      {
+        "word": " dual",
+        "start": 180.0,
+        "end": 180.5,
+        "source_id": 32
+      },
+      {
+        "word": " effect.",
+        "start": 180.5,
+        "end": 181.02,
+        "source_id": 32
+      },
+      {
+        "word": " They",
+        "start": 181.54,
+        "end": 181.78,
+        "source_id": 32
+      },
+      {
+        "word": " both",
+        "start": 181.78,
+        "end": 182.08,
+        "source_id": 32
+      },
+      {
+        "word": " cool",
+        "start": 182.08,
+        "end": 182.48,
+        "source_id": 32
+      },
+      {
+        "word": " the",
+        "start": 182.48,
+        "end": 182.68,
+        "source_id": 33
+      },
+      {
+        "word": " planet",
+        "start": 182.68,
+        "end": 183.0,
+        "source_id": 33
+      },
+      {
+        "word": " by",
+        "start": 183.0,
+        "end": 183.22,
+        "source_id": 33
+      },
+      {
+        "word": " blocking",
+        "start": 183.22,
+        "end": 183.64,
+        "source_id": 33
+      },
+      {
+        "word": " sunlight",
+        "start": 183.64,
+        "end": 184.22,
+        "source_id": 33
+      },
+      {
+        "word": " and",
+        "start": 184.22,
+        "end": 184.92,
+        "source_id": 33
+      },
+      {
+        "word": " they",
+        "start": 184.92,
+        "end": 185.08,
+        "source_id": 33
+      },
+      {
+        "word": " warm",
+        "start": 185.08,
+        "end": 185.36,
+        "source_id": 33
+      },
+      {
+        "word": " the",
+        "start": 185.36,
+        "end": 185.54,
+        "source_id": 33
+      },
+      {
+        "word": " planet",
+        "start": 185.54,
+        "end": 185.86,
+        "source_id": 33
+      },
+      {
+        "word": " because",
+        "start": 185.86,
+        "end": 186.18,
+        "source_id": 33
+      },
+      {
+        "word": " they",
+        "start": 186.18,
+        "end": 186.44,
+        "source_id": 33
+      },
+      {
+        "word": " have",
+        "start": 186.44,
+        "end": 186.68,
+        "source_id": 33
+      },
+      {
+        "word": " their",
+        "start": 186.68,
+        "end": 186.9,
+        "source_id": 34
+      },
+      {
+        "word": " own",
+        "start": 186.9,
+        "end": 187.2,
+        "source_id": 34
+      },
+      {
+        "word": " greenhouse",
+        "start": 187.2,
+        "end": 187.84,
+        "source_id": 34
+      },
+      {
+        "word": " effect.",
+        "start": 187.84,
+        "end": 188.34,
+        "source_id": 34
+      },
+      {
+        "word": " Right",
+        "start": 188.88,
+        "end": 189.2,
+        "source_id": 34
+      },
+      {
+        "word": " now",
+        "start": 189.2,
+        "end": 189.4,
+        "source_id": 34
+      },
+      {
+        "word": " the",
+        "start": 189.4,
+        "end": 189.58,
+        "source_id": 34
+      },
+      {
+        "word": " unit",
+        "start": 189.58,
+        "end": 190.08,
+        "source_id": 34
+      },
+      {
+        "word": " that",
+        "start": 190.08,
+        "end": 190.38,
+        "source_id": 34
+      },
+      {
+        "word": " scientists",
+        "start": 190.38,
+        "end": 190.86,
+        "source_id": 34
+      },
+      {
+        "word": " use",
+        "start": 190.86,
+        "end": 191.38,
+        "source_id": 34
+      },
+      {
+        "word": " to",
+        "start": 191.38,
+        "end": 191.66,
+        "source_id": 34
+      },
+      {
+        "word": " measure",
+        "start": 191.66,
+        "end": 192.06,
+        "source_id": 35
+      },
+      {
+        "word": " the",
+        "start": 192.06,
+        "end": 192.28,
+        "source_id": 35
+      },
+      {
+        "word": " energy",
+        "start": 192.28,
+        "end": 192.84,
+        "source_id": 35
+      },
+      {
+        "word": " imbalance",
+        "start": 192.84,
+        "end": 193.38,
+        "source_id": 35
+      },
+      {
+        "word": " of",
+        "start": 193.38,
+        "end": 193.7,
+        "source_id": 35
+      },
+      {
+        "word": " the",
+        "start": 193.7,
+        "end": 193.82,
+        "source_id": 35
+      },
+      {
+        "word": " planet,",
+        "start": 193.82,
+        "end": 194.18,
+        "source_id": 35
+      },
+      {
+        "word": " how",
+        "start": 194.32,
+        "end": 194.46,
+        "source_id": 35
+      },
+      {
+        "word": " much",
+        "start": 194.46,
+        "end": 194.68,
+        "source_id": 35
+      },
+      {
+        "word": " it's",
+        "start": 194.68,
+        "end": 194.9,
+        "source_id": 35
+      },
+      {
+        "word": " out",
+        "start": 194.9,
+        "end": 195.08,
+        "source_id": 35
+      },
+      {
+        "word": " of",
+        "start": 195.08,
+        "end": 195.22,
+        "source_id": 35
+      },
+      {
+        "word": " whack,",
+        "start": 195.22,
+        "end": 195.54,
+        "source_id": 35
+      },
+      {
+        "word": " is",
+        "start": 195.94,
+        "end": 196.28,
+        "source_id": 35
+      },
+      {
+        "word": " watts",
+        "start": 196.28,
+        "end": 196.78,
+        "source_id": 36
+      },
+      {
+        "word": " like",
+        "start": 196.78,
+        "end": 197.16,
+        "source_id": 36
+      },
+      {
+        "word": " in",
+        "start": 197.16,
+        "end": 197.3,
+        "source_id": 36
+      },
+      {
+        "word": " a",
+        "start": 197.3,
+        "end": 197.4,
+        "source_id": 36
+      },
+      {
+        "word": " light",
+        "start": 197.4,
+        "end": 197.58,
+        "source_id": 36
+      },
+      {
+        "word": " bulb",
+        "start": 197.58,
+        "end": 197.9,
+        "source_id": 36
+      },
+      {
+        "word": " per",
+        "start": 197.9,
+        "end": 198.36,
+        "source_id": 36
+      },
+      {
+        "word": " square",
+        "start": 198.36,
+        "end": 198.78,
+        "source_id": 36
+      },
+      {
+        "word": " meter.",
+        "start": 198.78,
+        "end": 199.08,
+        "source_id": 36
+      }
+    ],
+    "target_index": 3,
+    "target": "So, the thing about clouds is that they have this dual effect. They both cool the planet by blocking sunlight, and they warm the planet because they have their own greenhouse effect. Right now, the unit that scientists use to measure the energy imbalance of the planet – how much it's out of whack – is Watts, like in a light bulb, per square metre.",
+    "match_score": 95.72
+  },
+  {
+    "id": 4,
+    "source_ids": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "start": 229.92,
+    "end": 269.88,
+    "text": "Hmm, climate models sound very complicated to me, Pippa. For one thing, how can you monitor clouds which are constantly moving and changing? Yeah, and how much information from around the world would the supercomputers need to make accurate projections? It's a concern that BBC presenter, Greya Jackson, raised with Kate Marvel for BBC World Service Program, The Climate Question. Surely we need to know the trajectory we're heading in in order to adapt. Oh, absolutely. You know, I am very pro science. I am very pro doing science because no climate change is unfortunately not on the table.",
+    "words": [
+      {
+        "word": " Hmm,",
+        "start": 229.92,
+        "end": 230.18,
+        "source_id": 44
+      },
+      {
+        "word": " climate",
+        "start": 230.46,
+        "end": 230.98,
+        "source_id": 44
+      },
+      {
+        "word": " models",
+        "start": 230.98,
+        "end": 231.42,
+        "source_id": 44
+      },
+      {
+        "word": " sound",
+        "start": 231.42,
+        "end": 231.9,
+        "source_id": 44
+      },
+      {
+        "word": " very",
+        "start": 231.9,
+        "end": 232.28,
+        "source_id": 44
+      },
+      {
+        "word": " complicated",
+        "start": 232.28,
+        "end": 232.86,
+        "source_id": 44
+      },
+      {
+        "word": " to",
+        "start": 232.86,
+        "end": 233.14,
+        "source_id": 44
+      },
+      {
+        "word": " me,",
+        "start": 233.14,
+        "end": 233.22,
+        "source_id": 44
+      },
+      {
+        "word": " Pippa.",
+        "start": 233.4,
+        "end": 233.6,
+        "source_id": 44
+      },
+      {
+        "word": " For",
+        "start": 234.18,
+        "end": 234.3,
+        "source_id": 44
+      },
+      {
+        "word": " one",
+        "start": 234.3,
+        "end": 234.46,
+        "source_id": 44
+      },
+      {
+        "word": " thing,",
+        "start": 234.46,
+        "end": 234.68,
+        "source_id": 44
+      },
+      {
+        "word": " how",
+        "start": 235.06,
+        "end": 235.28,
+        "source_id": 45
+      },
+      {
+        "word": " can",
+        "start": 235.28,
+        "end": 235.54,
+        "source_id": 45
+      },
+      {
+        "word": " you",
+        "start": 235.54,
+        "end": 235.68,
+        "source_id": 45
+      },
+      {
+        "word": " monitor",
+        "start": 235.68,
+        "end": 236.1,
+        "source_id": 45
+      },
+      {
+        "word": " clouds",
+        "start": 236.1,
+        "end": 236.82,
+        "source_id": 45
+      },
+      {
+        "word": " which",
+        "start": 236.82,
+        "end": 237.2,
+        "source_id": 45
+      },
+      {
+        "word": " are",
+        "start": 237.2,
+        "end": 237.4,
+        "source_id": 45
+      },
+      {
+        "word": " constantly",
+        "start": 237.4,
+        "end": 237.98,
+        "source_id": 45
+      },
+      {
+        "word": " moving",
+        "start": 237.98,
+        "end": 238.7,
+        "source_id": 45
+      },
+      {
+        "word": " and",
+        "start": 238.7,
+        "end": 239.12,
+        "source_id": 45
+      },
+      {
+        "word": " changing?",
+        "start": 239.12,
+        "end": 239.56,
+        "source_id": 45
+      },
+      {
+        "word": " Yeah,",
+        "start": 239.86,
+        "end": 240.12,
+        "source_id": 46
+      },
+      {
+        "word": " and",
+        "start": 240.32,
+        "end": 240.5,
+        "source_id": 46
+      },
+      {
+        "word": " how",
+        "start": 240.5,
+        "end": 240.78,
+        "source_id": 46
+      },
+      {
+        "word": " much",
+        "start": 240.78,
+        "end": 241.0,
+        "source_id": 46
+      },
+      {
+        "word": " information",
+        "start": 241.0,
+        "end": 241.6,
+        "source_id": 46
+      },
+      {
+        "word": " from",
+        "start": 241.6,
+        "end": 242.04,
+        "source_id": 46
+      },
+      {
+        "word": " around",
+        "start": 242.04,
+        "end": 242.5,
+        "source_id": 46
+      },
+      {
+        "word": " the",
+        "start": 242.5,
+        "end": 242.72,
+        "source_id": 46
+      },
+      {
+        "word": " world",
+        "start": 242.72,
+        "end": 243.04,
+        "source_id": 46
+      },
+      {
+        "word": " would",
+        "start": 243.04,
+        "end": 243.26,
+        "source_id": 46
+      },
+      {
+        "word": " the",
+        "start": 243.26,
+        "end": 243.42,
+        "source_id": 46
+      },
+      {
+        "word": " supercomputers",
+        "start": 243.42,
+        "end": 244.26,
+        "source_id": 47
+      },
+      {
+        "word": " need",
+        "start": 244.26,
+        "end": 244.62,
+        "source_id": 47
+      },
+      {
+        "word": " to",
+        "start": 244.62,
+        "end": 244.92,
+        "source_id": 47
+      },
+      {
+        "word": " make",
+        "start": 244.92,
+        "end": 245.12,
+        "source_id": 47
+      },
+      {
+        "word": " accurate",
+        "start": 245.12,
+        "end": 245.66,
+        "source_id": 47
+      },
+      {
+        "word": " projections?",
+        "start": 245.66,
+        "end": 246.16,
+        "source_id": 47
+      },
+      {
+        "word": " It's",
+        "start": 246.88,
+        "end": 247.28,
+        "source_id": 47
+      },
+      {
+        "word": " a",
+        "start": 247.28,
+        "end": 247.36,
+        "source_id": 47
+      },
+      {
+        "word": " concern",
+        "start": 247.36,
+        "end": 247.9,
+        "source_id": 47
+      },
+      {
+        "word": " that",
+        "start": 247.9,
+        "end": 248.22,
+        "source_id": 47
+      },
+      {
+        "word": " BBC",
+        "start": 248.22,
+        "end": 248.56,
+        "source_id": 48
+      },
+      {
+        "word": " presenter,",
+        "start": 248.56,
+        "end": 249.08,
+        "source_id": 48
+      },
+      {
+        "word": " Greya",
+        "start": 249.14,
+        "end": 249.46,
+        "source_id": 48
+      },
+      {
+        "word": " Jackson,",
+        "start": 249.46,
+        "end": 249.84,
+        "source_id": 48
+      },
+      {
+        "word": " raised",
+        "start": 250.12,
+        "end": 250.36,
+        "source_id": 48
+      },
+      {
+        "word": " with",
+        "start": 250.36,
+        "end": 250.58,
+        "source_id": 48
+      },
+      {
+        "word": " Kate",
+        "start": 250.58,
+        "end": 250.78,
+        "source_id": 48
+      },
+      {
+        "word": " Marvel",
+        "start": 250.78,
+        "end": 251.14,
+        "source_id": 48
+      },
+      {
+        "word": " for",
+        "start": 251.14,
+        "end": 251.44,
+        "source_id": 48
+      },
+      {
+        "word": " BBC",
+        "start": 251.44,
+        "end": 251.74,
+        "source_id": 48
+      },
+      {
+        "word": " World",
+        "start": 251.74,
+        "end": 252.08,
+        "source_id": 48
+      },
+      {
+        "word": " Service",
+        "start": 252.08,
+        "end": 252.5,
+        "source_id": 49
+      },
+      {
+        "word": " Program,",
+        "start": 252.5,
+        "end": 252.88,
+        "source_id": 49
+      },
+      {
+        "word": " The",
+        "start": 253.16,
+        "end": 253.28,
+        "source_id": 49
+      },
+      {
+        "word": " Climate",
+        "start": 253.28,
+        "end": 253.56,
+        "source_id": 49
+      },
+      {
+        "word": " Question.",
+        "start": 253.56,
+        "end": 253.96,
+        "source_id": 49
+      },
+      {
+        "word": " Surely",
+        "start": 254.4,
+        "end": 254.86,
+        "source_id": 50
+      },
+      {
+        "word": " we",
+        "start": 254.86,
+        "end": 255.18,
+        "source_id": 50
+      },
+      {
+        "word": " need",
+        "start": 255.18,
+        "end": 255.44,
+        "source_id": 50
+      },
+      {
+        "word": " to",
+        "start": 255.44,
+        "end": 255.74,
+        "source_id": 50
+      },
+      {
+        "word": " know",
+        "start": 255.74,
+        "end": 255.94,
+        "source_id": 50
+      },
+      {
+        "word": " the",
+        "start": 255.94,
+        "end": 256.22,
+        "source_id": 50
+      },
+      {
+        "word": " trajectory",
+        "start": 256.22,
+        "end": 256.76,
+        "source_id": 50
+      },
+      {
+        "word": " we're",
+        "start": 256.76,
+        "end": 257.22,
+        "source_id": 50
+      },
+      {
+        "word": " heading",
+        "start": 257.22,
+        "end": 257.5,
+        "source_id": 50
+      },
+      {
+        "word": " in",
+        "start": 257.5,
+        "end": 257.84,
+        "source_id": 50
+      },
+      {
+        "word": " in",
+        "start": 257.84,
+        "end": 258.16,
+        "source_id": 50
+      },
+      {
+        "word": " order",
+        "start": 258.16,
+        "end": 258.56,
+        "source_id": 50
+      },
+      {
+        "word": " to",
+        "start": 258.56,
+        "end": 259.02,
+        "source_id": 50
+      },
+      {
+        "word": " adapt.",
+        "start": 259.02,
+        "end": 259.76,
+        "source_id": 50
+      },
+      {
+        "word": " Oh,",
+        "start": 260.38,
+        "end": 260.54,
+        "source_id": 51
+      },
+      {
+        "word": " absolutely.",
+        "start": 260.54,
+        "end": 261.0,
+        "source_id": 51
+      },
+      {
+        "word": " You",
+        "start": 261.56,
+        "end": 261.62,
+        "source_id": 51
+      },
+      {
+        "word": " know,",
+        "start": 261.62,
+        "end": 261.72,
+        "source_id": 51
+      },
+      {
+        "word": " I",
+        "start": 261.82,
+        "end": 261.98,
+        "source_id": 51
+      },
+      {
+        "word": " am",
+        "start": 261.98,
+        "end": 262.14,
+        "source_id": 51
+      },
+      {
+        "word": " very",
+        "start": 262.14,
+        "end": 262.6,
+        "source_id": 51
+      },
+      {
+        "word": " pro",
+        "start": 262.6,
+        "end": 262.94,
+        "source_id": 51
+      },
+      {
+        "word": " science.",
+        "start": 262.94,
+        "end": 263.34,
+        "source_id": 51
+      },
+      {
+        "word": " I",
+        "start": 263.7,
+        "end": 263.76,
+        "source_id": 51
+      },
+      {
+        "word": " am",
+        "start": 263.76,
+        "end": 263.86,
+        "source_id": 51
+      },
+      {
+        "word": " very",
+        "start": 263.86,
+        "end": 264.1,
+        "source_id": 51
+      },
+      {
+        "word": " pro",
+        "start": 264.1,
+        "end": 264.56,
+        "source_id": 51
+      },
+      {
+        "word": " doing",
+        "start": 264.56,
+        "end": 265.06,
+        "source_id": 51
+      },
+      {
+        "word": " science",
+        "start": 265.06,
+        "end": 265.62,
+        "source_id": 52
+      },
+      {
+        "word": " because",
+        "start": 265.62,
+        "end": 266.02,
+        "source_id": 52
+      },
+      {
+        "word": " no",
+        "start": 266.02,
+        "end": 266.64,
+        "source_id": 52
+      },
+      {
+        "word": " climate",
+        "start": 266.64,
+        "end": 267.1,
+        "source_id": 52
+      },
+      {
+        "word": " change",
+        "start": 267.1,
+        "end": 267.48,
+        "source_id": 52
+      },
+      {
+        "word": " is",
+        "start": 267.48,
+        "end": 267.84,
+        "source_id": 52
+      },
+      {
+        "word": " unfortunately",
+        "start": 267.84,
+        "end": 268.42,
+        "source_id": 52
+      },
+      {
+        "word": " not",
+        "start": 268.42,
+        "end": 269.1,
+        "source_id": 52
+      },
+      {
+        "word": " on",
+        "start": 269.1,
+        "end": 269.4,
+        "source_id": 52
+      },
+      {
+        "word": " the",
+        "start": 269.4,
+        "end": 269.54,
+        "source_id": 52
+      },
+      {
+        "word": " table.",
+        "start": 269.54,
+        "end": 269.88,
+        "source_id": 52
+      }
+    ],
+    "target_index": 4,
+    "target": "Hmm. Climate models sound very complicated to me, Pippa. For one thing, how can you monitor clouds which are constantly moving and changing?Yeah. And how much information from around the world would the supercomputers need to make accurate projections? It's a concern that BBC presenter Graihagh Jackson raised with Kate Marvel for BBC World Service programme The Climate Question.Surely we need to know the trajectory we're heading in, in order to adapt.Oh absolutely. You know, I am very pro-science. I am very pro-doing science because no climate change is unfortunately not on the table.",
+    "match_score": 99.01
+  }
+]

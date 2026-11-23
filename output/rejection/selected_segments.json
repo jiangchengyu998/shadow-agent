@@ -1,0 +1,1226 @@
+[
+  {
+    "id": 1,
+    "source_ids": [
+      5,
+      6,
+      7
+    ],
+    "start": 28.44,
+    "end": 45.82,
+    "text": "Well, nobody likes rejection. But I think as you get older, you get used to it. And probably it's quite a good thing to experience rejection, even if it doesn't feel nice. Yeah, I agree. We can't always get what we want, can we?",
+    "words": [
+      {
+        "word": " Well,",
+        "start": 28.44,
+        "end": 28.72,
+        "source_id": 5
+      },
+      {
+        "word": " nobody",
+        "start": 29.3,
+        "end": 29.96,
+        "source_id": 5
+      },
+      {
+        "word": " likes",
+        "start": 29.96,
+        "end": 30.36,
+        "source_id": 5
+      },
+      {
+        "word": " rejection.",
+        "start": 30.36,
+        "end": 30.98,
+        "source_id": 5
+      },
+      {
+        "word": " But",
+        "start": 31.66,
+        "end": 32.22,
+        "source_id": 5
+      },
+      {
+        "word": " I",
+        "start": 32.22,
+        "end": 32.38,
+        "source_id": 5
+      },
+      {
+        "word": " think",
+        "start": 32.38,
+        "end": 32.58,
+        "source_id": 5
+      },
+      {
+        "word": " as",
+        "start": 32.58,
+        "end": 33.2,
+        "source_id": 5
+      },
+      {
+        "word": " you",
+        "start": 33.2,
+        "end": 33.34,
+        "source_id": 5
+      },
+      {
+        "word": " get",
+        "start": 33.34,
+        "end": 33.52,
+        "source_id": 5
+      },
+      {
+        "word": " older,",
+        "start": 33.52,
+        "end": 33.98,
+        "source_id": 5
+      },
+      {
+        "word": " you",
+        "start": 34.32,
+        "end": 34.8,
+        "source_id": 5
+      },
+      {
+        "word": " get",
+        "start": 34.8,
+        "end": 35.0,
+        "source_id": 5
+      },
+      {
+        "word": " used",
+        "start": 35.0,
+        "end": 35.36,
+        "source_id": 5
+      },
+      {
+        "word": " to",
+        "start": 35.36,
+        "end": 35.54,
+        "source_id": 5
+      },
+      {
+        "word": " it.",
+        "start": 35.54,
+        "end": 35.72,
+        "source_id": 5
+      },
+      {
+        "word": " And",
+        "start": 35.82,
+        "end": 35.9,
+        "source_id": 6
+      },
+      {
+        "word": " probably",
+        "start": 35.9,
+        "end": 36.32,
+        "source_id": 6
+      },
+      {
+        "word": " it's",
+        "start": 36.32,
+        "end": 37.18,
+        "source_id": 6
+      },
+      {
+        "word": " quite",
+        "start": 37.18,
+        "end": 37.36,
+        "source_id": 6
+      },
+      {
+        "word": " a",
+        "start": 37.36,
+        "end": 37.48,
+        "source_id": 6
+      },
+      {
+        "word": " good",
+        "start": 37.48,
+        "end": 37.62,
+        "source_id": 6
+      },
+      {
+        "word": " thing",
+        "start": 37.62,
+        "end": 38.0,
+        "source_id": 6
+      },
+      {
+        "word": " to",
+        "start": 38.0,
+        "end": 38.88,
+        "source_id": 6
+      },
+      {
+        "word": " experience",
+        "start": 38.88,
+        "end": 39.76,
+        "source_id": 6
+      },
+      {
+        "word": " rejection,",
+        "start": 39.76,
+        "end": 40.46,
+        "source_id": 6
+      },
+      {
+        "word": " even",
+        "start": 40.52,
+        "end": 40.84,
+        "source_id": 6
+      },
+      {
+        "word": " if",
+        "start": 40.84,
+        "end": 41.12,
+        "source_id": 6
+      },
+      {
+        "word": " it",
+        "start": 41.12,
+        "end": 41.4,
+        "source_id": 6
+      },
+      {
+        "word": " doesn't",
+        "start": 41.4,
+        "end": 41.64,
+        "source_id": 6
+      },
+      {
+        "word": " feel",
+        "start": 41.64,
+        "end": 41.92,
+        "source_id": 6
+      },
+      {
+        "word": " nice.",
+        "start": 41.92,
+        "end": 42.3,
+        "source_id": 6
+      },
+      {
+        "word": " Yeah,",
+        "start": 42.72,
+        "end": 43.02,
+        "source_id": 7
+      },
+      {
+        "word": " I",
+        "start": 43.12,
+        "end": 43.3,
+        "source_id": 7
+      },
+      {
+        "word": " agree.",
+        "start": 43.3,
+        "end": 43.66,
+        "source_id": 7
+      },
+      {
+        "word": " We",
+        "start": 44.02,
+        "end": 44.16,
+        "source_id": 7
+      },
+      {
+        "word": " can't",
+        "start": 44.16,
+        "end": 44.42,
+        "source_id": 7
+      },
+      {
+        "word": " always",
+        "start": 44.42,
+        "end": 44.66,
+        "source_id": 7
+      },
+      {
+        "word": " get",
+        "start": 44.66,
+        "end": 44.86,
+        "source_id": 7
+      },
+      {
+        "word": " what",
+        "start": 44.86,
+        "end": 45.02,
+        "source_id": 7
+      },
+      {
+        "word": " we",
+        "start": 45.02,
+        "end": 45.18,
+        "source_id": 7
+      },
+      {
+        "word": " want,",
+        "start": 45.18,
+        "end": 45.42,
+        "source_id": 7
+      },
+      {
+        "word": " can",
+        "start": 45.48,
+        "end": 45.64,
+        "source_id": 7
+      },
+      {
+        "word": " we?",
+        "start": 45.64,
+        "end": 45.82,
+        "source_id": 7
+      }
+    ],
+    "target_index": 1,
+    "target": "Well, nobody likes rejection. But I think as you get older, you get used to it. And probably it's quite a good thing to experience rejection, even if it doesn't feel nice.Yeah, I agree. We can't always get what we want, can we?",
+    "match_score": 100.0
+  },
+  {
+    "id": 2,
+    "source_ids": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "start": 163.86,
+    "end": 181.64,
+    "text": "And actually walking up to the first person, I felt my adrenaline really, really spiking. I'm not a socially anxious person. I think I'm really confident. But that first thing really scared me. And once I'd done one, the second one came easier and the third one came even easier. And, you know, by the fourth time, I didn't even mind it whether they said yes or no.",
+    "words": [
+      {
+        "word": " And",
+        "start": 163.86,
+        "end": 164.12,
+        "source_id": 40
+      },
+      {
+        "word": " actually",
+        "start": 164.12,
+        "end": 164.38,
+        "source_id": 40
+      },
+      {
+        "word": " walking",
+        "start": 164.38,
+        "end": 164.76,
+        "source_id": 40
+      },
+      {
+        "word": " up",
+        "start": 164.76,
+        "end": 165.06,
+        "source_id": 40
+      },
+      {
+        "word": " to",
+        "start": 165.06,
+        "end": 165.2,
+        "source_id": 40
+      },
+      {
+        "word": " the",
+        "start": 165.2,
+        "end": 165.32,
+        "source_id": 40
+      },
+      {
+        "word": " first",
+        "start": 165.32,
+        "end": 165.52,
+        "source_id": 40
+      },
+      {
+        "word": " person,",
+        "start": 165.52,
+        "end": 165.88,
+        "source_id": 40
+      },
+      {
+        "word": " I",
+        "start": 166.02,
+        "end": 166.24,
+        "source_id": 40
+      },
+      {
+        "word": " felt",
+        "start": 166.24,
+        "end": 166.38,
+        "source_id": 40
+      },
+      {
+        "word": " my",
+        "start": 166.38,
+        "end": 166.56,
+        "source_id": 40
+      },
+      {
+        "word": " adrenaline",
+        "start": 166.56,
+        "end": 166.88,
+        "source_id": 40
+      },
+      {
+        "word": " really,",
+        "start": 166.88,
+        "end": 167.74,
+        "source_id": 40
+      },
+      {
+        "word": " really",
+        "start": 167.74,
+        "end": 168.04,
+        "source_id": 40
+      },
+      {
+        "word": " spiking.",
+        "start": 168.04,
+        "end": 168.46,
+        "source_id": 40
+      },
+      {
+        "word": " I'm",
+        "start": 168.46,
+        "end": 168.98,
+        "source_id": 41
+      },
+      {
+        "word": " not",
+        "start": 168.98,
+        "end": 169.1,
+        "source_id": 41
+      },
+      {
+        "word": " a",
+        "start": 169.1,
+        "end": 169.22,
+        "source_id": 41
+      },
+      {
+        "word": " socially",
+        "start": 169.22,
+        "end": 169.42,
+        "source_id": 41
+      },
+      {
+        "word": " anxious",
+        "start": 169.42,
+        "end": 169.7,
+        "source_id": 41
+      },
+      {
+        "word": " person.",
+        "start": 169.7,
+        "end": 170.16,
+        "source_id": 41
+      },
+      {
+        "word": " I",
+        "start": 170.24,
+        "end": 170.36,
+        "source_id": 41
+      },
+      {
+        "word": " think",
+        "start": 170.36,
+        "end": 170.56,
+        "source_id": 41
+      },
+      {
+        "word": " I'm",
+        "start": 170.56,
+        "end": 170.8,
+        "source_id": 41
+      },
+      {
+        "word": " really",
+        "start": 170.8,
+        "end": 171.14,
+        "source_id": 41
+      },
+      {
+        "word": " confident.",
+        "start": 171.14,
+        "end": 171.64,
+        "source_id": 41
+      },
+      {
+        "word": " But",
+        "start": 171.86,
+        "end": 172.08,
+        "source_id": 42
+      },
+      {
+        "word": " that",
+        "start": 172.08,
+        "end": 172.24,
+        "source_id": 42
+      },
+      {
+        "word": " first",
+        "start": 172.24,
+        "end": 172.54,
+        "source_id": 42
+      },
+      {
+        "word": " thing",
+        "start": 172.54,
+        "end": 172.8,
+        "source_id": 42
+      },
+      {
+        "word": " really",
+        "start": 172.8,
+        "end": 173.04,
+        "source_id": 42
+      },
+      {
+        "word": " scared",
+        "start": 173.04,
+        "end": 173.36,
+        "source_id": 42
+      },
+      {
+        "word": " me.",
+        "start": 173.36,
+        "end": 173.58,
+        "source_id": 42
+      },
+      {
+        "word": " And",
+        "start": 174.02,
+        "end": 174.12,
+        "source_id": 43
+      },
+      {
+        "word": " once",
+        "start": 174.12,
+        "end": 174.24,
+        "source_id": 43
+      },
+      {
+        "word": " I'd",
+        "start": 174.24,
+        "end": 174.42,
+        "source_id": 43
+      },
+      {
+        "word": " done",
+        "start": 174.42,
+        "end": 174.56,
+        "source_id": 43
+      },
+      {
+        "word": " one,",
+        "start": 174.56,
+        "end": 174.86,
+        "source_id": 43
+      },
+      {
+        "word": " the",
+        "start": 175.22,
+        "end": 175.72,
+        "source_id": 43
+      },
+      {
+        "word": " second",
+        "start": 175.72,
+        "end": 175.94,
+        "source_id": 43
+      },
+      {
+        "word": " one",
+        "start": 175.94,
+        "end": 176.1,
+        "source_id": 43
+      },
+      {
+        "word": " came",
+        "start": 176.1,
+        "end": 176.24,
+        "source_id": 43
+      },
+      {
+        "word": " easier",
+        "start": 176.24,
+        "end": 176.58,
+        "source_id": 43
+      },
+      {
+        "word": " and",
+        "start": 176.58,
+        "end": 176.68,
+        "source_id": 43
+      },
+      {
+        "word": " the",
+        "start": 176.68,
+        "end": 176.78,
+        "source_id": 43
+      },
+      {
+        "word": " third",
+        "start": 176.78,
+        "end": 176.96,
+        "source_id": 43
+      },
+      {
+        "word": " one",
+        "start": 176.96,
+        "end": 177.1,
+        "source_id": 43
+      },
+      {
+        "word": " came",
+        "start": 177.1,
+        "end": 177.28,
+        "source_id": 43
+      },
+      {
+        "word": " even",
+        "start": 177.28,
+        "end": 177.52,
+        "source_id": 43
+      },
+      {
+        "word": " easier.",
+        "start": 177.52,
+        "end": 177.86,
+        "source_id": 43
+      },
+      {
+        "word": " And,",
+        "start": 178.08,
+        "end": 178.08,
+        "source_id": 44
+      },
+      {
+        "word": " you",
+        "start": 178.26,
+        "end": 178.36,
+        "source_id": 44
+      },
+      {
+        "word": " know,",
+        "start": 178.36,
+        "end": 178.44,
+        "source_id": 44
+      },
+      {
+        "word": " by",
+        "start": 178.46,
+        "end": 178.6,
+        "source_id": 44
+      },
+      {
+        "word": " the",
+        "start": 178.6,
+        "end": 178.7,
+        "source_id": 44
+      },
+      {
+        "word": " fourth",
+        "start": 178.7,
+        "end": 178.88,
+        "source_id": 44
+      },
+      {
+        "word": " time,",
+        "start": 178.88,
+        "end": 179.2,
+        "source_id": 44
+      },
+      {
+        "word": " I",
+        "start": 179.6,
+        "end": 179.7,
+        "source_id": 44
+      },
+      {
+        "word": " didn't",
+        "start": 179.7,
+        "end": 179.86,
+        "source_id": 44
+      },
+      {
+        "word": " even",
+        "start": 179.86,
+        "end": 180.04,
+        "source_id": 44
+      },
+      {
+        "word": " mind",
+        "start": 180.04,
+        "end": 180.46,
+        "source_id": 44
+      },
+      {
+        "word": " it",
+        "start": 180.46,
+        "end": 180.58,
+        "source_id": 44
+      },
+      {
+        "word": " whether",
+        "start": 180.58,
+        "end": 180.72,
+        "source_id": 44
+      },
+      {
+        "word": " they",
+        "start": 180.72,
+        "end": 180.88,
+        "source_id": 44
+      },
+      {
+        "word": " said",
+        "start": 180.88,
+        "end": 181.04,
+        "source_id": 44
+      },
+      {
+        "word": " yes",
+        "start": 181.04,
+        "end": 181.2,
+        "source_id": 44
+      },
+      {
+        "word": " or",
+        "start": 181.2,
+        "end": 181.4,
+        "source_id": 44
+      },
+      {
+        "word": " no.",
+        "start": 181.4,
+        "end": 181.64,
+        "source_id": 44
+      }
+    ],
+    "target_index": 2,
+    "target": "And actually, walking up to the first person, I felt my adrenaline really, really spiking. I'm not a socially anxious person – I think I'm really confident. But that first thing really scared me. And once I'd done one, the second one came easier and the third one came even easier. And you know, by the fourth time I didn't even mind it whether they said yes or no.",
+    "match_score": 100.0
+  },
+  {
+    "id": 3,
+    "source_ids": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "start": 244.64,
+    "end": 270.42,
+    "text": "What we do know is that there is an increase in perfectionism. People are more worried now, younger people, about how other people are judging them. And so I wonder whether that might make people more shy of speaking to strangers, worried that the people will not appraise them in a good way. And so doing something like this to try to counter that might feel like a positive step to people that they're trying to do something. Also, they're fun to watch.",
+    "words": [
+      {
+        "word": " What",
+        "start": 244.64,
+        "end": 245.02,
+        "source_id": 60
+      },
+      {
+        "word": " we",
+        "start": 245.02,
+        "end": 245.16,
+        "source_id": 60
+      },
+      {
+        "word": " do",
+        "start": 245.16,
+        "end": 245.34,
+        "source_id": 60
+      },
+      {
+        "word": " know",
+        "start": 245.34,
+        "end": 245.52,
+        "source_id": 60
+      },
+      {
+        "word": " is",
+        "start": 245.52,
+        "end": 245.72,
+        "source_id": 60
+      },
+      {
+        "word": " that",
+        "start": 245.72,
+        "end": 245.9,
+        "source_id": 60
+      },
+      {
+        "word": " there",
+        "start": 245.9,
+        "end": 246.06,
+        "source_id": 60
+      },
+      {
+        "word": " is",
+        "start": 246.06,
+        "end": 246.24,
+        "source_id": 60
+      },
+      {
+        "word": " an",
+        "start": 246.24,
+        "end": 246.4,
+        "source_id": 60
+      },
+      {
+        "word": " increase",
+        "start": 246.4,
+        "end": 246.9,
+        "source_id": 60
+      },
+      {
+        "word": " in",
+        "start": 246.9,
+        "end": 247.52,
+        "source_id": 60
+      },
+      {
+        "word": " perfectionism.",
+        "start": 247.52,
+        "end": 247.86,
+        "source_id": 60
+      },
+      {
+        "word": " People",
+        "start": 247.86,
+        "end": 248.52,
+        "source_id": 61
+      },
+      {
+        "word": " are",
+        "start": 248.52,
+        "end": 248.82,
+        "source_id": 61
+      },
+      {
+        "word": " more",
+        "start": 248.82,
+        "end": 249.2,
+        "source_id": 61
+      },
+      {
+        "word": " worried",
+        "start": 249.2,
+        "end": 249.58,
+        "source_id": 61
+      },
+      {
+        "word": " now,",
+        "start": 249.58,
+        "end": 249.78,
+        "source_id": 61
+      },
+      {
+        "word": " younger",
+        "start": 249.92,
+        "end": 250.02,
+        "source_id": 61
+      },
+      {
+        "word": " people,",
+        "start": 250.02,
+        "end": 250.34,
+        "source_id": 61
+      },
+      {
+        "word": " about",
+        "start": 250.46,
+        "end": 250.66,
+        "source_id": 61
+      },
+      {
+        "word": " how",
+        "start": 250.66,
+        "end": 250.84,
+        "source_id": 61
+      },
+      {
+        "word": " other",
+        "start": 250.84,
+        "end": 251.12,
+        "source_id": 61
+      },
+      {
+        "word": " people",
+        "start": 251.12,
+        "end": 251.34,
+        "source_id": 61
+      },
+      {
+        "word": " are",
+        "start": 251.34,
+        "end": 251.52,
+        "source_id": 61
+      },
+      {
+        "word": " judging",
+        "start": 251.52,
+        "end": 251.74,
+        "source_id": 61
+      },
+      {
+        "word": " them.",
+        "start": 251.74,
+        "end": 251.96,
+        "source_id": 61
+      },
+      {
+        "word": " And",
+        "start": 252.38,
+        "end": 252.56,
+        "source_id": 62
+      },
+      {
+        "word": " so",
+        "start": 252.56,
+        "end": 252.8,
+        "source_id": 62
+      },
+      {
+        "word": " I",
+        "start": 252.8,
+        "end": 253.04,
+        "source_id": 62
+      },
+      {
+        "word": " wonder",
+        "start": 253.04,
+        "end": 253.46,
+        "source_id": 62
+      },
+      {
+        "word": " whether",
+        "start": 253.46,
+        "end": 253.72,
+        "source_id": 62
+      },
+      {
+        "word": " that",
+        "start": 253.72,
+        "end": 253.96,
+        "source_id": 62
+      },
+      {
+        "word": " might",
+        "start": 253.96,
+        "end": 254.16,
+        "source_id": 62
+      },
+      {
+        "word": " make",
+        "start": 254.16,
+        "end": 254.44,
+        "source_id": 62
+      },
+      {
+        "word": " people",
+        "start": 254.44,
+        "end": 254.76,
+        "source_id": 62
+      },
+      {
+        "word": " more",
+        "start": 254.76,
+        "end": 255.62,
+        "source_id": 62
+      },
+      {
+        "word": " shy",
+        "start": 255.62,
+        "end": 256.0,
+        "source_id": 62
+      },
+      {
+        "word": " of",
+        "start": 256.0,
+        "end": 256.26,
+        "source_id": 62
+      },
+      {
+        "word": " speaking",
+        "start": 256.26,
+        "end": 256.56,
+        "source_id": 62
+      },
+      {
+        "word": " to",
+        "start": 256.56,
+        "end": 256.8,
+        "source_id": 62
+      },
+      {
+        "word": " strangers,",
+        "start": 256.8,
+        "end": 257.2,
+        "source_id": 62
+      },
+      {
+        "word": " worried",
+        "start": 257.58,
+        "end": 257.9,
+        "source_id": 63
+      },
+      {
+        "word": " that",
+        "start": 257.9,
+        "end": 258.22,
+        "source_id": 63
+      },
+      {
+        "word": " the",
+        "start": 258.22,
+        "end": 258.38,
+        "source_id": 63
+      },
+      {
+        "word": " people",
+        "start": 258.38,
+        "end": 258.78,
+        "source_id": 63
+      },
+      {
+        "word": " will",
+        "start": 258.78,
+        "end": 259.08,
+        "source_id": 63
+      },
+      {
+        "word": " not",
+        "start": 259.08,
+        "end": 259.96,
+        "source_id": 63
+      },
+      {
+        "word": " appraise",
+        "start": 259.96,
+        "end": 260.58,
+        "source_id": 63
+      },
+      {
+        "word": " them",
+        "start": 260.58,
+        "end": 260.72,
+        "source_id": 63
+      },
+      {
+        "word": " in",
+        "start": 260.72,
+        "end": 260.86,
+        "source_id": 63
+      },
+      {
+        "word": " a",
+        "start": 260.86,
+        "end": 260.98,
+        "source_id": 63
+      },
+      {
+        "word": " good",
+        "start": 260.98,
+        "end": 261.1,
+        "source_id": 63
+      },
+      {
+        "word": " way.",
+        "start": 261.1,
+        "end": 261.46,
+        "source_id": 63
+      },
+      {
+        "word": " And",
+        "start": 262.0,
+        "end": 262.3,
+        "source_id": 64
+      },
+      {
+        "word": " so",
+        "start": 262.3,
+        "end": 262.78,
+        "source_id": 64
+      },
+      {
+        "word": " doing",
+        "start": 262.78,
+        "end": 263.48,
+        "source_id": 64
+      },
+      {
+        "word": " something",
+        "start": 263.48,
+        "end": 263.88,
+        "source_id": 64
+      },
+      {
+        "word": " like",
+        "start": 263.88,
+        "end": 264.18,
+        "source_id": 64
+      },
+      {
+        "word": " this",
+        "start": 264.18,
+        "end": 264.46,
+        "source_id": 64
+      },
+      {
+        "word": " to",
+        "start": 264.46,
+        "end": 264.62,
+        "source_id": 64
+      },
+      {
+        "word": " try",
+        "start": 264.62,
+        "end": 264.8,
+        "source_id": 64
+      },
+      {
+        "word": " to",
+        "start": 264.8,
+        "end": 264.92,
+        "source_id": 64
+      },
+      {
+        "word": " counter",
+        "start": 264.92,
+        "end": 265.44,
+        "source_id": 64
+      },
+      {
+        "word": " that",
+        "start": 265.44,
+        "end": 265.7,
+        "source_id": 64
+      },
+      {
+        "word": " might",
+        "start": 265.7,
+        "end": 265.92,
+        "source_id": 65
+      },
+      {
+        "word": " feel",
+        "start": 265.92,
+        "end": 266.18,
+        "source_id": 65
+      },
+      {
+        "word": " like",
+        "start": 266.18,
+        "end": 266.4,
+        "source_id": 65
+      },
+      {
+        "word": " a",
+        "start": 266.4,
+        "end": 266.56,
+        "source_id": 65
+      },
+      {
+        "word": " positive",
+        "start": 266.56,
+        "end": 267.12,
+        "source_id": 65
+      },
+      {
+        "word": " step",
+        "start": 267.12,
+        "end": 267.5,
+        "source_id": 65
+      },
+      {
+        "word": " to",
+        "start": 267.5,
+        "end": 267.64,
+        "source_id": 65
+      },
+      {
+        "word": " people",
+        "start": 267.64,
+        "end": 267.88,
+        "source_id": 65
+      },
+      {
+        "word": " that",
+        "start": 267.88,
+        "end": 268.04,
+        "source_id": 65
+      },
+      {
+        "word": " they're",
+        "start": 268.04,
+        "end": 268.18,
+        "source_id": 65
+      },
+      {
+        "word": " trying",
+        "start": 268.18,
+        "end": 268.34,
+        "source_id": 65
+      },
+      {
+        "word": " to",
+        "start": 268.34,
+        "end": 268.48,
+        "source_id": 65
+      },
+      {
+        "word": " do",
+        "start": 268.48,
+        "end": 268.64,
+        "source_id": 65
+      },
+      {
+        "word": " something.",
+        "start": 268.64,
+        "end": 268.84,
+        "source_id": 65
+      },
+      {
+        "word": " Also,",
+        "start": 269.12,
+        "end": 269.38,
+        "source_id": 66
+      },
+      {
+        "word": " they're",
+        "start": 269.44,
+        "end": 269.7,
+        "source_id": 66
+      },
+      {
+        "word": " fun",
+        "start": 269.7,
+        "end": 270.02,
+        "source_id": 66
+      },
+      {
+        "word": " to",
+        "start": 270.02,
+        "end": 270.2,
+        "source_id": 66
+      },
+      {
+        "word": " watch.",
+        "start": 270.2,
+        "end": 270.42,
+        "source_id": 66
+      }
+    ],
+    "target_index": 3,
+    "target": "What we do know is that there is an increase in perfectionism. People are more worried now, younger people, about how other people are judging them. And so, I wonder whether that might make people more shy of speaking to strangers – worried that the people will, you know, not appraise them in a good way, and so doing something like this to try to counter that might feel like a positive step to people, that they're trying to do something. Also, they're fun to watch.",
+    "match_score": 98.51
+  }
+]
