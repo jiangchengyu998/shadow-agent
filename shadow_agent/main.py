@@ -15,6 +15,7 @@ from shadow_agent.selector import (
     select_by_targets,
 )
 from shadow_agent.transcribe import save_transcript, transcribe_audio
+from shadow_agent.study_notes import DEFAULT_NOTES_MODEL, NOTES_NAME, generate_study_notes
 from shadow_agent.utils import create_output_dir, ensure_ffmpeg, validate_input_file
 
 
@@ -46,6 +47,14 @@ def parse_args() -> argparse.Namespace:
         default="small",
         help="faster-whisper model size. Defaults to small.",
     )
+    parser.add_argument(
+        "--notes-model", default=DEFAULT_NOTES_MODEL,
+        help="OpenAI model for translation, expressions, and pronunciation notes.",
+    )
+    parser.add_argument(
+        "--skip-study-notes", action="store_true",
+        help="Skip OpenAI study notes and process audio offline.",
+    )
     # Manual matching threshold (0-100); lower values accept more, potentially worse matches.
     parser.add_argument(
         "--min-score",
@@ -67,6 +76,9 @@ def run() -> Path:
         original_transcript = args.selected_segments.expanduser().parent / "transcript.json"
         if original_transcript.is_file():
             shutil.copyfile(original_transcript, output_dir / "transcript.json")
+        original_notes = args.selected_segments.expanduser().parent / NOTES_NAME
+        if not args.skip_study_notes and original_notes.is_file():
+            shutil.copyfile(original_notes, output_dir / NOTES_NAME)
         print("[2/4] Using edited timestamps (skipping selection)...")
     else:
         target_prefix = args.targets.stem if args.targets.is_file() else None
@@ -95,7 +107,17 @@ def run() -> Path:
     save_clip_records(clip_records, output_dir / "clips.json")
 
     print("[4/4] Building study pack...")
-    build_study_readme(selected_segments, clip_records, output_dir)
+    notes = None
+    if not args.skip_study_notes:
+        try:
+            notes = generate_study_notes(selected_segments, output_dir / NOTES_NAME, args.notes_model)
+        except Exception as exc:
+            raise RuntimeError(
+                f"{exc} Audio and JSON files are saved in {output_dir}. "
+                f'Resume with: python -m shadow_agent.study_notes "{output_dir}" '
+                f'--notes-model "{args.notes_model}"'
+            ) from exc
+    build_study_readme(selected_segments, clip_records, output_dir, notes)
     zip_path = build_zip(output_dir, output_dir / "shadow_pack.zip")
 
     print(f"Done: {zip_path}")

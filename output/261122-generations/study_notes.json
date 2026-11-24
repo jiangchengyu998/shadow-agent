@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "text": "It was after my wife died last year. It seemed I had a big, big hole to fill and the people down in nursery, they'd phone me up and say, we're doing such and such a thing. Why don't you come and join us? And that's what I've been doing. So, yes, and I've enjoyed it. And I find it very interesting to see how they develop.",
+    "model": "gpt-4.1",
+    "translation": "那是在我妻子去年去世之后。我感觉自己有一个很大的空缺需要填补，幼儿园的人会打电话给我，说‘我们要做某件事情，你为什么不来加入我们呢？’这就是我一直在做的事。所以，是的，而且我很享受这种生活。我发现观察他们的发展过程非常有趣。",
+    "key_expressions": [
+      "a big, big hole to fill：需要填补的巨大空缺或失落 形容因为某人离去或者失去后，内心或者生活中感到很大的空虚感，需要通过某种方式去弥补。 例句：After his friend moved away, he felt a big, big hole to fill in his daily routine.",
+      "Why don't you come and join us?：你为什么不来加入我们呢？ 邀请对方参加某项活动的礼貌表达方式。 例句：We're going for a walk later. Why don't you come and join us?",
+      "I've enjoyed it：我很享受这件事 表达自己对某件事感到愉快或满意。 例句：I've enjoyed it every time we've had a team meeting."
+    ],
+    "pronunciation_notes": [
+      "练习思路分组时，可以按照这样分句：It was after my wife died last year // It seemed I had a big, big hole to fill // and the people down in nursery, they'd phone me up and say // we're doing such and such a thing // Why don't you come and join us? // And that's what I've been doing // So, yes, and I've enjoyed it // And I find it very interesting to see how they develop.",
+      "在重读上，注意强调内容词比如：BIG, BIG HOLE, NURSERY, PHONE, ENJOYED, INTERESTING, DEVELOP, 感受句子律动，这样让表达更清晰。",
+      "'and' 等功能词在快速口语中可以轻读，近似于 /ənd/ 或 /n/，比如 in 'and the people down in nursery' 和 'and I've enjoyed it'，可以试着弱读“and”，让句子更自然地连贯。"
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Your first thought would be how lively and energetic young children can be. And what we found is so can older people. And so sometimes, you know, it's the older people that we're saying, can we just calm this down a little bit?",
+    "model": "gpt-4.1",
+    "translation": "你最初的想法可能会是年轻的孩子有多么活泼和有活力。而我们发现老年人也是如此。所以有时候，实际上是我们在对老年人说，能不能让这安静一点？",
+    "key_expressions": [
+      "your first thought would be：你的第一个想法会是 用来引入读者或听者在某个情境下可能产生的直观反应。 例句：Your first thought would be that it's impossible.",
+      "so can older people：老年人也是如此 用倒装结构表示“也能……”，强调前面提到的特点同样适用于另一类人。 例句：He can sing well, and so can his brother.",
+      "calm this down a little bit：让这件事安静一点、冷静一些 用于请求让某个情境或情绪稍微平静下来。 例句：Can we calm this down a little bit before discussing further?"
+    ],
+    "pronunciation_notes": [
+      "建议按思维群分段朗读：Your FIRST thought would be / how LIVELY and energetic young children can be. / And what we FOUND is / so can OLDER people. / And so SOMEtimes, you know, / it's the OLDER people that we're saying, / can we just CALM this DOWN a little bit?",
+      "在内容词上加重读，如：FIRST, LIVELY, ENERGETIC, FOUND, OLDER, CALM, DOWN。",
+      "可以让and 和 can 变为弱读，and 读成 /ən/ 或 /n/，can 读成 /kən/，使整体语流更自然。"
+    ]
+  }
+]

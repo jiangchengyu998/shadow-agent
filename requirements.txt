@@ -1,4 +1,5 @@
 faster-whisper
 pydub
 rapidfuzz
+openai>=1.68.0
 
