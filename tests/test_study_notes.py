@@ -8,8 +8,10 @@ from unittest.mock import MagicMock, patch
 
 from shadow_agent.packer import README_NAME, build_study_readme
 from shadow_agent.study_notes import (
+    MAX_NOTE_ATTEMPTS,
     NOTES_NAME,
     enrich_study_pack,
+    expression_in_text,
     generate_study_notes,
     load_study_notes,
     request_note,
@@ -113,6 +115,52 @@ class StudyNotesTests(unittest.TestCase):
 
 
 class ResponseTests(unittest.TestCase):
+    def test_formatting_variants_match_without_accepting_changed_words(self):
+        matches = [
+            ("go-to solution", "the first go -to solution for heat"),
+            ("go to solution", "the first go–to solution for heat"),
+            ("you're not alone", "You’re not alone."),
+            ("weʼre going", "We're going to face it."),
+            ("air conditioning", "AIR\n  CONDITIONING helps."),
+            ("café", "A café nearby."),
+        ]
+        for expression, text in matches:
+            with self.subTest(expression=expression, text=text):
+                self.assertTrue(expression_in_text(expression, text))
+        for expression in ("on", "dit", "", "...", "air cools", "be detrimental"):
+            with self.subTest(expression=expression):
+                self.assertFalse(expression_in_text(expression, "Air conditioning is detrimental."))
+
+    def test_aircon_hyphen_spacing_renders_without_retry(self):
+        data = {**CONTENT, "key_expressions": [{
+            "expression": "go-to solution", "meaning": "首选方案",
+            "usage": "表示优先采用的办法。", "example": "This is my go-to solution.",
+        }]}
+        client = MagicMock()
+        client.responses.create.return_value = SimpleNamespace(
+            status="completed", output_text=json.dumps(data)
+        )
+        result = request_note(client, "Air conditioning is the first go -to solution.", "test-model")
+        self.assertIn("go-to solution", result["key_expressions"][0])
+        self.assertEqual(client.responses.create.call_count, 1)
+
+    def test_invalid_expression_is_corrected_using_validation_feedback(self):
+        expression = {"expression": "depend on", "meaning": "取决于", "usage": "说明决定因素。",
+                      "example": "It depends on the weather."}
+        invalid = {**CONTENT, "key_expressions": [expression]}
+        valid = {**CONTENT, "key_expressions": [{**expression, "expression": "depends on"}]}
+        client = MagicMock()
+        client.responses.create.side_effect = [
+            SimpleNamespace(status="completed", output_text=json.dumps(invalid)),
+            SimpleNamespace(status="completed", output_text=json.dumps(valid)),
+        ]
+        result = request_note(client, TEXT, "test-model")
+        self.assertIn("depends on", result["key_expressions"][0])
+        self.assertEqual(client.responses.create.call_count, 2)
+        feedback = client.responses.create.call_args.kwargs["input"][-1]["content"]
+        self.assertIn("depend on", feedback)
+        self.assertIn("verb forms", feedback)
+
     def test_expression_fields_render_with_meaning_usage_and_example(self):
         data = {**CONTENT, "key_expressions": [{
             "expression": "depends on", "meaning": "取决于",
@@ -138,6 +186,7 @@ class ResponseTests(unittest.TestCase):
         )
         with self.assertRaisesRegex(RuntimeError, "invalid study notes"):
             request_note(client, TEXT, "test-model")
+        self.assertEqual(client.responses.create.call_count, MAX_NOTE_ATTEMPTS)
 
     def test_refused_incomplete_and_empty_responses_are_not_accepted(self):
         for status, text in (("completed", ""), ("incomplete", "{}")):
@@ -146,6 +195,7 @@ class ResponseTests(unittest.TestCase):
                 client.responses.create.return_value = SimpleNamespace(status=status, output_text=text)
                 with self.assertRaisesRegex(RuntimeError, "no complete study notes"):
                     request_note(client, TEXT, "test-model")
+                self.assertEqual(client.responses.create.call_count, 1)
 
     def test_malformed_or_empty_fields_are_not_accepted(self):
         for data in ("not json", "[]", json.dumps({**CONTENT, "translation": ""})):

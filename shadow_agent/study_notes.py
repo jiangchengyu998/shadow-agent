@@ -3,7 +3,9 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import sys
+import unicodedata
 from contextlib import ExitStack
 from pathlib import Path
 from typing import Any, TypedDict
@@ -13,6 +15,7 @@ from shadow_agent.transcribe import TranscriptSegment
 
 DEFAULT_NOTES_MODEL = "gpt-4.1"
 NOTES_NAME = "study_notes.json"
+MAX_NOTE_ATTEMPTS = 3
 
 
 class StudyNote(TypedDict):
@@ -30,8 +33,10 @@ Translate the entire sentence into natural Simplified Chinese without adding fac
 Choose 2-4 useful expressions appearing in the sentence (fewer for short sentences).
 Prefer reusable idioms, phrasal verbs, invitations, and distinctive grammar patterns
 over generic fragments such as 'can be'. Explain expressions in this context.
-For each expression, fill expression (an exact phrase from the source), meaning
+For each expression, fill expression (a contiguous phrase copied from the source), meaning
 (Simplified Chinese), usage (Simplified Chinese), and example (natural English).
+Preserve the source's words and contractions; do not replace them with dictionary
+forms or paraphrases. Typography such as hyphen spacing may be normalized.
 Give three specific pronunciation practice tips in Chinese, quoting the relevant
 English words: one on thought groups, one on content-word stress, and one on
 optional weak forms of common function words such as and, to, a, the, or of.
@@ -83,20 +88,38 @@ def format_response(data: Any, text: str) -> dict[str, Any]:
     if not isinstance(data, dict) or not isinstance(data.get("key_expressions"), list):
         raise ValueError("Missing expression explanations.")
     expressions = []
-    for item in data["key_expressions"]:
+    for index, item in enumerate(data["key_expressions"], start=1):
         if not isinstance(item, dict) or any(
             not isinstance(item.get(field), str) or not item[field].strip()
             for field in ("expression", "meaning", "usage", "example")
         ):
             raise ValueError("Each expression requires meaning, usage, and an example.")
-        if item["expression"].casefold() not in text.casefold():
-            raise ValueError("Expressions must appear in the original sentence.")
+        if not expression_in_text(item["expression"], text):
+            raise ValueError(
+                f"Expression #{index} {item['expression']!r} must copy consecutive words "
+                "from the original sentence, without paraphrasing or changing verb forms."
+            )
         expressions.append(
             f"{item['expression']}：{item['meaning']} {item['usage']} 例句：{item['example']}"
         )
     result = {**data, "key_expressions": expressions}
     validate_content(result)
     return result
+
+
+def expression_in_text(expression: str, text: str) -> bool:
+    def words(value: str) -> list[str]:
+        value = unicodedata.normalize("NFKC", value).casefold()
+        value = value.translate(str.maketrans({"’": "'", "‘": "'", "ʼ": "'"}))
+        # Ignore punctuation and hyphen spacing while preserving word boundaries
+        # and contractions: "go -to" matches "go-to", but "on" not "conditioning".
+        return re.findall(r"\w+(?:'\w+)*", value)
+
+    phrase_words, source_words = words(expression), words(text)
+    return bool(phrase_words) and any(
+        source_words[start:start + len(phrase_words)] == phrase_words
+        for start in range(len(source_words) - len(phrase_words) + 1)
+    )
 
 
 def load_study_notes(path: Path) -> list[StudyNote]:
@@ -137,34 +160,47 @@ def create_client() -> Any:
 def request_note(client: Any, text: str, model: str) -> dict[str, Any]:
     from openai import APIConnectionError, APIStatusError
 
-    try:
-        response = client.responses.create(
-            model=model,
-            instructions=INSTRUCTIONS,
-            input=json.dumps({"sentence": text}, ensure_ascii=False),
-            text={"format": {
-                "type": "json_schema", "name": "shadowing_notes",
-                "strict": True, "schema": CONTENT_SCHEMA,
-            }},
-            max_output_tokens=2000,
-            store=False,
-        )
-    except APIConnectionError:
-        raise RuntimeError("Could not connect to OpenAI. Check your network and retry.") from None
-    except APIStatusError as exc:
-        # SDK error bodies may contain credentials; report only the HTTP status.
-        raise RuntimeError(
-            f"OpenAI request failed (HTTP {exc.status_code}). "
-            "Check API credentials, billing, and model access, then retry."
-        ) from None
+    messages = [{"role": "user", "content": json.dumps({"sentence": text}, ensure_ascii=False)}]
+    for attempt in range(1, MAX_NOTE_ATTEMPTS + 1):
+        try:
+            response = client.responses.create(
+                model=model,
+                instructions=INSTRUCTIONS,
+                input=messages,
+                text={"format": {
+                    "type": "json_schema", "name": "shadowing_notes",
+                    "strict": True, "schema": CONTENT_SCHEMA,
+                }},
+                max_output_tokens=2000,
+                store=False,
+            )
+        except APIConnectionError:
+            raise RuntimeError("Could not connect to OpenAI. Check your network and retry.") from None
+        except APIStatusError as exc:
+            # SDK error bodies may contain credentials; report only the HTTP status.
+            raise RuntimeError(
+                f"OpenAI request failed (HTTP {exc.status_code}). "
+                "Check API credentials, billing, and model access, then retry."
+            ) from None
 
-    if response.status != "completed" or not response.output_text:
-        raise RuntimeError("OpenAI returned no complete study notes (refused or incomplete response).")
-    try:
-        data = format_response(json.loads(response.output_text), text)
-    except (ValueError, TypeError):
-        raise RuntimeError("OpenAI returned invalid study notes. Retry to generate this sentence again.") from None
-    return data
+        if response.status != "completed" or not response.output_text:
+            raise RuntimeError("OpenAI returned no complete study notes (refused or incomplete response).")
+        try:
+            return format_response(json.loads(response.output_text), text)
+        except (ValueError, TypeError) as exc:
+            if attempt == MAX_NOTE_ATTEMPTS:
+                raise RuntimeError(
+                    f"OpenAI returned invalid study notes after {attempt} attempts: {exc}"
+                ) from None
+            print(f"  Study note validation failed: {exc} Retrying ({attempt + 1}/{MAX_NOTE_ATTEMPTS})...")
+            messages.extend([
+                {"role": "assistant", "content": response.output_text},
+                {"role": "user", "content": (
+                    f"Validation failed: {exc} Return the complete corrected study notes. "
+                    "Copy expressions from the original sentence, including its verb forms."
+                )},
+            ])
+    raise RuntimeError("Study note attempts exhausted.")
 
 
 def generate_study_notes(
@@ -186,7 +222,10 @@ def generate_study_notes(
                 if client is None:
                     client = stack.enter_context(create_client())
                 print(f"  Notes {index}/{len(segments)}: generating...")
-                content = request_note(client, text, model)
+                try:
+                    content = request_note(client, text, model)
+                except RuntimeError as exc:
+                    raise RuntimeError(f"Sentence {index}/{len(segments)} (id={segment['id']}): {exc}") from exc
                 note = StudyNote(
                     id=int(segment["id"]), text=text, model=model,
                     translation=content["translation"],

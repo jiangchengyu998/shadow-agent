@@ -1,5 +1,7 @@
 # Shadowing 学习说明
 
+发音提示是基于文本的练习建议，请结合原音频模仿实际重音、停顿和语调。
+
 这个学习包用于英语跟读练习。建议每个句子按以下节奏练习：先听原速，再看文本跟读，再听 0.8x 慢速，最后脱稿复述。
 
 ## 01. No, I had one of those big fans which didn't always do its job. But there is a really serious side to this. Heat records continue to be broken around the world. You may be feeling that summers are getting too hot. Have you been using air conditioning more to cope? If so, you're not alone. Experts are predicting that 10 new air conditioning units will be installed every second for the next 30 years. Today on 6 Minute English we're talking about this and whether air conditioning really is the best way to cope with a warming world.
@@ -7,9 +9,15 @@
 - Time: 00:26.10 - 00:57.36
 - Audio: `clips/01_no_i_had_one_of_those.mp3`
 - Slow audio: `clips_0.8x/01_no_i_had_one_of_those_0.8x.mp3`
-- 中文翻译：TODO
-- Key expressions: TODO
-- Pronunciation notes: TODO
+- 中文翻译：不，我以前用过那种大风扇，但它并不总是管用。不过，这个问题其实非常严重。全球各地不断刷新高温纪录。你可能觉得夏天越来越热了。你是不是用空调的次数增多来应对酷热？如果是这样，你并不孤单。专家预计，未来三十年内每秒钟会安装十台新的空调。今天在《6分钟英语》中，我们要讨论这个话题，以及空调是否真的是应对全球变暖的最佳办法。
+- Key expressions:
+  - didn't always do its job：并不总是起作用（不总是达到预期效果） 可以用来形容某个物品、工具或人没有发挥应有的作用。 例句：The new software didn’t always do its job and sometimes crashed unexpectedly.
+  - a really serious side to this：这个问题有非常严重的一面 用来强调某事物除了表面以外，还存在一个必须重视的严肃方面。 例句：While some think it’s funny, there is a really serious side to this prank.
+  - you're not alone：你并不孤单（许多人有同样的感受或行为） 用来安慰或鼓励对方，表示他们的经历很常见。 例句：If you’ve ever felt nervous before a presentation, you’re not alone.
+- Pronunciation notes:
+  - 可以将句子分为如下思路组训练节奏感：No, I had one of those big fans / which didn't always do its job. / But there is a really serious side to this. / Heat records continue to be broken around the world. / You may be feeling that SUMMERS are GETTING too HOT. / Have you been USING air conditioning MORE to COPE? / If SO, you're not ALONE. / Experts are predicting that 10 new air conditioning units / will be INSTALLED every SECOND for the next 30 YEARS. / Today on 6 Minute English we're talking about THIS / and whether air conditioning REALLY is the BEST way to COPE with a warming WORLD.
+  - 注意强调内容词，如：SUMMERS, GETTING too HOT, USING, COPE, ALONE, INSTALLED, SECOND, YEARS, REALLY, BEST, WORLD。让这些词比“a, the, of, and, is”等虚词更突出。
+  - 像and, or, of, the, to这些功能词在句子中通常读得很弱。例如在‘the next 30 years’中‘the’可以轻轻带过，不需强调。
 - Shadowing tips: Listen once, repeat three times, then record yourself once.
 
 ## 02. When air conditioning becomes the first go -to solution for how we deal with the increased prolonged and extreme heat that we're going to face and are facing, it places stresses across the system that is not able to be met. So, you know, we're going to see the grid collapse. We're going to see emissions rise. We're going to see all kinds of other impacts that actually are quite detrimental. And we reach a vicious cycle because then you're in a world where it's getting warmer, we're using air conditioning to be able to protect ourselves. That's leading to more emissions and more energy use that is then making the world warmer and then we need more air conditioning.
@@ -17,9 +25,15 @@
 - Time: 02:44.30 - 03:23.46
 - Audio: `clips/02_when_air_conditioning_becomes_the_first.mp3`
 - Slow audio: `clips_0.8x/02_when_air_conditioning_becomes_the_first_0.8x.mp3`
-- 中文翻译：TODO
-- Key expressions: TODO
-- Pronunciation notes: TODO
+- 中文翻译：当空调成为我们应对未来和现在持续、高温极端天气首选的解决方案时，这会对整个系统造成无法承受的压力。所以，你知道，我们会看到电网崩溃，我们会看到排放上升，还会出现各种非常有害的其他影响。我们就陷入了一个恶性循环，因为气温越来越高，我们依靠空调来自我保护，而这又导致更多的排放和能耗，让世界更暖和，进而需要更多空调。
+- Key expressions:
+  - go-to solution：首选的解决方案 形容遇到问题时人们首先想到或最常用的方法。 例句：Meditation is his go-to solution for stress.
+  - places stresses across the system：对整个系统造成压力 描述某些行为或事件对一个系统或组织产生了很大的负担。 例句：Rapid expansion places stresses across the system.
+  - vicious cycle：恶性循环 指一个负面事件不断反复地自我加剧，越来越严重。 例句：Poverty and poor education can create a vicious cycle.
+- Pronunciation notes:
+  - 可以按照这样来划分思路群：When air conditioning becomes the first go-to solution / for how we deal with the increased prolonged and extreme heat that we're going to face and are facing, / it places stresses across the system that is not able to be met. // So, you know, / we're going to see the grid collapse. / We're going to see emissions rise. / We're going to see all kinds of other impacts / that actually are quite detrimental. // And we reach a vicious cycle / because then you're in a world / where it's getting warmer, / we're using air conditioning to be able to protect ourselves. // That's leading to more emissions and more energy use / that is then making the world warmer / and then we need more air conditioning.
+  - 练习时要在关键词如“FIRST go-to solution”, “INCREASED prolonged and EXTREME heat”, “GRID collapse”上加重语气，用重音突出主要内容词。
+  - 可以练习将“we're”, “to”, “and”, “that's”, “is”这些小词在自然语流中弱读，例如“we're”可以更轻微地发音为“wer”，而“and”可以像/ən/一样轻化，以提升地道节奏。
 - Shadowing tips: Listen once, repeat three times, then record yourself once.
 
 ## 03. So one of the most important things is to do passive cooling first. Now passive cooling is when we take steps to provide thermal comfort that are not energy intensive. Some of the most important ones are first to cut solar gain, which is through things like shading.
@@ -27,7 +41,13 @@
 - Time: 04:20.52 - 04:39.36
 - Audio: `clips/03_so_one_of_the_most_important.mp3`
 - Slow audio: `clips_0.8x/03_so_one_of_the_most_important_0.8x.mp3`
-- 中文翻译：TODO
-- Key expressions: TODO
-- Pronunciation notes: TODO
+- 中文翻译：所以最重要的事情之一是先进行被动降温。被动降温指的是我们采取一些并不耗费大量能量的方法来提供热舒适性。其中最重要的方法之一首先是减少太阳热量的输入，比如通过遮阳等方式。
+- Key expressions:
+  - passive cooling：被动降温 指不用太多能源就能降温的方法。常用于建筑、环保等场合。 例句：Passive cooling helps reduce energy bills.
+  - thermal comfort：热舒适性 指人在一定环境温度下感觉舒适。多用于建筑和环境控制领域。 例句：Good insulation improves thermal comfort inside the house.
+  - cut solar gain：减少太阳热量输入 指阻止阳光直接加热室内的一种方式，常用于节能。 例句：Planting trees near windows can help cut solar gain.
+- Pronunciation notes:
+  - 可将句子分为思维组，如：So one of the most important things / is to do passive cooling first. // Now passive cooling is / when we take steps to provide thermal comfort / that are not energy intensive. // Some of the most important ones / are first to cut solar gain, / which is through things like shading.
+  - 在内容词上加重读音，如：MOST important THINGS, PASSIVE cooling, THERMAL comfort, CUT solar GAIN, SHADING。
+  - 练习弱读“to”和“are”在句中的用法，如“is TO do passive cooling first”和“are first TO cut solar gain”，读快时可以弱读为/tə/。
 - Shadowing tips: Listen once, repeat three times, then record yourself once.
